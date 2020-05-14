@@ -14,10 +14,14 @@ Data :
 
 * Clean Data (drop NAN, organize lists, convert strings to ints, etc.)
 
-* Check data quality/integritry. Is our data normal? (Histogram, boxplot)
-
 * Create dataframe from cleaned data
+
+Visualizations :
+
+* Check data quality/integritry. Is our data normal? (Histogram, boxplot)
 
 * Visualize data to find any interesting trends (box office v. year; box office v. rating; box office v. year released; metascore v. year released)
 
-* Machine Learning TBD
+Machine Learning :
+
+* TBD
