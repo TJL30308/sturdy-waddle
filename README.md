@@ -6,7 +6,7 @@ Machine learning ... movie analysis
 
 Data : 
 
-* Utilize IMDB list of movies released in the last decade https://www.imdb.com/search/title/?title_type=feature&release_date=2010-01-01,2019-12-31&view=simple&sort=num_votes,desc&start={start}&ref_=adv_nxt
+* Utilize IMDB list of movies released in the last decade https://www.imdb.com/search/title/?title_type=feature&release_date=2010-01-01,2019-12-31&view=simple&sort=num_votes,desc&start=1&ref_=adv_nxt
 
 * Perform web scrape to pull first 1,000 movie titles 
 
