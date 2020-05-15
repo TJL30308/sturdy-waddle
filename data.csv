@@ -1,1001 +1,1001 @@
 ,IMDB ID,Title,Director,Actor,Year,Box Office,Rating,IMDB Rating,IMDB Votes,Metascore
-0,tt1375666,Inception,Christopher Nolan,Leonardo DiCaprio,2010,"$292,568,851",PG-13,8.8,"1,953,512",74
-1,tt1345836,The Dark Knight Rises,Christopher Nolan,Christian Bale,2012,"$448,130,642",PG-13,8.4,"1,454,342",78
-2,tt0816692,Interstellar,Christopher Nolan,Ellen Burstyn,2014,"$158,737,441",PG-13,8.6,"1,395,990",74
-3,tt1853728,Django Unchained,Quentin Tarantino,Jamie Foxx,2012,"$162,804,648",R,8.4,"1,282,957",81
-4,tt0848228,The Avengers,Joss Whedon,Robert Downey Jr.,2012,"$623,279,547",PG-13,8.0,"1,225,316",69
-5,tt0993846,The Wolf of Wall Street,Martin Scorsese,Leonardo DiCaprio,2013,"$91,330,760",R,8.2,"1,107,316",75
-6,tt1130884,Shutter Island,Martin Scorsese,Leonardo DiCaprio,2010,"$125,001,000",R,8.1,"1,071,216",63
-7,tt2015381,Guardians of the Galaxy,James Gunn,Chris Pratt,2014,"$270,592,504",PG-13,8.0,"1,007,917",76
-8,tt1431045,Deadpool,Tim Miller,Ryan Reynolds,2016,"$328,674,489",R,8.0,"865,426",65
-9,tt1392190,Mad Max: Fury Road,George Miller,Tom Hardy,2015,"$129,483,877",R,8.1,"836,341",90
-10,tt2488496,Star Wars: Episode VII - The Force Awakens,J.J. Abrams,Harrison Ford,2015,"$936,658,640",PG-13,7.9,"833,706",80
-11,tt1392170,The Hunger Games,Gary Ross,Stanley Tucci,2012,"$407,981,652",PG-13,7.2,"818,687",68
-12,tt2267998,Gone Girl,David Fincher,Ben Affleck,2014,N/A,R,8.1,"810,958",79
-13,tt7286456,Joker,Todd Phillips,Joaquin Phoenix,2019,N/A,R,8.5,"748,514",59
-14,tt4154756,Avengers: Infinity War,Anthony Russo,Robert Downey Jr.,2018,"$664,987,816",PG-13,8.5,"766,327",68
-15,tt1454468,Gravity,Alfonso Cuarón,Sandra Bullock,2013,"$274,084,951",PG-13,7.7,"746,227",96
-16,tt0903624,The Hobbit: An Unexpected Journey,Peter Jackson,Ian McKellen,2012,"$303,001,229",PG-13,7.8,"739,319",58
-17,tt1201607,Harry Potter and the Deathly Hallows: Part 2,David Yates,Ralph Fiennes,2011,"$381,000,185",PG-13,8.1,"730,224",85
+0,tt1375666,Inception,Christopher Nolan,Leonardo DiCaprio,2010,292568851,PG13,8.8,1953512,74
+1,tt1345836,The Dark Knight Rises,Christopher Nolan,Christian Bale,2012,448130642,PG13,8.4,1454342,78
+2,tt0816692,Interstellar,Christopher Nolan,Ellen Burstyn,2014,158737441,PG13,8.6,1413039,74
+3,tt1853728,Django Unchained,Quentin Tarantino,Jamie Foxx,2012,162804648,R,8.4,1282957,81
+4,tt0848228,The Avengers,Joss Whedon,Robert Downey Jr.,2012,623279547,PG13,8.0,1225316,69
+5,tt0993846,The Wolf of Wall Street,Martin Scorsese,Leonardo DiCaprio,2013,91330760,R,8.2,1107316,75
+6,tt1130884,Shutter Island,Martin Scorsese,Leonardo DiCaprio,2010,125001000,R,8.1,1071216,63
+7,tt2015381,Guardians of the Galaxy,James Gunn,Chris Pratt,2014,270592504,PG13,8.0,1007917,76
+8,tt1431045,Deadpool,Tim Miller,Ryan Reynolds,2016,328674489,R,8.0,870878,65
+9,tt1392190,Mad Max: Fury Road,George Miller,Tom Hardy,2015,129483877,R,8.1,836341,90
+10,tt2488496,Star Wars: Episode VII - The Force Awakens,J.J. Abrams,Harrison Ford,2015,936658640,PG13,7.9,833706,80
+11,tt1392170,The Hunger Games,Gary Ross,Stanley Tucci,2012,407981652,PG13,7.2,818687,68
+12,tt2267998,Gone Girl,David Fincher,Ben Affleck,2014,NA,R,8.1,810958,79
+13,tt7286456,Joker,Todd Phillips,Joaquin Phoenix,2019,NA,R,8.5,784475,59
+14,tt4154756,Avengers: Infinity War,Anthony Russo,Robert Downey Jr.,2018,664987816,PG13,8.5,766327,68
+15,tt1454468,Gravity,Alfonso Cuarón,Sandra Bullock,2013,274084951,PG13,7.7,746227,96
+16,tt0903624,The Hobbit: An Unexpected Journey,Peter Jackson,Ian McKellen,2012,303001229,PG13,7.8,739319,58
+17,tt1201607,Harry Potter and the Deathly Hallows: Part 2,David Yates,Ralph Fiennes,2011,381000185,PG13,8.1,730224,85
 18,NA,Iron Man Three,NA,NA,NA,NA,NA,NA,NA,NA
-19,tt0435761,Toy Story 3,Lee Unkrich,Tom Hanks,2010,"$414,984,497",G,8.3,"729,086",92
-20,tt3659388,The Martian,Ridley Scott,Matt Damon,2015,"$202,313,768",PG-13,8.0,"723,614",80
-21,tt1675434,The Intouchables,Olivier Nakache,François Cluzet,2011,"$13,179,837",R,8.5,"715,838",57
-22,tt0800369,Thor,Kenneth Branagh,Chris Hemsworth,2011,"$181,015,141",PG-13,7.0,"717,145",57
-23,tt4154796,Avengers: Endgame,Anthony Russo,Robert Downey Jr.,2019,N/A,PG-13,8.4,"694,527",78
-24,tt0458339,Captain America: The First Avenger,Joe Johnston,Chris Evans,2011,N/A,PG-13,6.9,"711,603",66
-25,tt2395427,Avengers: Age of Ultron,Joss Whedon,Robert Downey Jr.,2015,"$429,113,729",PG-13,7.3,"711,205",66
-26,tt1843866,Captain America: The Winter Soldier,Anthony Russo,Chris Evans,2014,"$228,636,083",PG-13,7.7,"706,555",70
-27,tt1228705,Iron Man 2,Jon Favreau,Robert Downey Jr.,2010,"$312,057,433",PG-13,7.0,"693,517",57
-28,tt0947798,Black Swan,Darren Aronofsky,Natalie Portman,2010,"$106,952,327",R,8.0,"675,757",79
-29,tt2278388,The Grand Budapest Hotel,Wes Anderson,Ralph Fiennes,2014,"$56,939,515",R,8.1,"673,301",88
-30,tt2582802,Whiplash,Damien Chazelle,Miles Teller,2014,N/A,R,8.5,"670,676",88
-31,tt1663202,The Revenant,Alejandro G. Iñárritu,Leonardo DiCaprio,2015,N/A,R,8.0,"669,193",76
-32,tt0770828,Man of Steel,Zack Snyder,Henry Cavill,2013,"$291,021,565",PG-13,7.0,"671,513",55
-33,tt2084970,The Imitation Game,Morten Tyldum,Benedict Cumberbatch,2014,N/A,PG-13,8.0,"653,217",73
-34,tt1877832,X-Men: Days of Future Past,Bryan Singer,Hugh Jackman,2014,"$199,305,306",PG-13,8.0,"643,180",75
-35,tt1045658,Silver Linings Playbook,David O. Russell,Bradley Cooper,2012,"$132,088,910",R,7.7,"641,736",81
-36,tt0892769,How to Train Your Dragon,Dean DeBlois,Jay Baruchel,2010,"$216,900,000",PG,8.1,"641,989",75
-37,tt3498820,Captain America: Civil War,Anthony Russo,Chris Evans,2016,"$408,080,554",PG-13,7.8,"628,016",75
+19,tt0435761,Toy Story 3,Lee Unkrich,Tom Hanks,2010,414984497,G,8.3,729086,92
+20,tt3659388,The Martian,Ridley Scott,Matt Damon,2015,202313768,PG13,8.0,723614,80
+21,tt1675434,The Intouchables,Olivier Nakache,François Cluzet,2011,13179837,R,8.5,725135,57
+22,tt0800369,Thor,Kenneth Branagh,Chris Hemsworth,2011,181015141,PG13,7.0,717145,57
+23,tt4154796,Avengers: Endgame,Anthony Russo,Robert Downey Jr.,2019,NA,PG13,8.4,694527,78
+24,tt0458339,Captain America: The First Avenger,Joe Johnston,Chris Evans,2011,NA,PG13,6.9,711603,66
+25,tt2395427,Avengers: Age of Ultron,Joss Whedon,Robert Downey Jr.,2015,429113729,PG13,7.3,711205,66
+26,tt1843866,Captain America: The Winter Soldier,Anthony Russo,Chris Evans,2014,228636083,PG13,7.7,706555,70
+27,tt1228705,Iron Man 2,Jon Favreau,Robert Downey Jr.,2010,312057433,PG13,7.0,693517,57
+28,tt0947798,Black Swan,Darren Aronofsky,Natalie Portman,2010,106952327,R,8.0,675757,79
+29,tt2278388,The Grand Budapest Hotel,Wes Anderson,Ralph Fiennes,2014,56939515,R,8.1,673301,88
+30,tt2582802,Whiplash,Damien Chazelle,Miles Teller,2014,NA,R,8.5,670676,88
+31,tt1663202,The Revenant,Alejandro G. Iñárritu,Leonardo DiCaprio,2015,NA,R,8.0,669193,76
+32,tt0770828,Man of Steel,Zack Snyder,Henry Cavill,2013,291021565,PG13,7.0,671513,55
+33,tt2084970,The Imitation Game,Morten Tyldum,Benedict Cumberbatch,2014,NA,PG13,8.0,653217,73
+34,tt1877832,X-Men: Days of Future Past,Bryan Singer,Hugh Jackman,2014,199305306,PG13,8.0,643180,75
+35,tt1045658,Silver Linings Playbook,David O. Russell,Bradley Cooper,2012,132088910,R,7.7,641736,81
+36,tt0892769,How to Train Your Dragon,Dean DeBlois,Jay Baruchel,2010,216900000,PG,8.1,641989,75
+37,tt3498820,Captain America: Civil War,Anthony Russo,Chris Evans,2016,408080554,PG13,7.8,628016,75
 38,NA,X: First Class,NA,NA,NA,NA,NA,NA,NA,NA
-39,tt1504320,The King's Speech,Tom Hooper,Colin Firth,2010,"$138,300,000",R,8.0,"620,382",88
-40,tt1074638,Skyfall,Sam Mendes,Daniel Craig,2012,"$299,300,000",PG-13,7.7,"613,182",81
-41,tt3315342,Logan,James Mangold,Hugh Jackman,2017,N/A,R,8.1,"610,395",77
-42,tt2024544,12 Years a Slave,Steve McQueen,Chiwetel Ejiofor,2013,"$50,628,650",R,8.1,"608,510",96
-43,tt2975590,Batman v Superman: Dawn of Justice,Zack Snyder,Ben Affleck,2016,N/A,PG-13,6.5,"601,361",44
-44,tt1285016,The Social Network,David Fincher,Jesse Eisenberg,2010,"$96,400,000",PG-13,7.7,"595,251",95
-45,tt1951264,The Hunger Games: Catching Fire,Francis Lawrence,Jennifer Lawrence,2013,"$336,663,349",PG-13,7.5,"594,275",76
-46,tt1170358,The Hobbit: The Desolation of Smaug,Peter Jackson,Ian McKellen,2013,"$180,443,783",PG-13,7.8,"584,249",66
-47,tt0816711,World War Z,Marc Forster,Brad Pitt,2013,"$202,351,611",PG-13,7.0,"579,584",63
-48,tt2096673,Inside Out,Pete Docter,Amy Poehler,2015,"$264,317,903",PG,8.2,"577,209",94
-49,tt1825683,Black Panther,Ryan Coogler,Chadwick Boseman,2018,N/A,PG-13,7.3,"579,293",88
-50,tt1670345,Now You See Me,Louis Leterrier,Jesse Eisenberg,2013,"$117,698,894",PG-13,7.3,"575,712",50
-51,tt1386697,Suicide Squad,David Ayer,Will Smith,2016,"$325,021,779",PG-13,6.0,"574,315",40
-52,tt1631867,Edge of Tomorrow,Doug Liman,Tom Cruise,2014,"$77,121,429",PG-13,7.9,"575,314",71
-53,tt1981115,Thor: The Dark World,Alan Taylor,Chris Hemsworth,2013,"$206,360,018",PG-13,6.9,"571,192",54
-54,tt2802144,Kingsman: The Secret Service,Matthew Vaughn,Adrian Quinton,2014,"$119,469,511",R,7.7,"569,742",60
-55,tt1392214,Prisoners,Denis Villeneuve,Hugh Jackman,2013,"$60,962,878",R,8.1,"563,795",70
-56,tt1211837,Doctor Strange,Scott Derrickson,Benedict Cumberbatch,2016,N/A,PG-13,7.5,"562,696",72
-57,tt0454876,Life of Pi,Ang Lee,Suraj Sharma,2012,"$103,500,000",PG,7.9,"560,570",79
-58,tt2543164,Arrival,Denis Villeneuve,Amy Adams,2016,"$100,501,349",PG-13,7.9,"559,093",81
-59,tt0369610,Jurassic World,Colin Trevorrow,Chris Pratt,2015,"$528,757,749",PG-13,7.0,"560,612",59
-60,tt1024648,Argo,Ben Affleck,Ben Affleck,2012,"$136,019,448",R,7.7,"556,890",86
-61,tt1637725,Ted,Seth MacFarlane,Mark Wahlberg,2012,"$218,100,000",R,6.9,"555,534",62
-62,tt2562232,Birdman or (The Unexpected Virtue of Ignorance),Alejandro G. Iñárritu,Michael Keaton,2014,N/A,R,7.7,"552,429",87
-63,tt1446714,Prometheus,Ridley Scott,Noomi Rapace,2012,"$126,464,904",R,7.0,"554,320",64
-64,tt2294629,Frozen,Chris Buck,Kristen Bell,2013,"$400,736,600",PG,7.5,"551,637",75
-65,tt0780504,Drive,Nicolas Winding Refn,Ryan Gosling,2011,"$34,300,000",R,7.8,"549,955",78
-66,tt3501632,Thor: Ragnarok,Taika Waititi,Chris Hemsworth,2017,N/A,PG-13,7.9,"542,938",74
-67,tt0948470,The Amazing Spider-Man,Marc Webb,Andrew Garfield,2012,"$262,030,663",PG-13,6.9,"543,434",66
-68,tt0478970,Ant-Man,Peyton Reed,Paul Rudd,2015,"$138,002,223",PG-13,7.3,"540,523",64
-69,tt3896198,Guardians of the Galaxy Vol. 2,James Gunn,Chris Pratt,2017,N/A,PG-13,7.6,"537,920",67
-70,tt2527336,Star Wars: Episode VIII - The Last Jedi,Rian Johnson,Mark Hamill,2017,"$619,117,636",PG-13,7.0,"532,835",85
-71,tt3748528,Rogue One: A Star Wars Story,Gareth Edwards,Felicity Jones,2016,N/A,PG-13,7.8,"526,836",65
-72,tt0451279,Wonder Woman,Patty Jenkins,Gal Gadot,2017,N/A,PG-13,7.4,"525,690",76
-73,tt1276104,Looper,Rian Johnson,Joseph Gordon-Levitt,2012,"$66,305,045",R,7.4,"519,012",84
-74,tt5013056,Dunkirk,Christopher Nolan,Fionn Whitehead,2017,N/A,PG-13,7.9,"511,831",94
-75,tt1250777,Kick-Ass,Matthew Vaughn,Aaron Taylor-Johnson,2010,"$20,000,000",R,7.6,"513,537",66
-76,tt1219289,Limitless,Neil Burger,Bradley Cooper,2011,"$79,230,923",PG-13,7.4,"511,865",59
-77,tt1798709,Her,Spike Jonze,Joaquin Phoenix,2013,"$17,901,029",R,8.0,"510,311",90
-78,tt2911666,John Wick,Chad Stahelski,Keanu Reeves,2014,N/A,R,7.4,"505,034",68
-79,tt1232829,21 Jump Street,Phil Lord,Jonah Hill,2012,"$134,000,000",R,7.2,"494,267",69
-80,tt3460252,The Hateful Eight,Quentin Tarantino,Samuel L. Jackson,2015,"$54,116,191",R,7.8,"484,384",68
-81,tt1318514,Rise of the Planet of the Apes,Rupert Wyatt,Andy Serkis,2011,"$175,300,000",PG-13,7.6,"485,801",68
-82,tt1323594,Despicable Me,Pierre Coffin,Steve Carell,2010,"$251,476,985",PG,7.6,"484,778",72
-83,tt2250912,Spider-Man: Homecoming,Jon Watts,Tom Holland,2017,"$334,166,825",PG-13,7.4,"478,341",73
-84,tt3783958,La La Land,Damien Chazelle,Ryan Gosling,2016,N/A,PG-13,8.0,"472,106",94
-85,tt1483013,Oblivion,Joseph Kosinski,Tom Cruise,2013,"$89,021,735",PG-13,7.0,"471,533",54
-86,tt0945513,Source Code,Duncan Jones,Jake Gyllenhaal,2011,"$54,696,902",PG-13,7.5,"469,329",74
-87,tt1298650,Pirates of the Caribbean: On Stranger Tides,Rob Marshall,Johnny Depp,2011,"$241,063,875",PG-13,6.6,"465,510",45
-88,tt7131622,Once Upon a Time... in Hollywood,Quentin Tarantino,Leonardo DiCaprio,2019,N/A,R,7.7,"434,088",83
-89,tt1343092,The Great Gatsby,Baz Luhrmann,Lisa Adam,2013,"$144,812,796",PG-13,7.2,"456,854",55
-90,tt2310332,The Hobbit: The Battle of the Five Armies,Peter Jackson,Ian McKellen,2014,"$187,747,747",PG-13,7.4,"456,504",59
-91,tt5052448,Get Out,Jordan Peele,Daniel Kaluuya,2017,N/A,R,7.7,"453,492",85
-92,tt1570728,"Crazy, Stupid, Love.",Glenn Ficarra,Steve Carell,2011,"$83,300,000",PG-13,7.4,"454,881",68
-93,tt1663662,Pacific Rim,Guillermo del Toro,Charlie Hunnam,2013,"$101,785,482",PG-13,6.9,"454,815",65
-94,tt1408101,Star Trek Into Darkness,J.J. Abrams,Chris Pine,2013,"$228,756,232",PG-13,7.7,"454,690",72
-95,tt0926084,Harry Potter and the Deathly Hallows: Part 1,David Yates,Bill Nighy,2010,"$294,980,434",PG-13,7.7,"453,697",65
-96,tt0470752,Ex Machina,Alex Garland,Domhnall Gleeson,2014,"$19,012,798",R,7.7,"448,743",78
-97,tt1411697,The Hangover Part II,Todd Phillips,Bradley Cooper,2011,"$254,400,000",R,6.4,"450,093",44
-98,tt5463162,Deadpool 2,David Leitch,Ryan Reynolds,2018,N/A,R,7.7,"444,684",66
-99,tt1229238,Mission: Impossible - Ghost Protocol,Brad Bird,Tom Cruise,2011,"$209,364,921",PG-13,7.4,"443,423",73
-100,tt1659337,The Perks of Being a Wallflower,Stephen Chbosky,Logan Lerman,2012,"$14,900,000",PG-13,8.0,"441,469",67
-101,tt2872718,Nightcrawler,Dan Gilroy,Jake Gyllenhaal,2014,N/A,R,7.9,"436,220",76
-102,tt1800241,American Hustle,David O. Russell,Christian Bale,2013,"$99,165,609",R,7.2,"434,133",90
-103,tt1396484,It,Andy Muschietti,Jaeden Martell,2017,"$326,898,358",R,7.3,"429,602",69
-104,tt1856101,Blade Runner 2049,Denis Villeneuve,Ryan Gosling,2017,N/A,R,8.0,"422,696",81
-105,tt2872732,Lucy,Luc Besson,Scarlett Johansson,2014,"$108,521,370",R,6.4,"424,933",61
-106,tt1457767,The Conjuring,James Wan,Vera Farmiga,2013,"$137,387,272",R,7.5,"421,587",68
-107,tt0790636,Dallas Buyers Club,Jean-Marc Vallée,Matthew McConaughey,2013,"$23,750,994",R,8.0,"421,522",81
-108,tt2179136,American Sniper,Clint Eastwood,Bradley Cooper,2014,"$274,377,268",R,7.3,"421,609",72
-109,tt1727824,Bohemian Rhapsody,Bryan Singer,Rami Malek,2018,N/A,PG-13,8.0,"419,680",49
-110,tt1291584,Warrior,Gavin O'Connor,Joel Edgerton,2011,"$13,600,000",PG-13,8.2,"420,706",71
-111,tt1430132,The Wolverine,James Mangold,Hugh Jackman,2013,"$132,550,960",PG-13,6.7,"417,955",61
-112,tt1979320,Rush,Ron Howard,Chris Hemsworth,2013,"$22,442,876",R,8.1,"415,287",74
-113,tt1840309,Divergent,Neil Burger,Shailene Woodley,2014,"$129,520,735",PG-13,6.7,"413,543",48
-114,tt2948356,Zootopia,Byron Howard,Ginnifer Goodwin,2016,"$341,264,012",PG,8.0,"410,437",78
-115,tt1499658,Horrible Bosses,Seth Gordon,Jason Bateman,2011,"$116,900,000",R,6.9,"411,777",57
-116,tt1454029,The Help,Tate Taylor,Emma Stone,2011,"$169,705,587",PG-13,8.1,"409,765",62
-117,tt4154664,Captain Marvel,Anna Boden,Brie Larson,2019,N/A,PG-13,6.9,"406,778",64
-118,tt1535108,Elysium,Neill Blomkamp,Matt Damon,2013,"$90,800,000",R,6.6,"408,232",61
-119,tt3890160,Baby Driver,Edgar Wright,Ansel Elgort,2017,N/A,R,7.6,"406,935",86
-120,tt1515091,Sherlock Holmes: A Game of Shadows,Guy Ritchie,Robert Downey Jr.,2011,"$186,830,669",PG-13,7.5,"408,972",48
-121,tt2713180,Fury,David Ayer,Brad Pitt,2014,"$72,609,225",R,7.6,"407,393",64
-122,tt2119532,Hacksaw Ridge,Mel Gibson,Andrew Garfield,2016,N/A,R,8.1,"404,082",71
-123,tt1535109,Captain Phillips,Paul Greengrass,Tom Hanks,2013,"$107,100,855",PG-13,7.8,"405,034",82
-124,tt1568346,The Girl with the Dragon Tattoo,David Fincher,Daniel Craig,2011,"$102,515,793",R,7.8,"405,585",71
-125,tt1872181,The Amazing Spider-Man 2,Marc Webb,Andrew Garfield,2014,"$183,277,573",PG-13,6.6,"404,037",53
-126,tt1790864,The Maze Runner,Wes Ball,Dylan O'Brien,2014,"$98,537,272",PG-13,6.8,"402,678",57
-127,tt2103281,Dawn of the Planet of the Apes,Matt Reeves,Andy Serkis,2014,"$183,278,877",PG-13,7.6,"401,885",79
-128,tt6751668,Parasite,Bong Joon Ho,Kang-ho Song,2019,N/A,R,8.6,"400,197",96
-129,tt4972582,Split,M. Night Shyamalan,James McAvoy,2016,N/A,PG-13,7.3,"398,321",62
-130,tt1951265,The Hunger Games: Mockingjay - Part 1,Francis Lawrence,Jennifer Lawrence,2014,"$295,457,212",PG-13,6.6,"396,208",64
-131,tt5027774,"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,Frances McDormand,2017,N/A,R,8.2,"394,263",88
-132,tt1895587,Spotlight,Tom McCarthy,Mark Ruffalo,2015,N/A,R,8.1,"393,952",93
-133,tt2245084,Big Hero 6,Don Hall,Scott Adsit,2014,N/A,PG,7.8,"393,016",74
-134,tt3183660,Fantastic Beasts and Where to Find Them,David Yates,Eddie Redmayne,2016,N/A,PG-13,7.3,"389,633",66
-135,tt0398286,Tangled,Nathan Greno,Mandy Moore,2010,"$200,803,309",PG,7.7,"386,885",71
-136,tt1723121,We're the Millers,Rawson Marshall Thurber,Jennifer Aniston,2013,"$144,900,000",R,7.0,"389,001",44
-137,tt2980516,The Theory of Everything,James Marsh,Eddie Redmayne,2014,"$35,887,263",PG-13,7.7,"383,698",72
-138,tt6644200,A Quiet Place,John Krasinski,Emily Blunt,2018,N/A,PG-13,7.5,"371,832",82
-139,tt3385516,X-Men: Apocalypse,Bryan Singer,James McAvoy,2016,"$135,729,385",PG-13,6.9,"377,645",52
-140,tt1399103,Transformers: Dark of the Moon,Michael Bay,Shia LaBeouf,2011,"$352,358,779",PG-13,6.2,"376,258",42
-141,tt1245492,This Is the End,Evan Goldberg,James Franco,2013,"$96,200,000",R,6.6,"373,189",67
-142,tt1605783,Midnight in Paris,Woody Allen,Owen Wilson,2011,"$55,400,000",PG-13,7.7,"371,082",81
-143,tt1014759,Alice in Wonderland,Tim Burton,Johnny Depp,2010,"$319,323,000",PG,6.4,"371,772",53
-144,tt2379713,Spectre,Sam Mendes,Daniel Craig,2015,"$208,777,731",PG-13,6.8,"369,275",60
-145,tt0831387,Godzilla,Gareth Edwards,Aaron Taylor-Johnson,2014,"$172,962,996",PG-13,6.4,"366,220",62
-146,tt1772341,Wreck-It Ralph,Rich Moore,John C. Reilly,2012,"$189,412,677",PG,7.7,"365,043",72
-147,tt0974015,Justice League,Zack Snyder,Ben Affleck,2017,N/A,PG-13,6.4,"359,478",45
-148,tt1259521,The Cabin in the Woods,Drew Goddard,Kristen Connolly,2011,"$42,043,633",R,7.0,"356,988",72
-149,tt0446029,Scott Pilgrim vs. the World,Edgar Wright,Michael Cera,2010,"$31,494,270",PG-13,7.5,"358,530",69
-150,tt1637688,In Time,Andrew Niccol,Justin Timberlake,2011,"$35,900,000",PG-13,6.7,"357,846",53
-151,tt1905041,Furious 6,Justin Lin,Vin Diesel,2013,"$238,700,000",PG-13,7.1,"358,271",61
-152,tt1217209,Brave,Mark Andrews,Kelly Macdonald,2012,"$237,282,182",PG,7.1,"357,239",69
-153,tt1690953,Despicable Me 2,Pierre Coffin,Steve Carell,2013,"$368,049,635",PG,7.3,"357,881",62
-154,tt3397884,Sicario,Denis Villeneuve,Emily Blunt,2015,N/A,R,7.6,"350,799",82
-155,tt2820852,Furious 7,James Wan,Vin Diesel,2015,"$316,986,481",PG-13,7.2,"347,783",67
-156,tt5580390,The Shape of Water,Guillermo del Toro,Sally Hawkins,2017,N/A,R,7.3,"345,768",87
-157,tt3170832,Room,Lenny Abrahamson,Brie Larson,2015,"$14,677,654",R,8.1,"345,782",86
-158,tt1210166,Moneyball,Bennett Miller,Brad Pitt,2011,"$75,605,492",PG-13,7.6,"346,192",87
-159,tt1282140,Easy A,Will Gluck,Emma Stone,2010,"$58,401,464",PG-13,7.1,"344,763",72
-160,tt1596343,Fast Five,Justin Lin,Vin Diesel,2011,"$209,805,005",PG-13,7.3,"342,463",66
-161,tt4425200,John Wick: Chapter 2,Chad Stahelski,Keanu Reeves,2017,N/A,R,7.5,"339,326",75
-162,tt1677720,Ready Player One,Steven Spielberg,Tye Sheridan,2018,N/A,PG-13,7.5,"338,171",64
-163,tt1596363,The Big Short,Adam McKay,Ryan Gosling,2015,N/A,R,7.8,"337,969",81
-164,tt0840361,The Town,Ben Affleck,Ben Affleck,2010,"$92,173,235",R,7.5,"336,646",74
-165,tt1542344,127 Hours,Danny Boyle,James Franco,2010,"$18,329,466",R,7.6,"337,566",82
-166,tt2380307,Coco,Lee Unkrich,Anthony Gonzalez,2017,"$208,487,719",PG,8.4,"333,411",81
-167,tt1371111,Cloud Atlas,Tom Tykwer,Tom Hanks,2012,"$22,100,000",R,7.4,"336,239",55
-168,tt1477834,Aquaman,James Wan,Jason Momoa,2018,N/A,PG-13,7.0,"334,310",55
-169,tt2294449,22 Jump Street,Phil Lord,Jonah Hill,2014,"$154,295,930",R,7.0,"334,014",71
-170,tt1355644,Passengers,Morten Tyldum,Jennifer Lawrence,2016,N/A,PG-13,7.0,"331,774",41
-171,tt2582846,The Fault in Our Stars,Josh Boone,Shailene Woodley,2014,N/A,PG-13,7.7,"330,659",69
-172,tt1270797,Venom,Ruben Fleischer,Tom Hardy,2018,N/A,PG-13,6.7,"327,020",35
-173,tt1587310,Maleficent,Robert Stromberg,Angelina Jolie,2014,"$190,871,149",PG,7.0,"330,733",56
-174,tt1650062,Super 8,J.J. Abrams,Joel Courtney,2011,"$126,975,169",PG-13,7.0,"329,334",72
-175,tt1632708,Friends with Benefits,Will Gluck,Justin Timberlake,2011,"$55,802,754",R,6.5,"329,574",63
-176,tt0964517,The Fighter,David O. Russell,Mark Wahlberg,2010,"$93,571,803",R,7.8,"328,998",79
-177,tt2381249,Mission: Impossible - Rogue Nation,Christopher McQuarrie,Tom Cruise,2015,"$154,979,949",PG-13,7.4,"328,058",75
-178,tt1065073,Boyhood,Richard Linklater,Ellar Coltrane,2014,"$18,859,617",R,7.9,"326,069",100
-179,tt1409024,Men in Black 3,Barry Sonnenfeld,Will Smith,2012,"$179,020,854",PG-13,6.8,"325,268",58
-180,tt6966692,Green Book,Peter Farrelly,Viggo Mortensen,2018,N/A,PG-13,8.2,"314,419",69
-181,tt0455944,The Equalizer,Antoine Fuqua,Denzel Washington,2014,"$85,212,969",R,7.2,"318,500",57
-182,tt2527338,Star Wars: Episode IX - The Rise of Skywalker,J.J. Abrams,Carrie Fisher,2019,N/A,PG-13,6.7,"318,227",53
-183,tt1320253,The Expendables,Sylvester Stallone,Sylvester Stallone,2010,"$102,981,571",R,6.5,"317,958",45
-184,tt1490017,The Lego Movie,Christopher Miller,Will Arnett,2014,"$244,870,202",PG,7.7,"315,571",83
-185,tt4633694,Spider-Man: Into the Spider-Verse,Bob Persichetti,Shameik Moore,2018,N/A,PG,8.4,"311,747",87
-186,tt1907668,Flight,Robert Zemeckis,Nadine Velazquez,2012,"$89,400,000",R,7.3,"315,172",76
-187,tt1231583,Due Date,Todd Phillips,Robert Downey Jr.,2010,"$100,448,498",R,6.5,"314,859",51
-188,tt1453405,Monsters University,Dan Scanlon,Billy Crystal,2013,"$260,300,000",G,7.3,"308,588",65
-189,tt1306980,50/50,Jonathan Levine,Joseph Gordon-Levitt,2011,"$35,005,118",R,7.6,"308,231",72
-190,tt1517451,A Star Is Born,Bradley Cooper,Lady Gaga,2018,N/A,R,7.7,"303,377",88
-191,tt1748122,Moonrise Kingdom,Wes Anderson,Bruce Willis,2012,"$45,507,865",PG-13,7.8,"305,545",84
-192,tt1104001,TRON: Legacy,Joseph Kosinski,Jeff Bridges,2010,"$172,051,787",PG,6.8,"306,175",49
-193,tt8579674,1917,Sam Mendes,Dean-Charles Chapman,2019,N/A,R,8.4,"272,841",78
-194,tt2283362,Jumanji: Welcome to the Jungle,Jake Kasdan,Dwayne Johnson,2017,"$393,201,353",PG-13,6.9,"297,049",58
-195,tt1403865,True Grit,Ethan Coen,Jeff Bridges,2010,"$171,031,347",PG-13,7.6,"296,875",80
-196,tt1707386,Les Misérables,Tom Hooper,Hugh Jackman,2012,"$148,775,460",PG-13,7.6,"298,267",63
-197,tt8946378,Knives Out,Rian Johnson,Daniel Craig,2019,N/A,PG-13,7.9,"281,915",82
-198,tt2788710,The Interview,Evan Goldberg,James Franco,2014,"$4,551,688",R,6.5,"297,162",52
-199,tt0790724,Jack Reacher,Christopher McQuarrie,Tom Cruise,2012,"$80,033,643",PG-13,7.0,"297,450",50
-200,tt0970179,Hugo,Martin Scorsese,Ben Kingsley,2011,"$73,820,094",PG,7.5,"294,917",83
-201,tt1646971,How to Train Your Dragon 2,Dean DeBlois,Jay Baruchel,2014,"$147,065,544",PG,7.8,"293,080",76
-202,tt2109248,Transformers: Age of Extinction,Michael Bay,Mark Wahlberg,2014,"$206,755,538",PG-13,5.6,"291,884",32
-203,tt0433035,Real Steel,Shawn Levy,Hugh Jackman,2011,"$85,463,309",PG-13,7.1,"290,010",56
-204,tt2322441,Fifty Shades of Grey,Sam Taylor-Johnson,Dakota Johnson,2015,N/A,R,4.1,"289,209",46
-205,tt6320628,Spider-Man: Far from Home,Jon Watts,Tom Holland,2019,N/A,PG-13,7.5,"279,844",69
-206,tt0944835,Salt,Phillip Noyce,Angelina Jolie,2010,"$118,311,368",PG-13,6.4,"287,589",65
-207,tt1302006,The Irishman,Martin Scorsese,Robert De Niro,2019,N/A,R,7.9,"285,304",94
-208,tt5095030,Ant-Man and the Wasp,Peyton Reed,Paul Rudd,2018,N/A,PG-13,7.1,"286,033",70
-209,tt1764651,The Expendables 2,Simon West,Sylvester Stallone,2012,"$85,017,401",R,6.6,"285,396",51
-210,tt0359950,The Secret Life of Walter Mitty,Ben Stiller,Ben Stiller,2013,"$33,223,430",PG,7.3,"284,080",54
-211,tt1037705,The Book of Eli,Albert Hughes,Denzel Washington,2010,"$94,800,000",R,6.9,"283,985",53
-212,tt1706620,Snowpiercer,Bong Joon Ho,Chris Evans,2013,"$2,786,828",R,7.1,"279,565",84
-213,tt1951261,The Hangover Part III,Todd Phillips,Bradley Cooper,2013,"$112,200,000",R,5.8,"283,880",30
-214,tt2194499,About Time,Richard Curtis,Domhnall Gleeson,2013,"$18,472,384",R,7.8,"281,984",55
-215,tt1397280,Taken 2,Olivier Megaton,Liam Neeson,2012,"$139,852,115",PG-13,6.3,"282,456",45
-216,tt1245526,RED,Robert Schwentke,Bruce Willis,2010,"$88,900,000",PG-13,7.0,"280,530",60
-217,tt1179933,10 Cloverfield Lane,Dan Trachtenberg,John Goodman,2016,"$59,481,553",PG-13,7.2,"277,223",76
-218,tt1194173,The Bourne Legacy,Tony Gilroy,Jeremy Renner,2012,"$113,165,635",PG-13,6.7,"277,242",61
-219,tt2004420,Neighbors,Nicholas Stoller,Seth Rogen,2014,"$134,413,041",R,6.3,"276,477",68
-220,tt3682448,Bridge of Spies,Steven Spielberg,Mark Rylance,2015,N/A,PG-13,7.6,"276,130",81
-221,tt1253863,300: Rise of an Empire,Noam Murro,Sullivan Stapleton,2014,"$91,024,535",R,6.2,"273,300",48
-222,tt1951266,The Hunger Games: Mockingjay - Part 2,Francis Lawrence,Jennifer Lawrence,2015,N/A,PG-13,6.5,"270,192",65
-223,tt4912910,Mission: Impossible - Fallout,Christopher McQuarrie,Tom Cruise,2018,N/A,PG-13,7.7,"268,724",86
-224,tt3778644,Solo: A Star Wars Story,Ron Howard,Alden Ehrenreich,2018,N/A,PG-13,6.9,"265,446",62
-225,tt1591095,Insidious,James Wan,Patrick Wilson,2010,"$53,700,000",PG-13,6.8,"267,514",52
-226,tt1981677,Pitch Perfect,Jason Moore,Anna Kendrick,2012,"$61,100,000",PG-13,7.2,"267,445",66
-227,tt1735898,Snow White and the Huntsman,Rupert Sanders,Kristen Stewart,2012,"$155,081,785",PG-13,6.1,"266,071",57
-228,tt0473075,Prince of Persia: The Sands of Time,Mike Newell,Jake Gyllenhaal,2010,"$90,755,643",PG-13,6.6,"263,143",50
-229,tt0800320,Clash of the Titans,Louis Leterrier,Sam Worthington,2010,"$163,100,000",PG-13,5.8,"264,525",39
-230,tt1598778,Contagion,Steven Soderbergh,Gwyneth Paltrow,2011,"$75,638,743",PG-13,6.7,"262,077",70
-231,tt1645170,The Dictator,Larry Charles,Sacha Baron Cohen,2012,"$57,700,000",R,6.4,"262,728",58
-232,tt2106476,The Hunt,Thomas Vinterberg,Mads Mikkelsen,2012,"$610,968",R,8.3,"261,321",77
-233,tt2798920,Annihilation,Alex Garland,Natalie Portman,2018,N/A,R,6.9,"260,188",79
-234,tt3799694,The Nice Guys,Shane Black,Russell Crowe,2016,"$32,261,515",R,7.4,"259,792",70
-235,tt1790885,Zero Dark Thirty,Kathryn Bigelow,Jason Clarke,2012,"$95,720,716",R,7.4,"261,273",95
-236,tt1133985,Green Lantern,Martin Campbell,Ryan Reynolds,2011,"$116,600,000",PG-13,5.5,"259,826",39
-237,tt1478338,Bridesmaids,Paul Feig,Kristen Wiig,2011,"$166,500,000",R,6.8,"259,253",75
-238,tt0101414,Beauty and the Beast,Gary Trousdale,Robby Benson,1991,"$47,611,331",G,8.0,"404,632",95
-239,tt1091191,Lone Survivor,Peter Berg,Mark Wahlberg,2013,"$97,665,254",R,7.5,"258,109",60
-240,tt2737304,Bird Box,Susanne Bier,Sandra Bullock,2018,N/A,R,6.6,"254,088",51
-241,tt3731562,Kong: Skull Island,Jordan Vogt-Roberts,Tom Hiddleston,2017,N/A,PG-13,6.6,"256,021",62
-242,tt1638355,The Man from U.N.C.L.E.,Guy Ritchie,Henry Cavill,2015,"$38,140,180",PG-13,7.3,"254,692",56
-243,tt4649466,Kingsman: The Golden Circle,Matthew Vaughn,Taron Egerton,2017,"$99,733,121",R,6.7,"255,646",44
-244,tt4975722,Moonlight,Barry Jenkins,Mahershala Ali,2016,"$27,850,910",R,7.4,"253,485",99
-245,tt3040964,The Jungle Book,Jon Favreau,Neel Sethi,2016,"$363,995,937",PG,7.4,"251,003",77
-246,tt3521164,Moana,Ron Clements,Auli'i Cravalho,2016,N/A,PG,7.6,"250,176",81
-247,tt1340138,Terminator Genisys,Alan Taylor,Arnold Schwarzenegger,2015,"$75,614,989",PG-13,6.4,"250,391",38
-248,tt2302755,Olympus Has Fallen,Antoine Fuqua,Gerard Butler,2013,"$98,600,000",R,6.5,"248,742",41
-249,tt0401729,John Carter,Andrew Stanton,Taylor Kitsch,2012,"$73,058,679",PG-13,6.6,"248,903",51
-250,tt1213663,The World's End,Edgar Wright,Thomas Law,2013,"$33,408,732",R,7.0,"247,919",81
-251,tt2140479,The Accountant,Gavin O'Connor,Ben Affleck,2016,N/A,R,7.3,"248,304",51
-252,tt1790809,Pirates of the Caribbean: Dead Men Tell No Tales,Joachim Rønning,Johnny Depp,2017,"$172,537,139",PG-13,6.6,"246,082",39
-253,tt1650554,Kick-Ass 2,Jeff Wadlow,Aaron Taylor-Johnson,2013,"$28,800,000",R,6.5,"247,463",41
-254,tt4881806,Jurassic World: Fallen Kingdom,J.A. Bayona,Chris Pratt,2018,N/A,PG-13,6.2,"245,420",51
-255,tt0955308,Robin Hood,Ridley Scott,Russell Crowe,2010,"$105,219,735",PG-13,6.6,"246,511",53
-256,tt6146586,John Wick: Chapter 3 - Parabellum,Chad Stahelski,Keanu Reeves,2019,N/A,R,7.5,"244,184",73
-257,tt2024469,Non-Stop,Jaume Collet-Serra,Liam Neeson,2014,"$80,432,029",PG-13,6.9,"243,834",56
-258,tt2316204,Alien: Covenant,Ridley Scott,Michael Fassbender,2017,"$74,255,908",R,6.4,"242,805",65
-259,tt1343727,Dredd,Pete Travis,Karl Urban,2012,"$13,401,683",R,7.1,"242,934",60
-260,tt1302011,Kung Fu Panda 2,Jennifer Yuh Nelson,Jack Black,2011,"$165,230,261",PG,7.2,"243,145",67
-261,tt1401152,Unknown,Jaume Collet-Serra,Liam Neeson,2011,"$63,677,735",PG-13,6.8,"241,844",56
-262,tt0429493,The A-Team,Joe Carnahan,Liam Neeson,2010,"$77,213,489",PG-13,6.7,"241,116",47
-263,tt2397535,Predestination,Michael Spierig,Ethan Hawke,2014,"$201,560",R,7.5,"238,117",69
-264,tt1077368,Dark Shadows,Tim Burton,Johnny Depp,2012,"$79,711,678",PG-13,6.2,"238,930",55
-265,tt3076658,Creed,Ryan Coogler,Michael B. Jordan,2015,"$81,157,671",PG-13,7.6,"237,092",82
-266,tt1817273,The Place Beyond the Pines,Derek Cianfrance,Ryan Gosling,2012,"$21,300,000",R,7.3,"236,294",68
-267,tt0443272,Lincoln,Steven Spielberg,Daniel Day-Lewis,2012,"$129,477,447",PG-13,7.3,"236,818",86
-268,tt1959490,Noah,Darren Aronofsky,Russell Crowe,2014,"$101,160,529",PG-13,5.8,"237,051",68
-269,tt1385826,The Adjustment Bureau,George Nolfi,Matt Damon,2011,"$62,453,315",PG-13,7.0,"234,932",60
-270,tt0803096,Warcraft,Duncan Jones,Travis Fimmel,2016,N/A,PG-13,6.8,"235,008",32
-271,tt1601913,The Grey,Joe Carnahan,Liam Neeson,2011,"$51,533,608",R,6.8,"235,006",64
-272,tt3110958,Now You See Me 2,Jon M. Chu,Jesse Eisenberg,2016,N/A,PG-13,6.5,"232,515",46
-273,tt1706593,Chronicle,Josh Trank,Dane DeHaan,2012,"$60,800,000",PG-13,7.0,"234,914",69
-274,tt0100802,Total Recall,Paul Verhoeven,Arnold Schwarzenegger,1990,"$119,000,000",R,7.5,"288,384",57
-275,tt1386588,The Other Guys,Adam McKay,Will Ferrell,2010,"$119,219,978",PG-13,6.6,"232,891",64
-276,tt1931533,Seven Psychopaths,Martin McDonagh,Michael Pitt,2012,"$15,000,000",R,7.2,"232,749",66
-277,tt4034228,Manchester by the Sea,Kenneth Lonergan,Casey Affleck,2016,N/A,R,7.8,"231,863",96
-278,tt3606756,Incredibles 2,Brad Bird,Craig T. Nelson,2018,N/A,PG,7.6,"231,383",80
-279,tt1440129,Battleship,Peter Berg,Taylor Kitsch,2012,"$65,173,160",PG-13,5.8,"230,200",41
-280,tt0448115,Shazam!,David F. Sandberg,Zachary Levi,2019,N/A,PG-13,7.1,"228,554",71
-281,tt2277860,Finding Dory,Andrew Stanton,Ellen DeGeneres,2016,N/A,PG,7.3,"227,414",77
-282,tt1092026,Paul,Greg Mottola,Mia Stallard,2011,"$37,371,385",R,7.0,"228,547",57
-283,tt1033575,The Descendants,Alexander Payne,George Clooney,2011,"$78,500,000",R,7.3,"227,886",84
-284,tt1192628,Rango,Gore Verbinski,Johnny Depp,2011,"$123,188,232",PG,7.2,"226,708",75
-285,tt1655442,The Artist,Michel Hazanavicius,Jean Dujardin,2011,"$44,667,095",PG-13,7.9,"224,074",89
-286,tt0978764,Sucker Punch,Zack Snyder,Emily Browning,2011,"$36,381,716",PG-13,6.0,"224,120",33
-287,tt4550098,Nocturnal Animals,Tom Ford,Amy Adams,2016,"$10,639,114",R,7.5,"222,817",67
-288,tt3263904,Sully,Clint Eastwood,Tom Hanks,2016,N/A,PG-13,7.4,"222,439",74
-289,tt2229499,Don Jon,Joseph Gordon-Levitt,Joseph Gordon-Levitt,2013,N/A,R,6.5,"223,323",66
-290,tt1464540,I Am Number Four,D.J. Caruso,Alex Pettyfer,2011,"$55,086,029",PG-13,6.1,"223,324",36
-291,tt1673434,The Twilight Saga: Breaking Dawn - Part 2,Bill Condon,Kristen Stewart,2012,"$292,298,923",PG-13,5.5,"222,370",52
-292,tt3079380,Spy,Paul Feig,Jude Law,2015,"$89,914,425",R,7.0,"221,939",75
-293,tt1823672,Chappie,Neill Blomkamp,Sharlto Copley,2015,N/A,R,6.8,"222,623",41
-294,tt1212450,Lawless,John Hillcoat,Shia LaBeouf,2012,"$36,300,000",R,7.3,"221,004",58
-295,tt1211956,Escape Plan,Mikael Håfström,Sylvester Stallone,2013,"$18,645,489",R,6.7,"220,662",49
-296,tt1855199,End of Watch,David Ayer,Jake Gyllenhaal,2012,"$39,100,000",R,7.6,"220,505",68
-297,tt1375670,Grown Ups,Dennis Dugan,Adam Sandler,2010,"$162,001,186",PG-13,5.9,"219,824",30
-298,tt1325004,The Twilight Saga: Eclipse,David Slade,Xavier Samuel,2010,"$300,523,113",PG-13,5.0,"219,468",58
-299,tt2660888,Star Trek Beyond,Justin Lin,Chris Pine,2016,N/A,PG-13,7.1,"219,183",68
-300,tt1485796,The Greatest Showman,Michael Gracey,Hugh Jackman,2017,N/A,PG,7.6,"217,518",48
-301,tt1001526,Megamind,Tom McGrath,Will Ferrell,2010,"$148,244,405",PG,7.2,"217,881",63
-302,tt1731141,Ender's Game,Gavin Hood,Asa Butterfield,2013,N/A,PG-13,6.6,"217,740",51
-303,tt3450958,War for the Planet of the Apes,Matt Reeves,Andy Serkis,2017,"$146,872,826",PG-13,7.4,"216,413",82
-304,tt4925292,Lady Bird,Greta Gerwig,Saoirse Ronan,2017,N/A,R,7.4,"211,457",94
-305,tt1243957,The Tourist,Florian Henckel von Donnersmarck,Johnny Depp,2010,"$67,631,157",PG-13,6.0,"215,485",37
-306,tt1324999,The Twilight Saga: Breaking Dawn - Part 1,Bill Condon,Taylor Lautner,2011,"$281,267,663",PG-13,4.9,"215,436",45
-307,tt1210819,The Lone Ranger,Gore Verbinski,Johnny Depp,2013,"$89,289,910",PG-13,6.4,"215,654",37
-308,tt0837562,Hotel Transylvania,Genndy Tartakovsky,Adam Sandler,2012,"$148,280,635",PG,7.1,"214,368",47
-309,tt1588173,Warm Bodies,Jonathan Levine,Nicholas Hoult,2013,"$65,000,000",PG-13,6.9,"214,151",60
-310,tt3065204,The Conjuring 2,James Wan,Patrick Wilson,2016,"$102,461,593",R,7.3,"212,809",65
-311,tt1950186,Ford v Ferrari,James Mangold,Matt Damon,2019,N/A,PG-13,8.1,"203,515",81
-312,tt4046784,Maze Runner: The Scorch Trials,Wes Ball,Dylan O'Brien,2015,N/A,PG-13,6.3,"212,497",43
-313,tt1564367,Just Go with It,Dennis Dugan,Adam Sandler,2011,"$103,028,109",PG-13,6.4,"211,733",33
-314,tt0093870,RoboCop,Paul Verhoeven,Peter Weller,1987,N/A,R,7.5,"224,319",67
-315,tt2209764,Transcendence,Wally Pfister,Johnny Depp,2014,"$23,014,504",PG-13,6.3,"210,862",42
-316,tt1124035,The Ides of March,George Clooney,Ryan Gosling,2011,"$40,962,534",R,7.1,"211,045",67
-317,tt2584384,Jojo Rabbit,Taika Waititi,Roman Griffin Davis,2019,N/A,PG-13,7.9,"198,941",58
-318,tt7653254,Marriage Story,Noah Baumbach,Adam Driver,2019,N/A,R,8.0,"204,421",94
-319,tt0983193,The Adventures of Tintin,Steven Spielberg,Jamie Bell,2011,"$75,300,000",PG,7.3,"209,923",68
-320,tt1832382,A Separation,Asghar Farhadi,Payman Maadi,2011,"$6,700,000",PG-13,8.3,"209,132",95
-321,tt1798684,Southpaw,Antoine Fuqua,Jake Gyllenhaal,2015,N/A,R,7.4,"209,468",57
-322,tt2908446,Insurgent,Robert Schwentke,Kate Winslet,2015,"$114,138,208",PG-13,6.2,"209,111",42
-323,tt1922777,Sinister,Scott Derrickson,Ethan Hawke,2012,"$48,100,000",R,6.8,"208,963",53
-324,tt7784604,Hereditary,Ari Aster,Alex Wolff,2018,N/A,R,7.3,"206,194",87
-325,tt2381941,Focus,Glenn Ficarra,Will Smith,2015,"$50,265,541",R,6.6,"206,566",56
-326,tt2361509,The Intern,Nancy Meyers,Robert De Niro,2015,"$60,886,513",PG-13,7.1,"205,929",51
-327,tt1424381,Predators,Nimród Antal,Adrien Brody,2010,"$52,000,688",R,6.4,"206,270",51
-328,tt1411238,No Strings Attached,Ivan Reitman,Natalie Portman,2011,"$70,300,000",R,6.2,"206,095",50
-329,tt4160708,Don't Breathe,Fede Alvarez,Stephen Lang,2016,"$89,210,468",R,7.1,"205,569",71
-330,tt0437086,Alita: Battle Angel,Robert Rodriguez,Rosa Salazar,2019,N/A,PG-13,7.3,"202,859",53
-331,tt1189340,The Lincoln Lawyer,Brad Furman,Matthew McConaughey,2011,"$57,900,000",R,7.3,"204,867",63
-332,tt2293640,Minions,Kyle Balda,Sandra Bullock,2015,"$277,969,969",PG,6.4,"203,993",56
-333,tt0103639,Aladdin,Ron Clements,Scott Weinger,1992,N/A,G,8.0,"356,283",86
-334,tt3464902,The Lobster,Yorgos Lanthimos,Jacqueline Abrahams,2015,"$9,078,073",R,7.2,"201,348",82
-335,tt2126355,San Andreas,Brad Peyton,Dwayne Johnson,2015,"$127,666,001",PG-13,6.0,"203,377",43
-336,tt2994904,Cowboys & Aliens,Tomislav Mrsic,Sasa Anocic,2013,N/A,N/A,7.1,903,N/A
-337,tt1321870,Gangster Squad,Ruben Fleischer,Sean Penn,2013,"$45,996,718",R,6.7,"201,910",40
-338,tt4123430,Fantastic Beasts: The Crimes of Grindelwald,David Yates,Johnny Depp,2018,N/A,PG-13,6.6,"199,617",52
-339,tt3741834,Lion,Garth Davis,Sunny Pawar,2016,"$51,694,854",PG-13,8.0,"197,770",69
-340,tt4196776,Jason Bourne,Paul Greengrass,Matt Damon,2016,"$162,162,120",PG-13,6.6,"200,524",58
-341,tt2334879,White House Down,Roland Emmerich,Channing Tatum,2013,"$73,103,784",PG-13,6.4,"199,622",52
-342,tt1436562,Rio,Carlos Saldanha,Karen Disher,2011,"$143,613,651",G,6.9,"199,259",63
-343,tt1599348,Safe House,Daniel Espinosa,Denzel Washington,2012,"$126,149,655",R,6.7,"198,994",52
-344,tt3235888,It Follows,David Robert Mitchell,Bailey Spry,2014,"$10,705,259",R,6.8,"198,611",83
-345,tt6857112,Us,Jordan Peele,Lupita Nyong'o,2019,N/A,R,6.9,"194,422",81
-346,tt1605630,American Reunion,Jon Hurwitz,Jason Biggs,2012,"$55,300,000",R,6.7,"197,605",49
-347,tt3402236,Murder on the Orient Express,Kenneth Branagh,Paapa Essiedu,2017,N/A,PG-13,6.5,"196,312",52
-348,tt5442430,Life,Daniel Espinosa,Hiroyuki Sanada,2017,N/A,R,6.6,"196,878",54
-349,tt0087332,Ghostbusters,Ivan Reitman,Bill Murray,1984,N/A,PG,7.8,"339,643",71
-350,tt1291150,Teenage Mutant Ninja Turtles,Jonathan Liebesman,Megan Fox,2014,"$163,911,409",PG-13,5.8,"196,200",31
-351,tt1623205,Oz the Great and Powerful,Sam Raimi,James Franco,2013,"$234,903,076",PG,6.3,"196,092",44
-352,tt2184339,The Purge,James DeMonaco,Ethan Hawke,2013,"$64,400,000",R,5.7,"195,033",41
-353,tt1980209,Pain & Gain,Michael Bay,Mark Wahlberg,2013,"$49,300,000",R,6.4,"194,964",45
-354,tt4630562,The Fate of the Furious,F. Gary Gray,Vin Diesel,2017,"$225,697,400",PG-13,6.7,"194,998",56
-355,tt2674426,Me Before You,Thea Sharrock,Sam Claflin,2016,N/A,PG-13,7.4,"194,533",51
-356,tt1606378,A Good Day to Die Hard,John Moore,Bruce Willis,2013,"$67,344,392",R,5.3,"193,649",28
-357,tt2582782,Hell or High Water,David Mackenzie,Dale Dickey,2016,N/A,R,7.6,"192,695",88
-358,tt6823368,Glass,M. Night Shyamalan,James McAvoy,2019,N/A,PG-13,6.7,"190,395",43
-359,tt1428538,Hansel & Gretel: Witch Hunters,Tommy Wirkola,Jeremy Renner,2013,"$55,000,000",R,6.1,"189,658",23
-360,tt2719848,Everest,Baltasar Kormákur,Jason Clarke,2015,N/A,PG-13,7.1,"189,288",64
-361,tt2704998,Game Night,John Francis Daley,Jason Bateman,2018,"$33,537,766",R,6.9,"187,824",66
-362,tt5726616,Call Me by Your Name,Luca Guadagnino,Armie Hammer,2017,N/A,R,7.9,"186,715",93
-363,tt0110357,The Lion King,Roger Allers,Rowan Atkinson,1994,"$94,240,635",G,8.5,"901,362",88
-364,tt1272878,2 Guns,Baltasar Kormákur,Denzel Washington,2013,"$73,500,000",R,6.7,"188,623",55
-365,tt7349662,BlacKkKlansman,Spike Lee,Alec Baldwin,2018,N/A,R,7.5,"186,059",83
-366,tt1649419,The Impossible,J.A. Bayona,Naomi Watts,2012,"$18,996,755",PG-13,7.6,"188,212",73
-367,tt5362988,Wind River,Taylor Sheridan,Kelsey Asbille,2017,N/A,R,7.7,"188,167",73
-368,tt1219827,Ghost in the Shell,Rupert Sanders,Scarlett Johansson,2017,N/A,PG-13,6.3,"188,067",52
-369,tt4846340,Hidden Figures,Theodore Melfi,Taraji P. Henson,2016,"$169,385,416",PG,7.8,"186,786",74
-370,tt1284575,Bad Teacher,Jake Kasdan,Cameron Diaz,2011,"$100,292,856",R,5.6,"187,866",47
-371,tt1815862,After Earth,M. Night Shyamalan,Jaden Smith,2013,"$60,522,097",PG-13,4.8,"187,152",33
-372,tt0985694,Machete,Ethan Maniquis,Danny Trejo,2010,"$26,200,000",R,6.6,"186,475",60
-373,tt2321549,The Babadook,Jennifer Kent,Essie Davis,2014,N/A,Not Rated,6.8,"186,702",86
-374,tt2334873,Blue Jasmine,Woody Allen,Cate Blanchett,2013,N/A,PG-13,7.3,"185,920",78
-375,tt2883512,Chef,Jon Favreau,Jon Favreau,2014,"$23,678,226",R,7.3,"186,373",68
-376,tt0993842,Hanna,Joe Wright,Saoirse Ronan,2011,"$40,200,000",PG-13,6.8,"185,536",65
-377,tt1667889,Ice Age: Continental Drift,Steve Martino,Aziz Ansari,2012,"$161,317,423",PG,6.6,"184,965",49
-378,tt2234155,The Internship,Shawn Levy,Vince Vaughn,2013,"$44,400,000",PG-13,6.3,"184,154",42
-379,tt0481499,The Croods,Kirk DeMicco,Nicolas Cage,2013,"$187,165,546",PG,7.2,"183,711",55
-380,tt1899353,The Raid: Redemption,Gareth Evans,Iko Uwais,2011,"$1,200,000",R,7.6,"182,438",73
-381,tt1636826,Project X,Nima Nourizadeh,Thomas Mann,2012,"$53,400,000",R,6.6,"184,090",48
-382,tt1972591,King Arthur: Legend of the Sword,Guy Ritchie,Charlie Hunnam,2017,"$39,037,047",PG-13,6.7,"182,884",41
+39,tt1504320,The King's Speech,Tom Hooper,Colin Firth,2010,138300000,R,8.0,620382,88
+40,tt1074638,Skyfall,Sam Mendes,Daniel Craig,2012,299300000,PG13,7.7,613182,81
+41,tt3315342,Logan,James Mangold,Hugh Jackman,2017,NA,R,8.1,610395,77
+42,tt2024544,12 Years a Slave,Steve McQueen,Chiwetel Ejiofor,2013,50628650,R,8.1,613932,96
+43,tt2975590,Batman v Superman: Dawn of Justice,Zack Snyder,Ben Affleck,2016,NA,PG13,6.5,601361,44
+44,tt1285016,The Social Network,David Fincher,Jesse Eisenberg,2010,96400000,PG13,7.7,595251,95
+45,tt1951264,The Hunger Games: Catching Fire,Francis Lawrence,Jennifer Lawrence,2013,336663349,PG13,7.5,594275,76
+46,tt1170358,The Hobbit: The Desolation of Smaug,Peter Jackson,Ian McKellen,2013,180443783,PG13,7.8,584249,66
+47,tt0816711,World War Z,Marc Forster,Brad Pitt,2013,202351611,PG13,7.0,579584,63
+48,tt2096673,Inside Out,Pete Docter,Amy Poehler,2015,264317903,PG,8.2,577209,94
+49,tt1825683,Black Panther,Ryan Coogler,Chadwick Boseman,2018,NA,PG13,7.3,579293,88
+50,tt1670345,Now You See Me,Louis Leterrier,Jesse Eisenberg,2013,117698894,PG13,7.3,575712,50
+51,tt1386697,Suicide Squad,David Ayer,Will Smith,2016,325021779,PG13,6.0,574315,40
+52,tt1631867,Edge of Tomorrow,Doug Liman,Tom Cruise,2014,77121429,PG13,7.9,575314,71
+53,tt1981115,Thor: The Dark World,Alan Taylor,Chris Hemsworth,2013,206360018,PG13,6.9,571192,54
+54,tt2802144,Kingsman: The Secret Service,Matthew Vaughn,Adrian Quinton,2014,119469511,R,7.7,569742,60
+55,tt1392214,Prisoners,Denis Villeneuve,Hugh Jackman,2013,60962878,R,8.1,563795,70
+56,tt1211837,Doctor Strange,Scott Derrickson,Benedict Cumberbatch,2016,NA,PG13,7.5,562696,72
+57,tt0454876,Life of Pi,Ang Lee,Suraj Sharma,2012,103500000,PG,7.9,560570,79
+58,tt2543164,Arrival,Denis Villeneuve,Amy Adams,2016,100501349,PG13,7.9,559093,81
+59,tt0369610,Jurassic World,Colin Trevorrow,Chris Pratt,2015,528757749,PG13,7.0,560612,59
+60,tt1024648,Argo,Ben Affleck,Ben Affleck,2012,136019448,R,7.7,556890,86
+61,tt1637725,Ted,Seth MacFarlane,Mark Wahlberg,2012,218100000,R,6.9,555534,62
+62,tt2562232,Birdman or (The Unexpected Virtue of Ignorance),Alejandro G. Iñárritu,Michael Keaton,2014,NA,R,7.7,552429,87
+63,tt1446714,Prometheus,Ridley Scott,Noomi Rapace,2012,126464904,R,7.0,554320,64
+64,tt2294629,Frozen,Chris Buck,Kristen Bell,2013,400736600,PG,7.5,551637,75
+65,tt0780504,Drive,Nicolas Winding Refn,Ryan Gosling,2011,34300000,R,7.8,549955,78
+66,tt3501632,Thor: Ragnarok,Taika Waititi,Chris Hemsworth,2017,NA,PG13,7.9,542938,74
+67,tt0948470,The Amazing Spider-Man,Marc Webb,Andrew Garfield,2012,262030663,PG13,6.9,543434,66
+68,tt0478970,Ant-Man,Peyton Reed,Paul Rudd,2015,138002223,PG13,7.3,540523,64
+69,tt3896198,Guardians of the Galaxy Vol. 2,James Gunn,Chris Pratt,2017,NA,PG13,7.6,537920,67
+70,tt2527336,Star Wars: Episode VIII - The Last Jedi,Rian Johnson,Mark Hamill,2017,619117636,PG13,7.0,532835,85
+71,tt3748528,Rogue One: A Star Wars Story,Gareth Edwards,Felicity Jones,2016,NA,PG13,7.8,526836,65
+72,tt0451279,Wonder Woman,Patty Jenkins,Gal Gadot,2017,NA,PG13,7.4,525690,76
+73,tt1276104,Looper,Rian Johnson,Joseph Gordon-Levitt,2012,66305045,R,7.4,519012,84
+74,tt5013056,Dunkirk,Christopher Nolan,Fionn Whitehead,2017,NA,PG13,7.9,511831,94
+75,tt1250777,Kick-Ass,Matthew Vaughn,Aaron Taylor-Johnson,2010,20000000,R,7.6,513537,66
+76,tt1219289,Limitless,Neil Burger,Bradley Cooper,2011,79230923,PG13,7.4,511865,59
+77,tt1798709,Her,Spike Jonze,Joaquin Phoenix,2013,17901029,R,8.0,510311,90
+78,tt2911666,John Wick,Chad Stahelski,Keanu Reeves,2014,NA,R,7.4,505034,68
+79,tt1232829,21 Jump Street,Phil Lord,Jonah Hill,2012,134000000,R,7.2,494267,69
+80,tt3460252,The Hateful Eight,Quentin Tarantino,Samuel L. Jackson,2015,54116191,R,7.8,484384,68
+81,tt1318514,Rise of the Planet of the Apes,Rupert Wyatt,Andy Serkis,2011,175300000,PG13,7.6,485801,68
+82,tt1323594,Despicable Me,Pierre Coffin,Steve Carell,2010,251476985,PG,7.6,484778,72
+83,tt2250912,Spider-Man: Homecoming,Jon Watts,Tom Holland,2017,334166825,PG13,7.4,478341,73
+84,tt3783958,La La Land,Damien Chazelle,Ryan Gosling,2016,NA,PG13,8.0,472106,94
+85,tt1483013,Oblivion,Joseph Kosinski,Tom Cruise,2013,89021735,PG13,7.0,471533,54
+86,tt0945513,Source Code,Duncan Jones,Jake Gyllenhaal,2011,54696902,PG13,7.5,469329,74
+87,tt1298650,Pirates of the Caribbean: On Stranger Tides,Rob Marshall,Johnny Depp,2011,241063875,PG13,6.6,465510,45
+88,tt7131622,Once Upon a Time... in Hollywood,Quentin Tarantino,Leonardo DiCaprio,2019,NA,R,7.7,462778,83
+89,tt1343092,The Great Gatsby,Baz Luhrmann,Lisa Adam,2013,144812796,PG13,7.2,456854,55
+90,tt5052448,Get Out,Jordan Peele,Daniel Kaluuya,2017,NA,R,7.7,453492,85
+91,tt2310332,The Hobbit: The Battle of the Five Armies,Peter Jackson,Ian McKellen,2014,187747747,PG13,7.4,456504,59
+92,tt1570728,"Crazy, Stupid, Love.",Glenn Ficarra,Steve Carell,2011,83300000,PG13,7.4,454881,68
+93,tt1663662,Pacific Rim,Guillermo del Toro,Charlie Hunnam,2013,101785482,PG13,6.9,454815,65
+94,tt1408101,Star Trek Into Darkness,J.J. Abrams,Chris Pine,2013,228756232,PG13,7.7,454690,72
+95,tt0926084,Harry Potter and the Deathly Hallows: Part 1,David Yates,Bill Nighy,2010,294980434,PG13,7.7,453697,65
+96,tt0470752,Ex Machina,Alex Garland,Domhnall Gleeson,2014,19012798,R,7.7,448743,78
+97,tt1411697,The Hangover Part II,Todd Phillips,Bradley Cooper,2011,254400000,R,6.4,450093,44
+98,tt5463162,Deadpool 2,David Leitch,Ryan Reynolds,2018,NA,R,7.7,444684,66
+99,tt1229238,Mission: Impossible - Ghost Protocol,Brad Bird,Tom Cruise,2011,209364921,PG13,7.4,443423,73
+100,tt1659337,The Perks of Being a Wallflower,Stephen Chbosky,Logan Lerman,2012,14900000,PG13,8.0,441469,67
+101,tt2872718,Nightcrawler,Dan Gilroy,Jake Gyllenhaal,2014,NA,R,7.9,436220,76
+102,tt1800241,American Hustle,David O. Russell,Christian Bale,2013,99165609,R,7.2,434133,90
+103,tt1396484,It,Andy Muschietti,Jaeden Martell,2017,326898358,R,7.3,429602,69
+104,tt1856101,Blade Runner 2049,Denis Villeneuve,Ryan Gosling,2017,NA,R,8.0,429166,81
+105,tt2872732,Lucy,Luc Besson,Scarlett Johansson,2014,108521370,R,6.4,424933,61
+106,tt1457767,The Conjuring,James Wan,Vera Farmiga,2013,137387272,R,7.5,421587,68
+107,tt0790636,Dallas Buyers Club,Jean-Marc Vallée,Matthew McConaughey,2013,23750994,R,8.0,421522,81
+108,tt2179136,American Sniper,Clint Eastwood,Bradley Cooper,2014,274377268,R,7.3,421609,72
+109,tt1727824,Bohemian Rhapsody,Bryan Singer,Rami Malek,2018,NA,PG13,8.0,419680,49
+110,tt1291584,Warrior,Gavin O'Connor,Joel Edgerton,2011,13600000,PG13,8.2,420706,71
+111,tt1430132,The Wolverine,James Mangold,Hugh Jackman,2013,132550960,PG13,6.7,417955,61
+112,tt1979320,Rush,Ron Howard,Chris Hemsworth,2013,22442876,R,8.1,415287,74
+113,tt1840309,Divergent,Neil Burger,Shailene Woodley,2014,129520735,PG13,6.7,413543,48
+114,tt2948356,Zootopia,Byron Howard,Ginnifer Goodwin,2016,341264012,PG,8.0,410437,78
+115,tt1499658,Horrible Bosses,Seth Gordon,Jason Bateman,2011,116900000,R,6.9,411777,57
+116,tt1454029,The Help,Tate Taylor,Emma Stone,2011,169705587,PG13,8.1,409765,62
+117,tt4154664,Captain Marvel,Anna Boden,Brie Larson,2019,NA,PG13,6.9,406778,64
+118,tt3890160,Baby Driver,Edgar Wright,Ansel Elgort,2017,NA,R,7.6,406935,86
+119,tt1535108,Elysium,Neill Blomkamp,Matt Damon,2013,90800000,R,6.6,410080,61
+120,tt1515091,Sherlock Holmes: A Game of Shadows,Guy Ritchie,Robert Downey Jr.,2011,186830669,PG13,7.5,408972,48
+121,tt2713180,Fury,David Ayer,Brad Pitt,2014,72609225,R,7.6,407393,64
+122,tt2119532,Hacksaw Ridge,Mel Gibson,Andrew Garfield,2016,NA,R,8.1,404082,71
+123,tt1535109,Captain Phillips,Paul Greengrass,Tom Hanks,2013,107100855,PG13,7.8,405034,82
+124,tt1568346,The Girl with the Dragon Tattoo,David Fincher,Daniel Craig,2011,102515793,R,7.8,405585,71
+125,tt1872181,The Amazing Spider-Man 2,Marc Webb,Andrew Garfield,2014,183277573,PG13,6.6,404037,53
+126,tt1790864,The Maze Runner,Wes Ball,Dylan O'Brien,2014,98537272,PG13,6.8,402678,57
+127,tt2103281,Dawn of the Planet of the Apes,Matt Reeves,Andy Serkis,2014,183278877,PG13,7.6,401885,79
+128,tt6751668,Parasite,Bong Joon Ho,Kang-ho Song,2019,NA,R,8.6,400197,96
+129,tt4972582,Split,M. Night Shyamalan,James McAvoy,2016,NA,PG13,7.3,398321,62
+130,tt1951265,The Hunger Games: Mockingjay - Part 1,Francis Lawrence,Jennifer Lawrence,2014,295457212,PG13,6.6,396208,64
+131,tt5027774,"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,Frances McDormand,2017,NA,R,8.2,394263,88
+132,tt1895587,Spotlight,Tom McCarthy,Mark Ruffalo,2015,NA,R,8.1,393952,93
+133,tt2245084,Big Hero 6,Don Hall,Scott Adsit,2014,NA,PG,7.8,393016,74
+134,tt3183660,Fantastic Beasts and Where to Find Them,David Yates,Eddie Redmayne,2016,NA,PG13,7.3,389633,66
+135,tt0398286,Tangled,Nathan Greno,Mandy Moore,2010,200803309,PG,7.7,390220,71
+136,tt1723121,We're the Millers,Rawson Marshall Thurber,Jennifer Aniston,2013,144900000,R,7.0,389001,44
+137,tt2980516,The Theory of Everything,James Marsh,Eddie Redmayne,2014,35887263,PG13,7.7,383698,72
+138,tt6644200,A Quiet Place,John Krasinski,Emily Blunt,2018,NA,PG13,7.5,379472,82
+139,tt3385516,X-Men: Apocalypse,Bryan Singer,James McAvoy,2016,135729385,PG13,6.9,377645,52
+140,tt1399103,Transformers: Dark of the Moon,Michael Bay,Shia LaBeouf,2011,352358779,PG13,6.2,376258,42
+141,tt1245492,This Is the End,Evan Goldberg,James Franco,2013,96200000,R,6.6,373189,67
+142,tt1605783,Midnight in Paris,Woody Allen,Owen Wilson,2011,55400000,PG13,7.7,371082,81
+143,tt1014759,Alice in Wonderland,Tim Burton,Johnny Depp,2010,319323000,PG,6.4,371772,53
+144,tt2379713,Spectre,Sam Mendes,Daniel Craig,2015,208777731,PG13,6.8,369275,60
+145,tt0831387,Godzilla,Gareth Edwards,Aaron Taylor-Johnson,2014,172962996,PG13,6.4,366220,62
+146,tt1772341,Wreck-It Ralph,Rich Moore,John C. Reilly,2012,189412677,PG,7.7,365043,72
+147,tt0974015,Justice League,Zack Snyder,Ben Affleck,2017,NA,PG13,6.4,359478,45
+148,tt1259521,The Cabin in the Woods,Drew Goddard,Kristen Connolly,2011,42043633,R,7.0,356988,72
+149,tt0446029,Scott Pilgrim vs. the World,Edgar Wright,Michael Cera,2010,31494270,PG13,7.5,358530,69
+150,tt1637688,In Time,Andrew Niccol,Justin Timberlake,2011,35900000,PG13,6.7,357846,53
+151,tt1905041,Furious 6,Justin Lin,Vin Diesel,2013,238700000,PG13,7.1,358271,61
+152,tt1217209,Brave,Mark Andrews,Kelly Macdonald,2012,237282182,PG,7.1,357239,69
+153,tt1690953,Despicable Me 2,Pierre Coffin,Steve Carell,2013,368049635,PG,7.3,357881,62
+154,tt3397884,Sicario,Denis Villeneuve,Emily Blunt,2015,NA,R,7.6,350799,82
+155,tt2820852,Furious 7,James Wan,Vin Diesel,2015,316986481,PG13,7.2,347783,67
+156,tt5580390,The Shape of Water,Guillermo del Toro,Sally Hawkins,2017,NA,R,7.3,345768,87
+157,tt3170832,Room,Lenny Abrahamson,Brie Larson,2015,14677654,R,8.1,345782,86
+158,tt1210166,Moneyball,Bennett Miller,Brad Pitt,2011,75605492,PG13,7.6,346192,87
+159,tt1282140,Easy A,Will Gluck,Emma Stone,2010,58401464,PG13,7.1,344763,72
+160,tt1596343,Fast Five,Justin Lin,Vin Diesel,2011,209805005,PG13,7.3,342463,66
+161,tt4425200,John Wick: Chapter 2,Chad Stahelski,Keanu Reeves,2017,NA,R,7.5,339326,75
+162,tt1677720,Ready Player One,Steven Spielberg,Tye Sheridan,2018,NA,PG13,7.5,338171,64
+163,tt1596363,The Big Short,Adam McKay,Ryan Gosling,2015,NA,R,7.8,337969,81
+164,tt0840361,The Town,Ben Affleck,Ben Affleck,2010,92173235,R,7.5,336646,74
+165,tt1542344,127 Hours,Danny Boyle,James Franco,2010,18329466,R,7.6,337566,82
+166,tt2380307,Coco,Lee Unkrich,Anthony Gonzalez,2017,208487719,PG,8.4,333411,81
+167,tt1371111,Cloud Atlas,Tom Tykwer,Tom Hanks,2012,22100000,R,7.4,336239,55
+168,tt1477834,Aquaman,James Wan,Jason Momoa,2018,NA,PG13,7.0,334310,55
+169,tt2294449,22 Jump Street,Phil Lord,Jonah Hill,2014,154295930,R,7.0,334014,71
+170,tt1355644,Passengers,Morten Tyldum,Jennifer Lawrence,2016,NA,PG13,7.0,331774,41
+171,tt2582846,The Fault in Our Stars,Josh Boone,Shailene Woodley,2014,NA,PG13,7.7,330659,69
+172,tt1270797,Venom,Ruben Fleischer,Tom Hardy,2018,NA,PG13,6.7,331555,35
+173,tt1587310,Maleficent,Robert Stromberg,Angelina Jolie,2014,190871149,PG,7.0,330733,56
+174,tt1650062,Super 8,J.J. Abrams,Joel Courtney,2011,126975169,PG13,7.0,329334,72
+175,tt1632708,Friends with Benefits,Will Gluck,Justin Timberlake,2011,55802754,R,6.5,329574,63
+176,tt0964517,The Fighter,David O. Russell,Mark Wahlberg,2010,93571803,R,7.8,328998,79
+177,tt2381249,Mission: Impossible - Rogue Nation,Christopher McQuarrie,Tom Cruise,2015,154979949,PG13,7.4,328058,75
+178,tt1065073,Boyhood,Richard Linklater,Ellar Coltrane,2014,18859617,R,7.9,326069,100
+179,tt1409024,Men in Black 3,Barry Sonnenfeld,Will Smith,2012,179020854,PG13,6.8,325268,58
+180,tt6966692,Green Book,Peter Farrelly,Viggo Mortensen,2018,NA,PG13,8.2,314419,69
+181,tt2527338,Star Wars: Episode IX - The Rise of Skywalker,J.J. Abrams,Carrie Fisher,2019,NA,PG13,6.7,318227,53
+182,tt0455944,The Equalizer,Antoine Fuqua,Denzel Washington,2014,85212969,R,7.2,318500,57
+183,tt1320253,The Expendables,Sylvester Stallone,Sylvester Stallone,2010,102981571,R,6.5,317958,45
+184,tt4633694,Spider-Man: Into the Spider-Verse,Bob Persichetti,Shameik Moore,2018,NA,PG,8.4,311747,87
+185,tt1490017,The Lego Movie,Christopher Miller,Will Arnett,2014,244870202,PG,7.7,315571,83
+186,tt1907668,Flight,Robert Zemeckis,Nadine Velazquez,2012,89400000,R,7.3,315172,76
+187,tt1231583,Due Date,Todd Phillips,Robert Downey Jr.,2010,100448498,R,6.5,314859,51
+188,tt1453405,Monsters University,Dan Scanlon,Billy Crystal,2013,260300000,G,7.3,308588,65
+189,tt1306980,50/50,Jonathan Levine,Joseph Gordon-Levitt,2011,35005118,R,7.6,308231,72
+190,tt1517451,A Star Is Born,Bradley Cooper,Lady Gaga,2018,NA,R,7.7,307753,88
+191,tt1748122,Moonrise Kingdom,Wes Anderson,Bruce Willis,2012,45507865,PG13,7.8,305545,84
+192,tt8579674,1917,Sam Mendes,Dean-Charles Chapman,2019,NA,R,8.3,306090,78
+193,tt1104001,TRON: Legacy,Joseph Kosinski,Jeff Bridges,2010,172051787,PG,6.8,306175,49
+194,tt2283362,Jumanji: Welcome to the Jungle,Jake Kasdan,Dwayne Johnson,2017,393201353,PG13,6.9,297049,58
+195,tt1403865,True Grit,Ethan Coen,Jeff Bridges,2010,171031347,PG13,7.6,296875,80
+196,tt8946378,Knives Out,Rian Johnson,Daniel Craig,2019,NA,PG13,7.9,281915,82
+197,tt1707386,Les Misérables,Tom Hooper,Hugh Jackman,2012,148775460,PG13,7.6,298267,63
+198,tt2788710,The Interview,Evan Goldberg,James Franco,2014,4551688,R,6.5,297162,52
+199,tt0790724,Jack Reacher,Christopher McQuarrie,Tom Cruise,2012,80033643,PG13,7.0,297450,50
+200,tt0970179,Hugo,Martin Scorsese,Ben Kingsley,2011,73820094,PG,7.5,294917,83
+201,tt1646971,How to Train Your Dragon 2,Dean DeBlois,Jay Baruchel,2014,147065544,PG,7.8,293080,76
+202,tt2109248,Transformers: Age of Extinction,Michael Bay,Mark Wahlberg,2014,206755538,PG13,5.6,291884,32
+203,tt0433035,Real Steel,Shawn Levy,Hugh Jackman,2011,85463309,PG13,7.1,290010,56
+204,tt2322441,Fifty Shades of Grey,Sam Taylor-Johnson,Dakota Johnson,2015,NA,R,4.1,289209,46
+205,tt6320628,Spider-Man: Far from Home,Jon Watts,Tom Holland,2019,NA,PG13,7.5,279844,69
+206,tt0944835,Salt,Phillip Noyce,Angelina Jolie,2010,118311368,PG13,6.4,287589,65
+207,tt1302006,The Irishman,Martin Scorsese,Robert De Niro,2019,NA,R,7.9,285304,94
+208,tt5095030,Ant-Man and the Wasp,Peyton Reed,Paul Rudd,2018,NA,PG13,7.1,286033,70
+209,tt1764651,The Expendables 2,Simon West,Sylvester Stallone,2012,85017401,R,6.6,285396,51
+210,tt0359950,The Secret Life of Walter Mitty,Ben Stiller,Ben Stiller,2013,33223430,PG,7.3,284080,54
+211,tt1706620,Snowpiercer,Bong Joon Ho,Chris Evans,2013,2786828,R,7.1,279565,84
+212,tt1037705,The Book of Eli,Albert Hughes,Denzel Washington,2010,94800000,R,6.9,283985,53
+213,tt1951261,The Hangover Part III,Todd Phillips,Bradley Cooper,2013,112200000,R,5.8,283880,30
+214,tt2194499,About Time,Richard Curtis,Domhnall Gleeson,2013,18472384,R,7.8,281984,55
+215,tt1397280,Taken 2,Olivier Megaton,Liam Neeson,2012,139852115,PG13,6.3,282456,45
+216,tt1245526,RED,Robert Schwentke,Bruce Willis,2010,88900000,PG13,7.0,280530,60
+217,tt1179933,10 Cloverfield Lane,Dan Trachtenberg,John Goodman,2016,59481553,PG13,7.2,277223,76
+218,tt1194173,The Bourne Legacy,Tony Gilroy,Jeremy Renner,2012,113165635,PG13,6.7,277242,61
+219,tt2004420,Neighbors,Nicholas Stoller,Seth Rogen,2014,134413041,R,6.3,276477,68
+220,tt3682448,Bridge of Spies,Steven Spielberg,Mark Rylance,2015,NA,PG13,7.6,276130,81
+221,tt1253863,300: Rise of an Empire,Noam Murro,Sullivan Stapleton,2014,91024535,R,6.2,273300,48
+222,tt1951266,The Hunger Games: Mockingjay - Part 2,Francis Lawrence,Jennifer Lawrence,2015,NA,PG13,6.5,270192,65
+223,tt4912910,Mission: Impossible - Fallout,Christopher McQuarrie,Tom Cruise,2018,NA,PG13,7.7,268724,86
+224,tt3778644,Solo: A Star Wars Story,Ron Howard,Alden Ehrenreich,2018,NA,PG13,6.9,269675,62
+225,tt1591095,Insidious,James Wan,Patrick Wilson,2010,53700000,PG13,6.8,267514,52
+226,tt1981677,Pitch Perfect,Jason Moore,Anna Kendrick,2012,61100000,PG13,7.2,267445,66
+227,tt1735898,Snow White and the Huntsman,Rupert Sanders,Kristen Stewart,2012,155081785,PG13,6.1,266071,57
+228,tt0473075,Prince of Persia: The Sands of Time,Mike Newell,Jake Gyllenhaal,2010,90755643,PG13,6.6,263143,50
+229,tt0800320,Clash of the Titans,Louis Leterrier,Sam Worthington,2010,163100000,PG13,5.8,264525,39
+230,tt1598778,Contagion,Steven Soderbergh,Gwyneth Paltrow,2011,75638743,PG13,6.7,262077,70
+231,tt1645170,The Dictator,Larry Charles,Sacha Baron Cohen,2012,57700000,R,6.4,262728,58
+232,tt2106476,The Hunt,Thomas Vinterberg,Mads Mikkelsen,2012,610968,R,8.3,261321,77
+233,tt2798920,Annihilation,Alex Garland,Natalie Portman,2018,NA,R,6.9,260188,79
+234,tt3799694,The Nice Guys,Shane Black,Russell Crowe,2016,32261515,R,7.4,259792,70
+235,tt1790885,Zero Dark Thirty,Kathryn Bigelow,Jason Clarke,2012,95720716,R,7.4,261273,95
+236,tt1133985,Green Lantern,Martin Campbell,Ryan Reynolds,2011,116600000,PG13,5.5,259826,39
+237,tt1478338,Bridesmaids,Paul Feig,Kristen Wiig,2011,166500000,R,6.8,259253,75
+238,tt0101414,Beauty and the Beast,Gary Trousdale,Robby Benson,1991,47611331,G,8.0,404632,95
+239,tt1091191,Lone Survivor,Peter Berg,Mark Wahlberg,2013,97665254,R,7.5,258109,60
+240,tt2737304,Bird Box,Susanne Bier,Sandra Bullock,2018,NA,R,6.6,254088,51
+241,tt3731562,Kong: Skull Island,Jordan Vogt-Roberts,Tom Hiddleston,2017,NA,PG13,6.6,256021,62
+242,tt1638355,The Man from U.N.C.L.E.,Guy Ritchie,Henry Cavill,2015,38140180,PG13,7.3,254692,56
+243,tt4649466,Kingsman: The Golden Circle,Matthew Vaughn,Taron Egerton,2017,99733121,R,6.7,255646,44
+244,tt4975722,Moonlight,Barry Jenkins,Mahershala Ali,2016,27850910,R,7.4,253485,99
+245,tt3040964,The Jungle Book,Jon Favreau,Neel Sethi,2016,363995937,PG,7.4,251003,77
+246,tt3521164,Moana,Ron Clements,Auli'i Cravalho,2016,NA,PG,7.6,250176,81
+247,tt1340138,Terminator Genisys,Alan Taylor,Arnold Schwarzenegger,2015,75614989,PG13,6.4,250391,38
+248,tt2302755,Olympus Has Fallen,Antoine Fuqua,Gerard Butler,2013,98600000,R,6.5,248742,41
+249,tt0401729,John Carter,Andrew Stanton,Taylor Kitsch,2012,73058679,PG13,6.6,248903,51
+250,tt1213663,The World's End,Edgar Wright,Thomas Law,2013,33408732,R,7.0,249684,81
+251,tt2140479,The Accountant,Gavin O'Connor,Ben Affleck,2016,NA,R,7.3,248304,51
+252,tt1790809,Pirates of the Caribbean: Dead Men Tell No Tales,Joachim Rønning,Johnny Depp,2017,172537139,PG13,6.6,248795,39
+253,tt1650554,Kick-Ass 2,Jeff Wadlow,Aaron Taylor-Johnson,2013,28800000,R,6.5,247463,41
+254,tt4881806,Jurassic World: Fallen Kingdom,J.A. Bayona,Chris Pratt,2018,NA,PG13,6.2,245420,51
+255,tt0955308,Robin Hood,Ridley Scott,Russell Crowe,2010,105219735,PG13,6.6,246511,53
+256,tt6146586,John Wick: Chapter 3 - Parabellum,Chad Stahelski,Keanu Reeves,2019,NA,R,7.5,244184,73
+257,tt2024469,Non-Stop,Jaume Collet-Serra,Liam Neeson,2014,80432029,PG13,6.9,243834,56
+258,tt2316204,Alien: Covenant,Ridley Scott,Michael Fassbender,2017,74255908,R,6.4,242805,65
+259,tt1343727,Dredd,Pete Travis,Karl Urban,2012,13401683,R,7.1,242934,60
+260,tt1302011,Kung Fu Panda 2,Jennifer Yuh Nelson,Jack Black,2011,165230261,PG,7.2,243145,67
+261,tt1401152,Unknown,Jaume Collet-Serra,Liam Neeson,2011,63677735,PG13,6.8,241844,56
+262,tt0429493,The A-Team,Joe Carnahan,Liam Neeson,2010,77213489,PG13,6.7,241116,47
+263,tt2397535,Predestination,Michael Spierig,Ethan Hawke,2014,201560,R,7.5,238117,69
+264,tt1077368,Dark Shadows,Tim Burton,Johnny Depp,2012,79711678,PG13,6.2,238930,55
+265,tt3076658,Creed,Ryan Coogler,Michael B. Jordan,2015,81157671,PG13,7.6,237092,82
+266,tt1817273,The Place Beyond the Pines,Derek Cianfrance,Ryan Gosling,2012,21300000,R,7.3,236294,68
+267,tt0443272,Lincoln,Steven Spielberg,Daniel Day-Lewis,2012,129477447,PG13,7.3,236818,86
+268,tt1959490,Noah,Darren Aronofsky,Russell Crowe,2014,101160529,PG13,5.8,237051,68
+269,tt1385826,The Adjustment Bureau,George Nolfi,Matt Damon,2011,62453315,PG13,7.0,234932,60
+270,tt0803096,Warcraft,Duncan Jones,Travis Fimmel,2016,NA,PG13,6.8,235008,32
+271,tt1601913,The Grey,Joe Carnahan,Liam Neeson,2011,51533608,R,6.8,235006,64
+272,tt3110958,Now You See Me 2,Jon M. Chu,Jesse Eisenberg,2016,NA,PG13,6.5,232515,46
+273,tt1706593,Chronicle,Josh Trank,Dane DeHaan,2012,60800000,PG13,7.0,234914,69
+274,tt0100802,Total Recall,Paul Verhoeven,Arnold Schwarzenegger,1990,119000000,R,7.5,288384,57
+275,tt1386588,The Other Guys,Adam McKay,Will Ferrell,2010,119219978,PG13,6.6,232891,64
+276,tt1931533,Seven Psychopaths,Martin McDonagh,Michael Pitt,2012,15000000,R,7.2,232749,66
+277,tt4034228,Manchester by the Sea,Kenneth Lonergan,Casey Affleck,2016,NA,R,7.8,231863,96
+278,tt3606756,Incredibles 2,Brad Bird,Craig T. Nelson,2018,NA,PG,7.6,231383,80
+279,tt1440129,Battleship,Peter Berg,Taylor Kitsch,2012,65173160,PG13,5.8,230992,41
+280,tt0448115,Shazam!,David F. Sandberg,Zachary Levi,2019,NA,PG13,7.1,228554,71
+281,tt2277860,Finding Dory,Andrew Stanton,Ellen DeGeneres,2016,NA,PG,7.3,227414,77
+282,tt1092026,Paul,Greg Mottola,Mia Stallard,2011,37371385,R,7.0,228547,57
+283,tt1033575,The Descendants,Alexander Payne,George Clooney,2011,78500000,R,7.3,227886,84
+284,tt1192628,Rango,Gore Verbinski,Johnny Depp,2011,123188232,PG,7.2,226708,75
+285,tt1655442,The Artist,Michel Hazanavicius,Jean Dujardin,2011,44667095,PG13,7.9,224074,89
+286,tt0978764,Sucker Punch,Zack Snyder,Emily Browning,2011,36381716,PG13,6.0,224120,33
+287,tt4550098,Nocturnal Animals,Tom Ford,Amy Adams,2016,10639114,R,7.5,222817,67
+288,tt3263904,Sully,Clint Eastwood,Tom Hanks,2016,NA,PG13,7.4,222439,74
+289,tt2229499,Don Jon,Joseph Gordon-Levitt,Joseph Gordon-Levitt,2013,NA,R,6.5,223323,66
+290,tt1464540,I Am Number Four,D.J. Caruso,Alex Pettyfer,2011,55086029,PG13,6.1,223324,36
+291,tt1673434,The Twilight Saga: Breaking Dawn - Part 2,Bill Condon,Kristen Stewart,2012,292298923,PG13,5.5,222370,52
+292,tt3079380,Spy,Paul Feig,Jude Law,2015,89914425,R,7.0,221939,75
+293,tt1823672,Chappie,Neill Blomkamp,Sharlto Copley,2015,NA,R,6.8,222623,41
+294,tt1212450,Lawless,John Hillcoat,Shia LaBeouf,2012,36300000,R,7.3,221004,58
+295,tt1211956,Escape Plan,Mikael Håfström,Sylvester Stallone,2013,18645489,R,6.7,220662,49
+296,tt1855199,End of Watch,David Ayer,Jake Gyllenhaal,2012,39100000,R,7.6,220505,68
+297,tt1375670,Grown Ups,Dennis Dugan,Adam Sandler,2010,162001186,PG13,5.9,219824,30
+298,tt1325004,The Twilight Saga: Eclipse,David Slade,Xavier Samuel,2010,300523113,PG13,5.0,219468,58
+299,tt2660888,Star Trek Beyond,Justin Lin,Chris Pine,2016,NA,PG13,7.1,219183,68
+300,tt1485796,The Greatest Showman,Michael Gracey,Hugh Jackman,2017,NA,PG,7.6,217518,48
+301,tt1001526,Megamind,Tom McGrath,Will Ferrell,2010,148244405,PG,7.2,217881,63
+302,tt1731141,Ender's Game,Gavin Hood,Asa Butterfield,2013,NA,PG13,6.6,217740,51
+303,tt3450958,War for the Planet of the Apes,Matt Reeves,Andy Serkis,2017,146872826,PG13,7.4,216413,82
+304,tt4925292,Lady Bird,Greta Gerwig,Saoirse Ronan,2017,NA,R,7.4,217092,94
+305,tt1243957,The Tourist,Florian Henckel von Donnersmarck,Johnny Depp,2010,67631157,PG13,6.0,215485,37
+306,tt1324999,The Twilight Saga: Breaking Dawn - Part 1,Bill Condon,Taylor Lautner,2011,281267663,PG13,4.9,215436,45
+307,tt1210819,The Lone Ranger,Gore Verbinski,Johnny Depp,2013,89289910,PG13,6.4,215654,37
+308,tt0837562,Hotel Transylvania,Genndy Tartakovsky,Adam Sandler,2012,148280635,PG,7.1,214368,47
+309,tt1588173,Warm Bodies,Jonathan Levine,Nicholas Hoult,2013,65000000,PG13,6.9,214151,60
+310,tt3065204,The Conjuring 2,James Wan,Patrick Wilson,2016,102461593,R,7.3,212809,65
+311,tt1950186,Ford v Ferrari,James Mangold,Matt Damon,2019,NA,PG13,8.1,203515,81
+312,tt4046784,Maze Runner: The Scorch Trials,Wes Ball,Dylan O'Brien,2015,NA,PG13,6.3,212497,43
+313,tt1564367,Just Go with It,Dennis Dugan,Adam Sandler,2011,103028109,PG13,6.4,211733,33
+314,tt0093870,RoboCop,Paul Verhoeven,Peter Weller,1987,NA,R,7.5,224319,67
+315,tt2209764,Transcendence,Wally Pfister,Johnny Depp,2014,23014504,PG13,6.3,210862,42
+316,tt2584384,Jojo Rabbit,Taika Waititi,Roman Griffin Davis,2019,NA,PG13,7.9,198941,58
+317,tt1124035,The Ides of March,George Clooney,Ryan Gosling,2011,40962534,R,7.1,211045,67
+318,tt7653254,Marriage Story,Noah Baumbach,Adam Driver,2019,NA,R,8.0,204421,94
+319,tt0983193,The Adventures of Tintin,Steven Spielberg,Jamie Bell,2011,75300000,PG,7.3,209923,68
+320,tt1832382,A Separation,Asghar Farhadi,Payman Maadi,2011,6700000,PG13,8.3,209132,95
+321,tt1798684,Southpaw,Antoine Fuqua,Jake Gyllenhaal,2015,NA,R,7.4,209468,57
+322,tt2908446,Insurgent,Robert Schwentke,Kate Winslet,2015,114138208,PG13,6.2,209111,42
+323,tt1922777,Sinister,Scott Derrickson,Ethan Hawke,2012,48100000,R,6.8,208963,53
+324,tt7784604,Hereditary,Ari Aster,Alex Wolff,2018,NA,R,7.3,206194,87
+325,tt2381941,Focus,Glenn Ficarra,Will Smith,2015,50265541,R,6.6,206566,56
+326,tt2361509,The Intern,Nancy Meyers,Robert De Niro,2015,60886513,PG13,7.1,205929,51
+327,tt1411238,No Strings Attached,Ivan Reitman,Natalie Portman,2011,70300000,R,6.2,206095,50
+328,tt1424381,Predators,Nimród Antal,Adrien Brody,2010,52000688,R,6.4,206270,51
+329,tt4160708,Don't Breathe,Fede Alvarez,Stephen Lang,2016,89210468,R,7.1,205569,71
+330,tt0437086,Alita: Battle Angel,Robert Rodriguez,Rosa Salazar,2019,NA,PG13,7.3,202859,53
+331,tt1189340,The Lincoln Lawyer,Brad Furman,Matthew McConaughey,2011,57900000,R,7.3,204867,63
+332,tt2293640,Minions,Kyle Balda,Sandra Bullock,2015,277969969,PG,6.4,203993,56
+333,tt0103639,Aladdin,Ron Clements,Scott Weinger,1992,NA,G,8.0,356283,86
+334,tt3464902,The Lobster,Yorgos Lanthimos,Jacqueline Abrahams,2015,9078073,R,7.2,201348,82
+335,tt2126355,San Andreas,Brad Peyton,Dwayne Johnson,2015,127666001,PG13,6.0,203377,43
+336,tt2994904,Cowboys & Aliens,Tomislav Mrsic,Sasa Anocic,2013,NA,N/A,7.1,903,N/A
+337,tt1321870,Gangster Squad,Ruben Fleischer,Sean Penn,2013,45996718,R,6.7,201910,40
+338,tt4123430,Fantastic Beasts: The Crimes of Grindelwald,David Yates,Johnny Depp,2018,NA,PG13,6.6,199617,52
+339,tt3741834,Lion,Garth Davis,Sunny Pawar,2016,51694854,PG13,8.0,201329,69
+340,tt4196776,Jason Bourne,Paul Greengrass,Matt Damon,2016,162162120,PG13,6.6,200524,58
+341,tt2334879,White House Down,Roland Emmerich,Channing Tatum,2013,73103784,PG13,6.4,199622,52
+342,tt1436562,Rio,Carlos Saldanha,Karen Disher,2011,143613651,G,6.9,199259,63
+343,tt1599348,Safe House,Daniel Espinosa,Denzel Washington,2012,126149655,R,6.7,198994,52
+344,tt3235888,It Follows,David Robert Mitchell,Bailey Spry,2014,10705259,R,6.8,198611,83
+345,tt6857112,Us,Jordan Peele,Lupita Nyong'o,2019,NA,R,6.9,194422,81
+346,tt1605630,American Reunion,Jon Hurwitz,Jason Biggs,2012,55300000,R,6.7,197605,49
+347,tt3402236,Murder on the Orient Express,Kenneth Branagh,Paapa Essiedu,2017,NA,PG13,6.5,196312,52
+348,tt5442430,Life,Daniel Espinosa,Hiroyuki Sanada,2017,NA,R,6.6,196878,54
+349,tt0087332,Ghostbusters,Ivan Reitman,Bill Murray,1984,NA,PG,7.8,339643,71
+350,tt1291150,Teenage Mutant Ninja Turtles,Jonathan Liebesman,Megan Fox,2014,163911409,PG13,5.8,196987,31
+351,tt1623205,Oz the Great and Powerful,Sam Raimi,James Franco,2013,234903076,PG,6.3,196092,44
+352,tt2184339,The Purge,James DeMonaco,Ethan Hawke,2013,64400000,R,5.7,195033,41
+353,tt4630562,The Fate of the Furious,F. Gary Gray,Vin Diesel,2017,225697400,PG13,6.7,194998,56
+354,tt1980209,Pain & Gain,Michael Bay,Mark Wahlberg,2013,49300000,R,6.4,194964,45
+355,tt2674426,Me Before You,Thea Sharrock,Sam Claflin,2016,NA,PG13,7.4,194533,51
+356,tt1606378,A Good Day to Die Hard,John Moore,Bruce Willis,2013,67344392,R,5.3,193649,28
+357,tt2582782,Hell or High Water,David Mackenzie,Dale Dickey,2016,NA,R,7.6,192695,88
+358,tt6823368,Glass,M. Night Shyamalan,James McAvoy,2019,NA,PG13,6.7,190395,43
+359,tt1428538,Hansel & Gretel: Witch Hunters,Tommy Wirkola,Jeremy Renner,2013,55000000,R,6.1,189658,23
+360,tt5726616,Call Me by Your Name,Luca Guadagnino,Armie Hammer,2017,NA,R,7.9,186715,93
+361,tt2704998,Game Night,John Francis Daley,Jason Bateman,2018,33537766,R,6.9,187824,66
+362,tt2719848,Everest,Baltasar Kormákur,Jason Clarke,2015,NA,PG13,7.1,189288,64
+363,tt0110357,The Lion King,Roger Allers,Rowan Atkinson,1994,94240635,G,8.5,901362,88
+364,tt1272878,2 Guns,Baltasar Kormákur,Denzel Washington,2013,73500000,R,6.7,188623,55
+365,tt7349662,BlacKkKlansman,Spike Lee,Alec Baldwin,2018,NA,R,7.5,186059,83
+366,tt1649419,The Impossible,J.A. Bayona,Naomi Watts,2012,18996755,PG13,7.6,188212,73
+367,tt5362988,Wind River,Taylor Sheridan,Kelsey Asbille,2017,NA,R,7.7,188167,73
+368,tt1219827,Ghost in the Shell,Rupert Sanders,Scarlett Johansson,2017,NA,PG13,6.3,188067,52
+369,tt4846340,Hidden Figures,Theodore Melfi,Taraji P. Henson,2016,169385416,PG,7.8,186786,74
+370,tt1284575,Bad Teacher,Jake Kasdan,Cameron Diaz,2011,100292856,R,5.6,187866,47
+371,tt1815862,After Earth,M. Night Shyamalan,Jaden Smith,2013,60522097,PG13,4.8,187152,33
+372,tt0985694,Machete,Ethan Maniquis,Danny Trejo,2010,26200000,R,6.6,186475,60
+373,tt2321549,The Babadook,Jennifer Kent,Essie Davis,2014,NA,Not Rated,6.8,186702,86
+374,tt2334873,Blue Jasmine,Woody Allen,Cate Blanchett,2013,NA,PG13,7.3,185920,78
+375,tt2883512,Chef,Jon Favreau,Jon Favreau,2014,23678226,R,7.3,186373,68
+376,tt0993842,Hanna,Joe Wright,Saoirse Ronan,2011,40200000,PG13,6.8,185536,65
+377,tt1667889,Ice Age: Continental Drift,Steve Martino,Aziz Ansari,2012,161317423,PG,6.6,184965,49
+378,tt2234155,The Internship,Shawn Levy,Vince Vaughn,2013,44400000,PG13,6.3,184154,42
+379,tt0481499,The Croods,Kirk DeMicco,Nicolas Cage,2013,187165546,PG,7.2,183711,55
+380,tt1899353,The Raid: Redemption,Gareth Evans,Iko Uwais,2011,1200000,R,7.6,182438,73
+381,tt1636826,Project X,Nima Nourizadeh,Thomas Mann,2012,53400000,R,6.6,184090,48
+382,tt1972591,King Arthur: Legend of the Sword,Guy Ritchie,Charlie Hunnam,2017,39037047,PG13,6.7,182884,41
 383,NA,The VVitch: A New-England Folktale,NA,NA,NA,NA,NA,NA,NA,NA
-384,tt1365519,Tomb Raider,Roar Uthaug,Alicia Vikander,2018,N/A,PG-13,6.3,"180,850",48
-385,tt1340800,Tinker Tailor Soldier Spy,Tomas Alfredson,Mark Strong,2011,"$20,200,000",R,7.1,"180,870",85
-386,tt1606389,The Vow,Michael Sucsy,Rachel McAdams,2012,"$125,014,030",PG-13,6.8,"178,921",43
-387,tt5109784,Mother!,Darren Aronofsky,Jennifer Lawrence,2017,"$17,297,289",R,6.6,"179,054",75
-388,tt0477080,Unstoppable,Tony Scott,Denzel Washington,2010,"$81,557,479",PG-13,6.8,"179,009",69
-389,tt2404435,The Magnificent Seven,Antoine Fuqua,Denzel Washington,2016,"$93,381,044",PG-13,6.9,"177,246",54
-390,tt1979376,Toy Story 4,Josh Cooley,Tom Hanks,2019,N/A,G,7.8,"172,068",84
-391,tt1120985,Blue Valentine,Derek Cianfrance,Ryan Gosling,2010,"$9,600,000",R,7.4,"177,590",81
-392,tt2094766,Assassin's Creed,Justin Kurzel,Michael Fassbender,2016,N/A,PG-13,5.7,"177,249",36
-393,tt1723811,Shame,Steve McQueen,Michael Fassbender,2011,"$2,971,782",NC-17,7.2,"177,261",72
-394,tt1646987,Wrath of the Titans,Jonathan Liebesman,Sam Worthington,2012,"$83,640,426",PG-13,5.7,"177,707",37
-395,tt0892791,Shrek Forever After,Mike Mitchell,Mike Myers,2010,"$238,319,043",PG,6.3,"177,064",58
-396,tt1959563,The Hitman's Bodyguard,Patrick Hughes,Elodie Yung,2017,N/A,R,6.9,"176,691",47
-397,tt2637276,Ted 2,Seth MacFarlane,Mark Wahlberg,2015,"$63,883,740",R,6.3,"176,596",48
-398,tt3553976,Captain Fantastic,Matt Ross,Viggo Mortensen,2016,N/A,R,7.9,"174,313",72
-399,tt2709768,The Secret Life of Pets,Chris Renaud,Louis C.K.,2016,N/A,PG,6.5,"175,561",61
-400,tt1458175,The Next Three Days,Paul Haggis,Russell Crowe,2010,"$21,100,000",PG-13,7.4,"175,526",52
-401,tt7349950,It Chapter Two,Andy Muschietti,Jessica Chastain,2019,N/A,R,6.6,"168,180",58
-402,tt2053463,Side Effects,Steven Soderbergh,Rooney Mara,2013,"$32,154,410",R,7.1,"174,956",75
-403,tt1013743,Knight and Day,James Mangold,Tom Cruise,2010,"$76,418,654",PG-13,6.3,"175,267",46
-404,tt3774694,Love & Other Drugs,Gaspar Noé,Aomi Muyock,2015,"$176,061",Not Rated,6.1,"41,785",51
-405,tt1617661,Jupiter Ascending,Lana Wachowski,Mila Kunis,2015,"$43,733,037",PG-13,5.3,"173,458",40
-406,tt2446042,Taken 3,Olivier Megaton,Liam Neeson,2014,N/A,PG-13,6.0,"172,649",26
-407,tt1398426,Straight Outta Compton,F. Gary Gray,O'Shea Jackson Jr.,2015,"$129,402,415",R,7.9,"173,298",72
-408,tt1596350,This Means War,McG,Reese Witherspoon,2012,"$54,758,461",PG-13,6.3,"172,002",31
-409,tt0829150,Dracula Untold,Gary Shore,Luke Evans,2014,N/A,PG-13,6.3,"171,651",40
+384,tt1365519,Tomb Raider,Roar Uthaug,Alicia Vikander,2018,NA,PG13,6.3,180850,48
+385,tt1340800,Tinker Tailor Soldier Spy,Tomas Alfredson,Mark Strong,2011,20200000,R,7.1,180870,85
+386,tt1606389,The Vow,Michael Sucsy,Rachel McAdams,2012,125014030,PG13,6.8,178921,43
+387,tt5109784,Mother!,Darren Aronofsky,Jennifer Lawrence,2017,17297289,R,6.6,179054,75
+388,tt0477080,Unstoppable,Tony Scott,Denzel Washington,2010,81557479,PG13,6.8,179009,69
+389,tt1979376,Toy Story 4,Josh Cooley,Tom Hanks,2019,NA,G,7.8,172068,84
+390,tt2404435,The Magnificent Seven,Antoine Fuqua,Denzel Washington,2016,93381044,PG13,6.9,177246,54
+391,tt1120985,Blue Valentine,Derek Cianfrance,Ryan Gosling,2010,9600000,R,7.4,177590,81
+392,tt2094766,Assassin's Creed,Justin Kurzel,Michael Fassbender,2016,NA,PG13,5.7,177249,36
+393,tt1723811,Shame,Steve McQueen,Michael Fassbender,2011,2971782,NC-17,7.2,177261,72
+394,tt1646987,Wrath of the Titans,Jonathan Liebesman,Sam Worthington,2012,83640426,PG13,5.7,177707,37
+395,tt0892791,Shrek Forever After,Mike Mitchell,Mike Myers,2010,238319043,PG,6.3,177064,58
+396,tt1959563,The Hitman's Bodyguard,Patrick Hughes,Elodie Yung,2017,NA,R,6.9,176691,47
+397,tt2637276,Ted 2,Seth MacFarlane,Mark Wahlberg,2015,63883740,R,6.3,176596,48
+398,tt3553976,Captain Fantastic,Matt Ross,Viggo Mortensen,2016,NA,R,7.9,174313,72
+399,tt2709768,The Secret Life of Pets,Chris Renaud,Louis C.K.,2016,NA,PG,6.5,175561,61
+400,tt1458175,The Next Three Days,Paul Haggis,Russell Crowe,2010,21100000,PG13,7.4,175526,52
+401,tt7349950,It Chapter Two,Andy Muschietti,Jessica Chastain,2019,NA,R,6.6,168180,58
+402,tt2053463,Side Effects,Steven Soderbergh,Rooney Mara,2013,32154410,R,7.1,174956,75
+403,tt1013743,Knight and Day,James Mangold,Tom Cruise,2010,76418654,PG13,6.3,175267,46
+404,tt3774694,Love & Other Drugs,Gaspar Noé,Aomi Muyock,2015,176061,TV-MA,6.1,42592,51
+405,tt1617661,Jupiter Ascending,Lana Wachowski,Mila Kunis,2015,43733037,PG13,5.3,173458,40
+406,tt2446042,Taken 3,Olivier Megaton,Liam Neeson,2014,NA,PG13,6.0,172649,26
+407,tt1398426,Straight Outta Compton,F. Gary Gray,O'Shea Jackson Jr.,2015,129402415,R,7.9,173298,72
+408,tt1596350,This Means War,McG,Reese Witherspoon,2012,54758461,PG13,6.3,172002,31
+409,tt0829150,Dracula Untold,Gary Shore,Luke Evans,2014,NA,PG13,6.3,171651,40
 410,tt7062794,Percy Jackson & the Olympians: The Lightning Thief,N/A,Riley Wake,2017–,NA,N/A,7.0,25,N/A
-411,tt1217613,Battle Los Angeles,Jonathan Liebesman,Aaron Eckhart,2011,"$83,537,651",PG-13,5.7,"171,000",37
-412,tt1872194,The Judge,David Dobkin,Robert Downey Jr.,2014,"$35,631,470",R,7.4,"169,898",48
-413,tt1596365,The Woman in Black,James Watkins,Emma Shorey,2012,"$54,322,273",PG-13,6.4,"170,061",62
-414,tt1583421,G.I. Joe: Retaliation,Jon M. Chu,Dwayne Johnson,2013,"$122,512,052",PG-13,5.8,"169,385",41
-415,tt1700841,Sausage Party,Greg Tiernan,Alistair Abell,2016,N/A,R,6.1,"168,833",66
+411,tt1217613,Battle Los Angeles,Jonathan Liebesman,Aaron Eckhart,2011,83537651,PG13,5.7,171000,37
+412,tt1872194,The Judge,David Dobkin,Robert Downey Jr.,2014,35631470,R,7.4,169898,48
+413,tt1596365,The Woman in Black,James Watkins,Emma Shorey,2012,54322273,PG13,6.4,170061,62
+414,tt1583421,G.I. Joe: Retaliation,Jon M. Chu,Dwayne Johnson,2013,122512052,PG13,5.8,169385,41
+415,tt1700841,Sausage Party,Greg Tiernan,Alistair Abell,2016,NA,R,6.1,168833,66
 416,NA,Ocean's 8,NA,NA,NA,NA,NA,NA,NA,NA
-417,tt2005151,War Dogs,Todd Phillips,Miles Teller,2016,"$43,017,433",R,7.1,"167,559",57
-418,tt5311514,Your Name.,Makoto Shinkai,Ryûnosuke Kamiki,2016,"$4,676,810",PG,8.4,"164,672",79
-419,tt1964418,Tomorrowland,Brad Bird,George Clooney,2015,"$71,526,443",PG,6.4,"167,298",60
-420,tt5580036,"I, Tonya",Craig Gillespie,Margot Robbie,2017,N/A,R,7.5,"164,196",77
-421,tt2557490,A Million Ways to Die in the West,Seth MacFarlane,Seth MacFarlane,2014,"$37,331,031",R,6.1,"166,139",44
-422,tt2406566,Atomic Blonde,David Leitch,Charlize Theron,2017,N/A,R,6.7,"165,671",63
-423,tt4776998,The Promise,Terry George,Oscar Isaac,2016,"$8,186,236",PG-13,5.9,"166,105",49
-424,tt1226229,Get Him to the Greek,Nicholas Stoller,Russell Brand,2010,"$60,923,325",R,6.4,"165,403",65
-425,tt0120616,The Mummy,Stephen Sommers,Brendan Fraser,1999,N/A,PG-13,7.0,"379,721",48
+417,tt2005151,War Dogs,Todd Phillips,Miles Teller,2016,43017433,R,7.1,167559,57
+418,tt5311514,Your Name.,Makoto Shinkai,Ryûnosuke Kamiki,2016,4676810,PG,8.4,164672,79
+419,tt1964418,Tomorrowland,Brad Bird,George Clooney,2015,71526443,PG,6.4,167298,60
+420,tt5580036,"I, Tonya",Craig Gillespie,Margot Robbie,2017,NA,R,7.5,164196,77
+421,tt2557490,A Million Ways to Die in the West,Seth MacFarlane,Seth MacFarlane,2014,37331031,R,6.1,166139,44
+422,tt2406566,Atomic Blonde,David Leitch,Charlize Theron,2017,NA,R,6.7,165671,63
+423,tt4776998,The Promise,Terry George,Oscar Isaac,2016,8186236,PG13,5.9,166105,49
+424,tt1226229,Get Him to the Greek,Nicholas Stoller,Russell Brand,2010,60923325,R,6.4,165403,65
+425,tt0120616,The Mummy,Stephen Sommers,Brendan Fraser,1999,NA,PG13,7.0,379721,48
 426,NA,Relatos salvajes,NA,NA,NA,NA,NA,NA,NA,NA
-427,tt2023587,Mama,Andy Muschietti,Jessica Chastain,2013,"$71,588,220",PG-13,6.2,"164,908",57
-428,tt2333784,The Expendables 3,Patrick Hughes,Sylvester Stallone,2014,"$34,742,878",PG-13,6.1,"162,619",35
-429,tt1229340,Anchorman 2: The Legend Continues,Adam McKay,Will Ferrell,2013,"$76,820,043",PG-13,6.3,"163,107",61
-430,tt0478304,The Tree of Life,Terrence Malick,Brad Pitt,2011,"$13,303,319",PG-13,6.8,"162,847",85
-431,tt2935510,Ad Astra,James Gray,Brad Pitt,2019,N/A,PG-13,6.6,"157,194",80
-432,tt1355683,Black Mass,Scott Cooper,Johnny Depp,2015,"$48,786,443",R,6.9,"162,012",68
-433,tt9243946,El Camino: A Breaking Bad Movie,Vince Gilligan,Aaron Paul,2019,N/A,TV-MA,7.4,"162,010",72
-434,tt1935179,Mud,Jeff Nichols,Matthew McConaughey,2012,"$21,589,307",PG-13,7.4,"161,427",76
-435,tt3631112,The Girl on the Train,Tate Taylor,Emily Blunt,2016,N/A,R,6.5,"161,657",48
-436,tt1527186,Melancholia,Lars von Trier,Kirsten Dunst,2011,N/A,R,7.2,"159,954",80
-437,tt5727208,Uncut Gems,Benny Safdie,Mesfin Lamengo,2019,N/A,R,7.5,"146,046",90
-438,tt1628841,Independence Day: Resurgence,Roland Emmerich,Liam Hemsworth,2016,"$103,137,295",PG-13,5.2,"161,085",32
-439,tt5519340,Bright,David Ayer,Will Smith,2017,N/A,TV-MA,6.3,"160,070",29
-440,tt1488555,The Change-Up,David Dobkin,Ryan Reynolds,2011,"$37,000,000",R,6.3,"160,124",39
-441,tt1465522,Tucker and Dale vs Evil,Eli Craig,Tyler Labine,2010,"$154,232",R,7.5,"159,838",65
-442,tt4555426,Darkest Hour,Joe Wright,Gary Oldman,2017,"$28,086,332",PG-13,7.4,"157,026",75
-443,tt2369135,Need for Speed,Scott Waugh,Aaron Paul,2014,"$40,138,026",PG-13,6.5,"158,878",39
-444,tt2404463,The Heat,Paul Feig,Sandra Bullock,2013,"$158,300,000",R,6.6,"158,518",60
-445,tt1231587,Hot Tub Time Machine,Steve Pink,John Cusack,2010,"$48,925,682",R,6.4,"158,022",63
-446,tt1220634,Resident Evil: Afterlife,Paul W.S. Anderson,Milla Jovovich,2010,"$60,128,566",R,5.8,"157,753",37
-447,tt0918940,The Legend of Tarzan,David Yates,Alexander Skarsgård,2016,"$126,585,313",PG-13,6.2,"157,881",44
-448,tt1253864,Immortals,Tarsem Singh,Henry Cavill,2011,"$83,488,546",R,6.0,"157,247",46
-449,tt5083738,The Favourite,Yorgos Lanthimos,Olivia Colman,2018,N/A,R,7.6,"154,151",90
-450,tt2316411,Enemy,Denis Villeneuve,Jake Gyllenhaal,2013,"$455,421",R,6.9,"154,864",61
-451,tt0810819,The Danish Girl,Tom Hooper,Alicia Vikander,2015,N/A,R,7.1,"156,216",66
-452,tt1277953,Madagascar 3: Europe's Most Wanted,Eric Darnell,Ben Stiller,2012,"$216,366,733",PG,6.8,"155,354",60
-453,tt1528100,Exodus: Gods and Kings,Ridley Scott,Christian Bale,2014,N/A,PG-13,6.0,"155,671",52
-454,tt2873282,Red Sparrow,Francis Lawrence,Jennifer Lawrence,2018,"$17,000,000",R,6.6,"154,605",53
-455,tt1821694,RED 2,Dean Parisot,Bruce Willis,2013,"$53,215,979",PG-13,6.6,"154,775",47
-456,tt0087538,The Karate Kid,John G. Avildsen,Ralph Macchio,1984,N/A,PG,7.2,"165,830",60
-457,tt2239822,Valerian and the City of a Thousand Planets,Luc Besson,Dane DeHaan,2017,"$40,442,321",PG-13,6.5,"153,094",51
-458,tt1661199,Cinderella,Kenneth Branagh,Cate Blanchett,2015,"$183,327,144",PG,6.9,"152,494",67
-459,tt1139328,The Ghost Writer,Roman Polanski,Ewan McGregor,2010,"$11,016,593",PG-13,7.2,"152,879",77
-460,tt1469304,Baywatch,Seth Gordon,Dwayne Johnson,2017,"$58,009,442",R,5.5,"151,963",37
-461,tt2170439,Horrible Bosses 2,Sean Anders,Jason Bateman,2014,"$39,939,072",R,6.3,"152,452",40
-462,tt2338151,PK,Rajkumar Hirani,Aamir Khan,2014,"$9,027,790",Not Rated,8.1,"152,343",N/A
-463,tt0990407,The Green Hornet,Michel Gondry,Seth Rogen,2011,"$98,000,000",PG-13,5.8,"152,283",39
-464,tt1288558,Evil Dead,Fede Alvarez,Jane Levy,2013,"$54,200,000",R,6.5,"151,873",57
-465,tt1446192,Rise of the Guardians,Peter Ramsey,Chris Pine,2012,"$98,800,000",PG,7.3,"151,271",58
-466,tt1213641,First Man,Damien Chazelle,Ryan Gosling,2018,N/A,PG-13,7.3,"151,401",84
-467,tt1216475,Cars 2,John Lasseter,Larry the Cable Guy,2011,"$191,450,875",G,6.1,"150,876",57
-468,tt1489889,Central Intelligence,Rawson Marshall Thurber,Dwayne Johnson,2016,N/A,PG-13,6.3,"150,317",52
-469,tt8772262,Midsommar,Ari Aster,Florence Pugh,2019,N/A,R,7.1,"142,610",72
-470,tt3062096,Inferno,Ron Howard,Tom Hanks,2016,N/A,PG-13,6.2,"149,863",42
-471,tt1411250,Riddick,David Twohy,Vin Diesel,2013,"$35,512,027",R,6.4,"150,316",49
-472,tt3569230,Legend,Brian Helgeland,Paul Anderson,2015,N/A,R,6.9,"149,429",55
-473,tt1935859,Miss Peregrine's Home for Peculiar Children,Tim Burton,Eva Green,2016,"$87,240,689",PG-13,6.7,"148,959",57
-474,tt3532216,American Made,Doug Liman,Tom Cruise,2017,"$51,071,805",R,7.1,"148,203",65
-475,tt0963966,The Sorcerer's Apprentice,Jon Turteltaub,Nicolas Cage,2010,"$63,143,812",PG,6.1,"148,674",46
-476,tt2226417,Insidious: Chapter 2,James Wan,Patrick Wilson,2013,"$71,401,629",PG-13,6.6,"148,424",40
-477,tt1279935,Date Night,Shawn Levy,Steve Carell,2010,"$98,710,290",PG-13,6.3,"148,690",56
-478,tt1905041,Fast & Furious Presents: Hobbs & Shaw,Justin Lin,Vin Diesel,2013,"$238,700,000",PG-13,7.1,"358,271",61
-479,tt0458481,Sin City: A Dame to Kill For,Frank Miller,Mickey Rourke,2014,"$11,064,709",R,6.5,"147,568",46
-480,tt1655441,The Age of Adaline,Lee Toland Krieger,Blake Lively,2015,N/A,PG-13,7.2,"147,746",51
-481,tt2080374,Steve Jobs,Danny Boyle,Michael Fassbender,2015,"$12,403,169",R,7.2,"146,682",82
-482,tt2140373,Saving Mr. Banks,John Lee Hancock,Emma Thompson,2013,N/A,PG-13,7.5,"147,182",65
-483,tt0472399,The Mechanic,Simon West,Jason Statham,2011,"$29,113,588",R,6.6,"146,724",49
-484,tt1611224,Abraham Lincoln: Vampire Hunter,Timur Bekmambetov,Benjamin Walker,2012,"$37,300,000",R,5.9,"146,418",42
-485,tt0120667,Fantastic Four,Tim Story,Ioan Gruffudd,2005,"$154,485,963",PG-13,5.7,"305,091",40
-486,tt1560747,The Master,Paul Thomas Anderson,Joaquin Phoenix,2012,"$15,800,000",R,7.2,"145,209",86
-487,tt1462758,Buried,Rodrigo Cortés,Ryan Reynolds,2010,"$200,000",R,7.0,"144,626",65
-488,tt3416742,What We Do in the Shadows,Jemaine Clement,Jemaine Clement,2014,N/A,R,7.7,"144,450",76
-489,tt7975244,Jumanji: The Next Level,Jake Kasdan,Dwayne Johnson,2019,N/A,PG-13,6.7,"132,602",58
-490,tt1860357,Deepwater Horizon,Peter Berg,Mark Wahlberg,2016,N/A,PG-13,7.1,"143,659",68
-491,tt0938283,The Last Airbender,M. Night Shyamalan,Noah Ringer,2010,"$131,564,731",PG,4.1,"142,507",20
-492,tt1496025,Underworld Awakening,Måns Mårlind,Kate Beckinsale,2012,"$62,321,039",R,6.4,"142,581",39
-493,tt1568911,War Horse,Steven Spielberg,Jeremy Irvine,2011,"$79,883,359",PG-13,7.2,"141,907",72
-494,tt0119282,Hercules,Ron Clements,Tate Donovan,1997,N/A,G,7.3,"195,894",74
-495,tt1568338,Man on a Ledge,Asger Leth,Sam Worthington,2012,"$18,400,000",PG-13,6.6,"141,586",40
-496,tt1335975,47 Ronin,Carl Rinsch,Keanu Reeves,2013,"$20,518,224",PG-13,6.3,"141,735",28
-497,tt5074352,Dangal,Nitesh Tiwari,Aamir Khan,2016,"$12,382,287",Not Rated,8.4,"138,768",N/A
-498,tt1714206,The Spectacular Now,James Ponsoldt,Miles Teller,2013,N/A,R,7.1,"139,657",82
-499,tt0448694,Puss in Boots,Chris Miller,Antonio Banderas,2011,"$149,234,747",PG,6.6,"139,630",65
-500,tt1809398,Unbroken,Angelina Jolie,Jack O'Connell,2014,"$70,500,647",PG-13,7.2,"138,929",59
-501,tt3300542,London Has Fallen,Babak Najafi,Alon Aboutboul,2016,N/A,R,5.9,"137,994",28
-502,tt5700672,Train to Busan,Sang-ho Yeon,Yoo Gong,2016,N/A,Not Rated,7.5,"136,085",72
-503,tt1600196,The Drop,Michaël R. Roskam,Tom Hardy,2014,"$8,709,169",R,7.1,"138,051",69
-504,tt6565702,X-Men: Dark Phoenix,Simon Kinberg,James McAvoy,2019,N/A,PG-13,5.8,"132,810",43
-505,tt1255953,Incendies,Denis Villeneuve,Mustafa Kamel,2010,"$6,857,096",R,8.3,"137,218",80
-506,tt2848292,Pitch Perfect 2,Elizabeth Banks,Anna Kendrick,2015,"$165,744,048",PG-13,6.4,"137,139",63
-507,tt1980929,Begin Again,John Carney,James Corden,2013,"$12,078,174",R,7.4,"136,889",62
-508,tt1727388,The Way Way Back,Nat Faxon,Steve Carell,2013,"$21,501,098",PG-13,7.4,"135,925",68
-509,tt0980970,The Chronicles of Narnia: The Voyage of the Dawn Treader,Michael Apted,Georgie Henley,2010,"$104,383,624",PG,6.3,"135,848",53
-510,tt6499752,Upgrade,Leigh Whannell,Logan Marshall-Green,2018,N/A,R,7.5,"133,110",67
-511,tt2191701,Grown Ups 2,Dennis Dugan,Adam Sandler,2013,"$127,400,000",PG-13,5.4,"134,899",19
-512,tt4779682,The Meg,Jon Turteltaub,Jason Statham,2018,N/A,PG-13,5.7,"134,393",46
-513,tt3640424,Allied,Robert Zemeckis,Brad Pitt,2016,N/A,R,7.1,"134,724",60
-514,tt0989757,Dear John,Lasse Hallström,Channing Tatum,2010,"$79,600,000",PG-13,6.3,"134,512",43
-515,tt3322940,Annabelle,John R. Leonetti,Annabelle Wallis,2014,N/A,R,5.4,"133,686",37
-516,tt1334260,Never Let Me Go,Mark Romanek,Carey Mulligan,2010,"$2,412,045",R,7.1,"133,641",69
-517,tt1403981,Remember Me,Allen Coulter,Caitlyn Rund,2010,"$18,242,661",PG-13,7.1,"133,287",40
-518,tt1563738,One Day,Lone Scherfig,Anne Hathaway,2011,"$13,766,014",PG-13,7.0,"133,579",48
-519,tt2231461,Rampage,Brad Peyton,Dwayne Johnson,2018,N/A,PG-13,6.1,"131,607",45
-520,tt2042568,Inside Llewyn Davis,Ethan Coen,Oscar Isaac,2013,"$9,666,762",R,7.5,"131,837",93
-521,tt2209418,Before Midnight,Richard Linklater,Ethan Hawke,2013,"$8,114,507",R,7.9,"131,683",94
-522,tt2278871,Blue Is the Warmest Colour,Abdellatif Kechiche,Léa Seydoux,2013,"$46,024,509",NC-17,7.7,"131,422",88
-523,tt2975578,The Purge: Anarchy,James DeMonaco,Frank Grillo,2014,N/A,R,6.4,"132,282",50
-524,tt2101441,Spring Breakers,Harmony Korine,James Franco,2012,"$13,900,000",R,5.3,"132,218",63
-525,tt1189073,The Skin I Live In,Pedro Almodóvar,Antonio Banderas,2011,"$3,185,193",R,7.6,"130,820",70
-526,tt1399683,Winter's Bone,Debra Granik,Jennifer Lawrence,2010,"$6,200,000",R,7.2,"131,822",90
-527,tt4178092,The Gift,Joel Edgerton,Jason Bateman,2015,"$33,061,006",R,7.0,"131,212",77
-528,tt1242460,We Need to Talk About Kevin,Lynne Ramsay,Tilda Swinton,2011,"$1,738,692",R,7.5,"131,517",68
-529,tt3393786,Jack Reacher: Never Go Back,Edward Zwick,Tom Cruise,2016,N/A,PG-13,6.1,"130,731",47
-530,tt1389137,We Bought a Zoo,Cameron Crowe,Matt Damon,2011,"$72,700,000",PG,7.1,"130,700",58
-531,tt1100089,Foxcatcher,Bennett Miller,Steve Carell,2014,"$9,744,477",R,7.0,"130,323",81
-532,tt1549920,The Last Stand,Jee-woon Kim,Arron Shiver,2013,"$12,000,000",R,6.3,"130,435",54
-533,tt0804497,It's Kind of a Funny Story,Anna Boden,Keir Gilchrist,2010,"$6,350,058",PG-13,7.1,"130,480",63
-534,tt8367814,The Gentlemen,Guy Ritchie,Matthew McConaughey,2019,N/A,R,8.0,"114,303",51
-535,tt0471042,Tower Heist,Brett Ratner,Ben Stiller,2011,"$78,009,155",PG-13,6.2,"129,668",59
-536,tt0074285,Carrie,Brian De Palma,Sissy Spacek,1976,N/A,R,7.4,"160,852",85
-537,tt6155172,Roma,Alfonso Cuarón,Yalitza Aparicio,2018,N/A,R,7.7,"127,680",96
-538,tt3371366,Transformers: The Last Knight,Michael Bay,Mark Wahlberg,2017,"$130,104,634",PG-13,5.2,"128,801",27
-539,tt1855325,Resident Evil: Retribution,Paul W.S. Anderson,Milla Jovovich,2012,"$42,345,531",R,5.4,"129,211",39
-540,tt1764234,Killing Them Softly,Andrew Dominik,Brad Pitt,2012,"$14,900,000",R,6.2,"128,425",64
-541,tt2692904,Locke,Steven Knight,Tom Hardy,2013,"$1,326,469",R,7.1,"128,777",81
-542,tt3774114,Snowden,Oliver Stone,Melissa Leo,2016,N/A,R,7.3,"128,315",58
-543,tt2543472,Wonder,Stephen Chbosky,Jacob Tremblay,2017,"$132,090,170",PG,8.0,"127,803",66
-544,tt2180411,Into the Woods,Rob Marshall,Anna Kendrick,2014,"$89,789,227",PG,5.9,"127,740",69
-545,tt1351685,Jack the Giant Slayer,Bryan Singer,Nicholas Hoult,2013,"$65,171,860",PG-13,6.2,"127,948",51
-546,tt1915581,Magic Mike,Steven Soderbergh,Matthew McConaughey,2012,"$113,709,992",R,6.1,"127,723",72
-547,tt5104604,Isle of Dogs,Wes Anderson,Bryan Cranston,2018,N/A,PG-13,7.9,"126,510",82
-548,tt3521126,The Disaster Artist,James Franco,Dave Franco,2017,N/A,R,7.4,"126,157",76
-549,tt2203939,The Other Woman,Nick Cassavetes,Cameron Diaz,2014,"$77,860,761",PG-13,6.0,"127,561",39
-550,tt4209788,Molly's Game,Aaron Sorkin,Jessica Chastain,2017,N/A,R,7.4,"126,135",71
-551,tt3470600,Sing,Garth Jennings,Matthew McConaughey,2016,"$270,322,940",PG,7.1,"125,796",59
-552,tt2267968,Kung Fu Panda 3,Alessandro Carloni,Jack Black,2016,"$128,341,070",PG,7.1,"125,917",66
-553,tt2120120,Pixels,Chris Columbus,Adam Sandler,2015,"$66,412,009",PG-13,5.5,"126,253",27
-554,tt0947810,Green Zone,Paul Greengrass,Igal Naor,2010,"$35,000,000",R,6.8,"126,149",63
-555,tt3152624,Trainwreck,Judd Apatow,Colin Quinn,2015,N/A,R,6.2,"126,000",75
-556,tt1314655,Devil,John Erick Dowdle,Chris Messina,2010,N/A,PG-13,6.2,"125,883",44
-557,tt4116284,The Lego Batman Movie,Chris McKay,Will Arnett,2017,"$175,686,290",PG,7.3,"125,832",75
-558,tt2381111,Brooklyn,John Crowley,Saoirse Ronan,2015,"$30,459,009",PG-13,7.5,"124,789",88
-559,tt6294822,The Post,Steven Spielberg,Meryl Streep,2017,"$80,369,969",PG-13,7.2,"124,991",83
-560,tt1538403,The Mortal Instruments: City of Bones,Harald Zwart,Lily Collins,2013,"$31,165,421",PG-13,5.9,"124,893",33
-561,tt2554274,Crimson Peak,Guillermo del Toro,Mia Wasikowska,2015,"$25,957,696",R,6.5,"124,482",66
-562,tt1204975,Last Vegas,Jon Turteltaub,Michael Douglas,2013,"$51,434,214",PG-13,6.6,"124,850",48
-563,tt1924435,Let's Be Cops,Luke Greenfield,Jake Johnson,2014,N/A,R,6.4,"124,416",30
-564,tt3104988,Crazy Rich Asians,Jon M. Chu,Constance Wu,2018,N/A,PG-13,6.9,"124,107",74
-565,tt2096672,Dumb and Dumber To,Bobby Farrelly,Jim Carrey,2014,N/A,PG-13,5.6,"123,974",36
-566,tt5884052,Pokémon Detective Pikachu,Rob Letterman,Ryan Reynolds,2019,N/A,PG,6.6,"121,097",53
-567,tt7668870,Searching,Aneesh Chaganty,John Cho,2018,N/A,PG-13,7.6,"122,966",71
-568,tt4701182,Bumblebee,Travis Knight,Hailee Steinfeld,2018,N/A,PG-13,6.8,"122,345",66
-569,tt0816442,The Book Thief,Brian Percival,Roger Allam,2013,N/A,PG-13,7.6,"123,069",53
-570,tt2446980,Joy,David O. Russell,Jennifer Lawrence,2015,N/A,PG-13,6.6,"123,506",56
-571,tt1262416,Scream 4,Wes Craven,Lucy Hale,2011,"$38,176,892",R,6.1,"122,758",52
-572,tt0842926,The Kids Are All Right,Lisa Cholodenko,Julianne Moore,2010,"$20,803,237",R,7.0,"122,931",86
-573,tt1758830,This Is 40,Judd Apatow,Paul Rudd,2012,"$65,200,000",R,6.2,"123,013",59
-574,tt1441395,Under the Skin,Jonathan Glazer,Scarlett Johansson,2013,"$2,326,121",R,6.3,"122,282",79
-575,tt3316960,Still Alice,Richard Glatzer,Julianne Moore,2014,N/A,PG-13,7.5,"122,518",72
-576,tt0815236,She's Out of My League,Jim Field Smith,Jay Baruchel,2010,"$28,712,974",R,6.4,"122,421",46
-577,tt1790886,The Campaign,Jay Roach,Will Ferrell,2012,"$86,897,182",R,6.1,"121,730",50
-578,tt2177771,The Monuments Men,George Clooney,George Clooney,2014,"$67,239,378",PG-13,6.1,"121,189",52
-579,tt1448755,Killer Elite,Gary McKendry,Jason Statham,2011,"$25,093,607",R,6.4,"121,077",44
-580,tt1648190,The Dark Tower,Nikolaj Arcel,Matthew McConaughey,2017,N/A,PG-13,5.6,"120,144",34
-581,tt2024432,Identity Thief,Seth Gordon,Jason Bateman,2013,"$134,455,175",R,5.7,"120,132",35
-582,tt2034800,The Great Wall,Yimou Zhang,Matt Damon,2016,"$45,125,480",PG-13,5.9,"120,139",42
-583,tt5439796,Logan Lucky,Steven Soderbergh,Farrah Mackenzie,2017,N/A,PG-13,7.0,"119,750",78
-584,tt8106534,6 Underground,Michael Bay,Ryan Reynolds,2019,N/A,R,6.1,"115,962",41
-585,tt1616195,J. Edgar,Clint Eastwood,Leonardo DiCaprio,2011,"$37,304,451",R,6.5,"118,847",59
-586,tt1205537,Jack Ryan: Shadow Recruit,Kenneth Branagh,Chris Pine,2014,"$43,003,831",PG-13,6.2,"119,147",57
-587,tt3741700,Godzilla: King of the Monsters,Michael Dougherty,Kyle Chandler,2019,N/A,PG-13,6.1,"117,004",48
-588,tt6450804,Terminator: Dark Fate,Tim Miller,Linda Hamilton,2019,N/A,R,6.3,"118,791",54
-589,tt0475290,"Hail, Caesar!",Ethan Coen,Josh Brolin,2016,"$27,927,631",PG-13,6.3,"116,807",72
-590,tt1298649,The Watch,Akiva Schaffer,Ben Stiller,2012,"$34,100,000",R,5.7,"118,797",36
-591,tt5848272,Ralph Breaks the Internet,Phil Johnston,John C. Reilly,2018,N/A,PG,7.1,"117,569",71
-592,tt1615065,Savages,Oliver Stone,Blake Lively,2012,"$47,300,000",R,6.5,"118,737",59
-593,tt2582496,Me and Earl and the Dying Girl,Alfonso Gomez-Rejon,Thomas Mann,2015,N/A,PG-13,7.7,"118,016",74
-594,tt1055292,Life as We Know It,Greg Berlanti,Katherine Heigl,2010,"$53,358,964",PG-13,6.5,"118,330",39
-595,tt6628394,Bad Times at the El Royale,Drew Goddard,Jeff Bridges,2018,N/A,R,7.1,"116,608",60
-596,tt3766354,The Equalizer 2,Antoine Fuqua,Denzel Washington,2018,N/A,R,6.7,"116,149",50
-597,tt1038919,The Bounty Hunter,Andy Tennant,Gerard Butler,2010,"$66,700,000",PG-13,5.6,"117,693",22
-598,tt8228288,The Platform,Galder Gaztelu-Urrutia,Ivan Massagué,2019,N/A,TV-MA,7.0,"97,595",73
-599,tt0084787,The Thing,John Carpenter,Kurt Russell,1982,N/A,R,8.1,"351,440",57
-600,tt2561572,Get Hard,Etan Cohen,Will Ferrell,2015,N/A,R,6.0,"117,100",34
-601,tt0480687,Hall Pass,Bobby Farrelly,Owen Wilson,2011,"$45,045,037",R,5.8,"117,281",45
-602,tt4857264,The Invisible Guest,Oriol Paulo,Mario Casas,2016,N/A,N/A,8.1,"109,731",N/A
-603,tt1634122,Johnny English Reborn,Oliver Parker,Roger Barclay,2011,"$8,269,105",PG,6.3,"115,587",46
-604,tt1692486,Carnage,Roman Polanski,Jodie Foster,2011,"$2,200,000",R,7.2,"115,640",61
-605,tt2305051,Wild,Jean-Marc Vallée,Reese Witherspoon,2014,"$24,673,716",R,7.1,"115,380",76
-606,tt1390411,In the Heart of the Sea,Ron Howard,Chris Hemsworth,2015,N/A,PG-13,6.9,"115,404",47
-607,tt3488710,The Walk,Robert Zemeckis,Joseph Gordon-Levitt,2015,"$8,064,239",PG,7.3,"115,603",70
-608,tt1862079,Safety Not Guaranteed,Colin Trevorrow,Aubrey Plaza,2012,"$4,007,792",R,7.0,"114,822",72
-609,tt1638002,"Love, Rosie",Christian Ditter,Lily Collins,2014,N/A,R,7.2,"113,978",44
-610,tt4052882,The Shallows,Jaume Collet-Serra,Blake Lively,2016,N/A,PG-13,6.3,"114,366",59
-611,tt5052474,Sicario: Day of the Soldado,Stefano Sollima,Benicio Del Toro,2018,N/A,R,7.1,"112,218",61
-612,tt0790736,R.I.P.D.,Robert Schwentke,Jeff Bridges,2013,"$33,500,000",PG-13,5.6,"114,249",25
-613,tt5462602,The Big Sick,Michael Showalter,Kumail Nanjiani,2017,"$42,824,653",R,7.5,"112,724",86
-614,tt1524137,Contraband,Baltasar Kormákur,Robert Wahlberg,2012,"$66,489,425",R,6.5,"114,155",51
-615,tt1086772,Blended,Frank Coraci,Adam Sandler,2014,N/A,PG-13,6.5,"112,159",31
-616,tt4302938,Kubo and the Two Strings,Travis Knight,Art Parkinson,2016,"$48,019,281",PG,7.8,"112,669",84
-617,tt1937390,Nymphomaniac: Vol. I,Lars von Trier,Charlotte Gainsbourg,2013,"$623,753",Not Rated,6.9,"112,588",64
-618,tt7040874,A Simple Favor,Paul Feig,Anna Kendrick,2018,N/A,R,6.8,"110,573",67
-619,tt2388715,Oculus,Mike Flanagan,Karen Gillan,2013,N/A,R,6.5,"112,001",61
-620,tt1355630,If I Stay,R.J. Cutler,Chloë Grace Moretz,2014,N/A,PG-13,6.7,"112,192",46
-621,tt1615147,Margin Call,J.C. Chandor,Kevin Spacey,2011,"$600,000",R,7.1,"111,865",76
-622,tt4172430,13 Hours,Michael Bay,John Krasinski,2016,N/A,R,7.3,"111,537",48
-623,tt2066051,Rocketman,Dexter Fletcher,Taron Egerton,2019,N/A,R,7.3,"107,093",69
-624,tt0822847,Priest,Scott Stewart,Paul Bettany,2011,"$29,100,000",PG-13,5.7,"111,130",41
-625,tt4276820,The Founder,John Lee Hancock,Michael Keaton,2016,N/A,PG-13,7.2,"111,409",66
-626,tt0817230,Valentine's Day,Garry Marshall,Jessica Alba,2010,"$110,500,000",PG-13,5.7,"110,834",34
-627,tt2884206,I Origins,Mike Cahill,Michael Pitt,2014,N/A,R,7.4,"110,162",57
-628,tt1228987,Let Me In,Matt Reeves,Kodi Smit-McPhee,2010,"$12,134,420",R,7.1,"110,420",79
-629,tt3531824,Nerve,Henry Joost,Emma Roberts,2016,N/A,PG-13,6.5,"109,867",58
-630,tt2265171,The Raid 2,Gareth Evans,Iko Uwais,2014,"$2,372,192",R,8.0,"109,320",71
-631,tt1179034,From Paris with Love,Pierre Morel,John Travolta,2010,"$23,979,741",R,6.5,"109,800",42
-632,tt1904996,Parker,Taylor Hackford,Jason Statham,2013,"$17,609,982",R,6.2,"109,772",42
-633,tt5715874,The Killing of a Sacred Deer,Yorgos Lanthimos,Barry G. Bernson,2017,"$1,955,883",R,7.1,"105,927",73
-634,tt3829266,The Predator,Shane Black,Boyd Holbrook,2018,N/A,R,5.4,"108,468",48
-635,tt6412452,The Ballad of Buster Scruggs,Ethan Coen,Tim Blake Nelson,2018,N/A,R,7.3,"105,643",79
-636,tt0365907,A Walk Among the Tombstones,Scott Frank,Liam Neeson,2014,N/A,R,6.5,"109,254",57
-637,tt4438848,Neighbors 2: Sorority Rising,Nicholas Stoller,Seth Rogen,2016,N/A,R,5.7,"109,100",58
-638,tt1821549,Nebraska,Alexander Payne,Bruce Dern,2013,"$11,348,612",R,7.7,"109,121",87
-639,tt4786282,Lights Out,David F. Sandberg,Teresa Palmer,2016,N/A,PG-13,6.3,"108,480",58
-640,tt2402927,Carol,Todd Haynes,Cate Blanchett,2015,"$8,518,148",R,7.2,"108,442",94
-641,tt4651520,Bad Moms,Jon Lucas,Mila Kunis,2016,N/A,R,6.2,"108,970",60
-642,tt0435651,The Giver,Phillip Noyce,Jeff Bridges,2014,"$33,480,518",PG-13,6.5,"108,890",47
-643,tt1067583,Water for Elephants,Francis Lawrence,Reese Witherspoon,2011,"$58,700,247",PG-13,6.9,"108,445",52
-644,tt1860213,Dirty Grandpa,Dan Mazer,Robert De Niro,2016,N/A,R,5.9,"107,789",21
-645,tt1517260,The Host,Andrew Niccol,Rachel Roberts,2013,"$26,609,448",PG-13,5.9,"108,372",35
-646,tt0455407,The Crazies,Breck Eisner,Timothy Olyphant,2010,"$38,240,768",R,6.5,"108,374",56
-647,tt0077651,Halloween,John Carpenter,Donald Pleasence,1978,N/A,R,7.8,"218,039",81
-648,tt3567288,The Visit,M. Night Shyamalan,Olivia DeJonge,2015,"$56,499,874",PG-13,6.2,"108,547",55
-649,tt1911644,The Call,Brad Anderson,Halle Berry,2013,N/A,R,6.7,"108,067",51
-650,tt5814060,The Nun,Corin Hardy,Demián Bichir,2018,N/A,R,5.3,"107,092",46
-651,tt1560220,Zombieland: Double Tap,Ruben Fleischer,Woody Harrelson,2019,N/A,R,6.8,"100,414",55
-652,tt1071875,Ghost Rider: Spirit of Vengeance,Mark Neveldine,Nicolas Cage,2011,"$51,774,002",PG-13,4.3,"107,726",34
-653,tt1547234,Premium Rush,David Koepp,Joseph Gordon-Levitt,2012,"$20,275,446",PG-13,6.5,"107,420",66
-654,tt1924429,Trance,Danny Boyle,James McAvoy,2013,"$4,856,227",R,6.9,"107,456",61
-655,tt4520988,Frozen II,Chris Buck,Kristen Bell,2019,N/A,PG,7.0,"106,368",64
-656,tt6266538,Vice,Adam McKay,Christian Bale,2018,N/A,R,7.2,"106,935",61
-657,tt2763304,T2 Trainspotting,Danny Boyle,Ewan McGregor,2017,"$2,395,410",R,7.2,"105,807",67
-658,tt2404311,The Family,Luc Besson,Robert De Niro,2013,"$34,600,000",R,6.3,"106,701",42
-659,tt1854564,Percy Jackson: Sea of Monsters,Thor Freudenthal,Logan Lerman,2013,"$68,558,662",PG,5.8,"106,152",39
-660,tt1023114,The Way Back,Peter Weir,Dragos Bucur,2010,"$2,500,000",PG-13,7.3,"106,459",66
-661,tt5308322,Happy Death Day,Christopher Landon,Jessica Rothe,2017,N/A,PG-13,6.5,"105,584",58
-662,tt3469046,Despicable Me 3,Kyle Balda,Steve Carell,2017,N/A,PG,6.3,"104,806",49
-663,tt5072816,The Butler,César Caro Cruz,Luis Borge,2017,N/A,N/A,7.6,433,N/A
-664,tt1486185,Red Riding Hood,Catherine Hardwicke,Amanda Seyfried,2011,"$37,200,000",PG-13,5.4,"105,404",29
-665,tt5140878,Annabelle: Creation,David F. Sandberg,Anthony LaPaglia,2017,N/A,R,6.5,"104,717",62
-666,tt1307068,Seeking a Friend for the End of the World,Lorene Scafaria,Steve Carell,2012,"$7,100,000",R,6.7,"105,221",59
-667,tt1956620,Sex Tape,Jake Kasdan,Cameron Diaz,2014,"$34,279,302",R,5.1,"104,334",36
-668,tt1602613,Only God Forgives,Nicolas Winding Refn,Ryan Gosling,2013,"$700,000",R,5.7,"104,095",37
-669,tt1921064,Pompeii,Paul W.S. Anderson,Dylan Schombing,2014,"$19,919,371",PG-13,5.5,"103,770",39
-670,tt4500922,Maze Runner: The Death Cure,Wes Ball,Dylan O'Brien,2018,N/A,PG-13,6.2,"102,580",50
-671,tt1528854,Daddy's Home,Sean Anders,Will Ferrell,2015,N/A,PG-13,6.2,"102,992",42
-672,tt2854926,Tag,Jeff Tomsic,Ed Helms,2018,N/A,R,6.5,"102,399",56
-673,tt3410834,Allegiant,Robert Schwentke,Shailene Woodley,2016,N/A,PG-13,5.7,"103,182",33
-674,tt0970866,Little Fockers,Paul Weitz,Robert De Niro,2010,"$148,383,780",PG-13,5.5,"103,244",27
-675,tt2312718,Homefront,Gary Fleder,Jason Statham,2013,"$12,641,119",R,6.5,"103,086",40
+427,tt2023587,Mama,Andy Muschietti,Jessica Chastain,2013,71588220,PG13,6.2,164908,57
+428,tt2333784,The Expendables 3,Patrick Hughes,Sylvester Stallone,2014,34742878,PG13,6.1,162619,35
+429,tt1229340,Anchorman 2: The Legend Continues,Adam McKay,Will Ferrell,2013,76820043,PG13,6.3,163107,61
+430,tt0478304,The Tree of Life,Terrence Malick,Brad Pitt,2011,13303319,PG13,6.8,162847,85
+431,tt2935510,Ad Astra,James Gray,Brad Pitt,2019,NA,PG13,6.6,163222,80
+432,tt9243946,El Camino: A Breaking Bad Movie,Vince Gilligan,Aaron Paul,2019,NA,TV-MA,7.4,162010,72
+433,tt1355683,Black Mass,Scott Cooper,Johnny Depp,2015,48786443,R,6.9,162012,68
+434,tt1935179,Mud,Jeff Nichols,Matthew McConaughey,2012,21589307,PG13,7.4,162502,76
+435,tt3631112,The Girl on the Train,Tate Taylor,Emily Blunt,2016,NA,R,6.5,161657,48
+436,tt5727208,Uncut Gems,Benny Safdie,Mesfin Lamengo,2019,NA,R,7.5,161780,90
+437,tt1527186,Melancholia,Lars von Trier,Kirsten Dunst,2011,NA,R,7.2,159954,80
+438,tt1628841,Independence Day: Resurgence,Roland Emmerich,Liam Hemsworth,2016,103137295,PG13,5.2,161085,32
+439,tt5519340,Bright,David Ayer,Will Smith,2017,NA,TV-MA,6.3,160070,29
+440,tt1488555,The Change-Up,David Dobkin,Ryan Reynolds,2011,37000000,R,6.3,160124,39
+441,tt1465522,Tucker and Dale vs Evil,Eli Craig,Tyler Labine,2010,154232,R,7.5,159838,65
+442,tt4555426,Darkest Hour,Joe Wright,Gary Oldman,2017,28086332,PG13,7.4,157026,75
+443,tt2369135,Need for Speed,Scott Waugh,Aaron Paul,2014,40138026,PG13,6.5,158878,39
+444,tt2404463,The Heat,Paul Feig,Sandra Bullock,2013,158300000,R,6.6,158518,60
+445,tt1231587,Hot Tub Time Machine,Steve Pink,John Cusack,2010,48925682,R,6.4,158022,63
+446,tt1220634,Resident Evil: Afterlife,Paul W.S. Anderson,Milla Jovovich,2010,60128566,R,5.8,157753,37
+447,tt0918940,The Legend of Tarzan,David Yates,Alexander Skarsgård,2016,126585313,PG13,6.2,157881,44
+448,tt1253864,Immortals,Tarsem Singh,Henry Cavill,2011,83488546,R,6.0,157247,46
+449,tt5083738,The Favourite,Yorgos Lanthimos,Olivia Colman,2018,NA,R,7.6,154151,90
+450,tt2316411,Enemy,Denis Villeneuve,Jake Gyllenhaal,2013,455421,R,6.9,154864,61
+451,tt0810819,The Danish Girl,Tom Hooper,Alicia Vikander,2015,NA,R,7.1,156216,66
+452,tt1277953,Madagascar 3: Europe's Most Wanted,Eric Darnell,Ben Stiller,2012,216366733,PG,6.8,155354,60
+453,tt1528100,Exodus: Gods and Kings,Ridley Scott,Christian Bale,2014,NA,PG13,6.0,155671,52
+454,tt2873282,Red Sparrow,Francis Lawrence,Jennifer Lawrence,2018,17000000,R,6.6,154605,53
+455,tt1821694,RED 2,Dean Parisot,Bruce Willis,2013,53215979,PG13,6.6,154775,47
+456,tt0087538,The Karate Kid,John G. Avildsen,Ralph Macchio,1984,NA,PG,7.2,165830,60
+457,tt2239822,Valerian and the City of a Thousand Planets,Luc Besson,Dane DeHaan,2017,40442321,PG13,6.5,153094,51
+458,tt1661199,Cinderella,Kenneth Branagh,Cate Blanchett,2015,183327144,PG,6.9,152494,67
+459,tt1139328,The Ghost Writer,Roman Polanski,Ewan McGregor,2010,11016593,PG13,7.2,152879,77
+460,tt1469304,Baywatch,Seth Gordon,Dwayne Johnson,2017,58009442,R,5.5,151963,37
+461,tt2170439,Horrible Bosses 2,Sean Anders,Jason Bateman,2014,39939072,R,6.3,152452,40
+462,tt2338151,PK,Rajkumar Hirani,Aamir Khan,2014,9027790,Not Rated,8.1,152343,N/A
+463,tt0990407,The Green Hornet,Michel Gondry,Seth Rogen,2011,98000000,PG13,5.8,152283,39
+464,tt1288558,Evil Dead,Fede Alvarez,Jane Levy,2013,54200000,R,6.5,151873,57
+465,tt1446192,Rise of the Guardians,Peter Ramsey,Chris Pine,2012,98800000,PG,7.3,151271,58
+466,tt1213641,First Man,Damien Chazelle,Ryan Gosling,2018,NA,PG13,7.3,151401,84
+467,tt1216475,Cars 2,John Lasseter,Larry the Cable Guy,2011,191450875,G,6.1,150876,57
+468,tt1489889,Central Intelligence,Rawson Marshall Thurber,Dwayne Johnson,2016,NA,PG13,6.3,150317,52
+469,tt8772262,Midsommar,Ari Aster,Florence Pugh,2019,NA,R,7.1,142610,72
+470,tt3062096,Inferno,Ron Howard,Tom Hanks,2016,NA,PG13,6.2,149863,42
+471,tt1411250,Riddick,David Twohy,Vin Diesel,2013,35512027,R,6.4,150316,49
+472,tt3569230,Legend,Brian Helgeland,Paul Anderson,2015,NA,R,6.9,149429,55
+473,tt3532216,American Made,Doug Liman,Tom Cruise,2017,51071805,R,7.1,148203,65
+474,tt1935859,Miss Peregrine's Home for Peculiar Children,Tim Burton,Eva Green,2016,87240689,PG13,6.7,148959,57
+475,tt0963966,The Sorcerer's Apprentice,Jon Turteltaub,Nicolas Cage,2010,63143812,PG,6.1,148674,46
+476,tt2226417,Insidious: Chapter 2,James Wan,Patrick Wilson,2013,71401629,PG13,6.6,148424,40
+477,tt1279935,Date Night,Shawn Levy,Steve Carell,2010,98710290,PG13,6.3,148690,56
+478,tt1905041,Fast & Furious Presents: Hobbs & Shaw,Justin Lin,Vin Diesel,2013,238700000,PG13,7.1,358271,61
+479,tt0458481,Sin City: A Dame to Kill For,Frank Miller,Mickey Rourke,2014,11064709,R,6.5,147568,46
+480,tt1655441,The Age of Adaline,Lee Toland Krieger,Blake Lively,2015,NA,PG13,7.2,147746,51
+481,tt2080374,Steve Jobs,Danny Boyle,Michael Fassbender,2015,12403169,R,7.2,146682,82
+482,tt2140373,Saving Mr. Banks,John Lee Hancock,Emma Thompson,2013,NA,PG13,7.5,147182,65
+483,tt0472399,The Mechanic,Simon West,Jason Statham,2011,29113588,R,6.6,146724,49
+484,tt1611224,Abraham Lincoln: Vampire Hunter,Timur Bekmambetov,Benjamin Walker,2012,37300000,R,5.9,146418,42
+485,tt0120667,Fantastic Four,Tim Story,Ioan Gruffudd,2005,154485963,PG13,5.7,305091,40
+486,tt1560747,The Master,Paul Thomas Anderson,Joaquin Phoenix,2012,15800000,R,7.2,145209,86
+487,tt1462758,Buried,Rodrigo Cortés,Ryan Reynolds,2010,200000,R,7.0,144626,65
+488,tt3416742,What We Do in the Shadows,Jemaine Clement,Jemaine Clement,2014,NA,R,7.7,144450,76
+489,tt7975244,Jumanji: The Next Level,Jake Kasdan,Dwayne Johnson,2019,NA,PG13,6.7,132602,58
+490,tt1860357,Deepwater Horizon,Peter Berg,Mark Wahlberg,2016,NA,PG13,7.1,143659,68
+491,tt0938283,The Last Airbender,M. Night Shyamalan,Noah Ringer,2010,131564731,PG,4.1,142507,20
+492,tt1496025,Underworld Awakening,Måns Mårlind,Kate Beckinsale,2012,62321039,R,6.4,142581,39
+493,tt1568911,War Horse,Steven Spielberg,Jeremy Irvine,2011,79883359,PG13,7.2,141907,72
+494,tt0119282,Hercules,Ron Clements,Tate Donovan,1997,NA,G,7.3,195894,74
+495,tt1568338,Man on a Ledge,Asger Leth,Sam Worthington,2012,18400000,PG13,6.6,141586,40
+496,tt1335975,47 Ronin,Carl Rinsch,Keanu Reeves,2013,20518224,PG13,6.3,141735,28
+497,tt5074352,Dangal,Nitesh Tiwari,Aamir Khan,2016,12382287,Not Rated,8.4,138768,N/A
+498,tt1714206,The Spectacular Now,James Ponsoldt,Miles Teller,2013,NA,R,7.1,139657,82
+499,tt0448694,Puss in Boots,Chris Miller,Antonio Banderas,2011,149234747,PG,6.6,139630,65
+500,tt1809398,Unbroken,Angelina Jolie,Jack O'Connell,2014,70500647,PG13,7.2,138929,59
+501,tt3300542,London Has Fallen,Babak Najafi,Alon Aboutboul,2016,NA,R,5.9,137994,28
+502,tt5700672,Train to Busan,Sang-ho Yeon,Yoo Gong,2016,NA,Not Rated,7.5,136085,72
+503,tt1600196,The Drop,Michaël R. Roskam,Tom Hardy,2014,8709169,R,7.1,138051,69
+504,tt6565702,X-Men: Dark Phoenix,Simon Kinberg,James McAvoy,2019,NA,PG13,5.8,132810,43
+505,tt1255953,Incendies,Denis Villeneuve,Mustafa Kamel,2010,6857096,R,8.3,137218,80
+506,tt2848292,Pitch Perfect 2,Elizabeth Banks,Anna Kendrick,2015,165744048,PG13,6.4,137139,63
+507,tt1980929,Begin Again,John Carney,James Corden,2013,12078174,R,7.4,136889,62
+508,tt1727388,The Way Way Back,Nat Faxon,Steve Carell,2013,21501098,PG13,7.4,135925,68
+509,tt0980970,The Chronicles of Narnia: The Voyage of the Dawn Treader,Michael Apted,Georgie Henley,2010,104383624,PG,6.3,135848,53
+510,tt6499752,Upgrade,Leigh Whannell,Logan Marshall-Green,2018,NA,R,7.5,133110,67
+511,tt2191701,Grown Ups 2,Dennis Dugan,Adam Sandler,2013,127400000,PG13,5.4,134899,19
+512,tt4779682,The Meg,Jon Turteltaub,Jason Statham,2018,NA,PG13,5.7,134393,46
+513,tt3640424,Allied,Robert Zemeckis,Brad Pitt,2016,NA,R,7.1,134724,60
+514,tt0989757,Dear John,Lasse Hallström,Channing Tatum,2010,79600000,PG13,6.3,134512,43
+515,tt3322940,Annabelle,John R. Leonetti,Annabelle Wallis,2014,NA,R,5.4,133686,37
+516,tt1334260,Never Let Me Go,Mark Romanek,Carey Mulligan,2010,2412045,R,7.1,134212,69
+517,tt1403981,Remember Me,Allen Coulter,Caitlyn Rund,2010,18242661,PG13,7.1,133287,40
+518,tt1563738,One Day,Lone Scherfig,Anne Hathaway,2011,13766014,PG13,7.0,133579,48
+519,tt2231461,Rampage,Brad Peyton,Dwayne Johnson,2018,NA,PG13,6.1,131607,45
+520,tt2042568,Inside Llewyn Davis,Ethan Coen,Oscar Isaac,2013,9666762,R,7.5,131837,93
+521,tt2209418,Before Midnight,Richard Linklater,Ethan Hawke,2013,8114507,R,7.9,131683,94
+522,tt2278871,Blue Is the Warmest Colour,Abdellatif Kechiche,Léa Seydoux,2013,46024509,NC-17,7.7,131422,88
+523,tt2975578,The Purge: Anarchy,James DeMonaco,Frank Grillo,2014,NA,R,6.4,132282,50
+524,tt2101441,Spring Breakers,Harmony Korine,James Franco,2012,13900000,R,5.3,132218,63
+525,tt1189073,The Skin I Live In,Pedro Almodóvar,Antonio Banderas,2011,3185193,R,7.6,130820,70
+526,tt1399683,Winter's Bone,Debra Granik,Jennifer Lawrence,2010,6200000,R,7.2,131822,90
+527,tt4178092,The Gift,Joel Edgerton,Jason Bateman,2015,33061006,R,7.0,131212,77
+528,tt1242460,We Need to Talk About Kevin,Lynne Ramsay,Tilda Swinton,2011,1738692,R,7.5,131517,68
+529,tt3393786,Jack Reacher: Never Go Back,Edward Zwick,Tom Cruise,2016,NA,PG13,6.1,130731,47
+530,tt1389137,We Bought a Zoo,Cameron Crowe,Matt Damon,2011,72700000,PG,7.1,130700,58
+531,tt1100089,Foxcatcher,Bennett Miller,Steve Carell,2014,9744477,R,7.0,130323,81
+532,tt8367814,The Gentlemen,Guy Ritchie,Matthew McConaughey,2019,NA,R,8.0,114303,51
+533,tt1549920,The Last Stand,Jee-woon Kim,Arron Shiver,2013,12000000,R,6.3,130435,54
+534,tt0804497,It's Kind of a Funny Story,Anna Boden,Keir Gilchrist,2010,6350058,PG13,7.1,130480,63
+535,tt0471042,Tower Heist,Brett Ratner,Ben Stiller,2011,78009155,PG13,6.2,129668,59
+536,tt0074285,Carrie,Brian De Palma,Sissy Spacek,1976,NA,R,7.4,160852,85
+537,tt6155172,Roma,Alfonso Cuarón,Yalitza Aparicio,2018,NA,R,7.7,127680,96
+538,tt3371366,Transformers: The Last Knight,Michael Bay,Mark Wahlberg,2017,130104634,PG13,5.2,128801,27
+539,tt1855325,Resident Evil: Retribution,Paul W.S. Anderson,Milla Jovovich,2012,42345531,R,5.4,129211,39
+540,tt1764234,Killing Them Softly,Andrew Dominik,Brad Pitt,2012,14900000,R,6.2,128425,64
+541,tt2692904,Locke,Steven Knight,Tom Hardy,2013,1326469,R,7.1,128777,81
+542,tt3774114,Snowden,Oliver Stone,Melissa Leo,2016,NA,R,7.3,128315,58
+543,tt2543472,Wonder,Stephen Chbosky,Jacob Tremblay,2017,132090170,PG,8.0,127803,66
+544,tt2180411,Into the Woods,Rob Marshall,Anna Kendrick,2014,89789227,PG,5.9,128365,69
+545,tt1351685,Jack the Giant Slayer,Bryan Singer,Nicholas Hoult,2013,65171860,PG13,6.2,127948,51
+546,tt1915581,Magic Mike,Steven Soderbergh,Matthew McConaughey,2012,113709992,R,6.1,127723,72
+547,tt5104604,Isle of Dogs,Wes Anderson,Bryan Cranston,2018,NA,PG13,7.9,126510,82
+548,tt3521126,The Disaster Artist,James Franco,Dave Franco,2017,NA,R,7.4,126157,76
+549,tt2203939,The Other Woman,Nick Cassavetes,Cameron Diaz,2014,77860761,PG13,6.0,127561,39
+550,tt4209788,Molly's Game,Aaron Sorkin,Jessica Chastain,2017,NA,R,7.4,126135,71
+551,tt3470600,Sing,Garth Jennings,Matthew McConaughey,2016,270322940,PG,7.1,125796,59
+552,tt2267968,Kung Fu Panda 3,Alessandro Carloni,Jack Black,2016,128341070,PG,7.1,125917,66
+553,tt2120120,Pixels,Chris Columbus,Adam Sandler,2015,66412009,PG13,5.5,126253,27
+554,tt0947810,Green Zone,Paul Greengrass,Igal Naor,2010,35000000,R,6.8,126149,63
+555,tt3152624,Trainwreck,Judd Apatow,Colin Quinn,2015,NA,R,6.2,126000,75
+556,tt1314655,Devil,John Erick Dowdle,Chris Messina,2010,NA,PG13,6.2,125883,44
+557,tt4116284,The Lego Batman Movie,Chris McKay,Will Arnett,2017,175686290,PG,7.3,125832,75
+558,tt2381111,Brooklyn,John Crowley,Saoirse Ronan,2015,30459009,PG13,7.5,124789,88
+559,tt6294822,The Post,Steven Spielberg,Meryl Streep,2017,80369969,PG13,7.2,124991,83
+560,tt1538403,The Mortal Instruments: City of Bones,Harald Zwart,Lily Collins,2013,31165421,PG13,5.9,124893,33
+561,tt2554274,Crimson Peak,Guillermo del Toro,Mia Wasikowska,2015,25957696,R,6.5,124482,66
+562,tt1204975,Last Vegas,Jon Turteltaub,Michael Douglas,2013,51434214,PG13,6.6,124850,48
+563,tt1924435,Let's Be Cops,Luke Greenfield,Jake Johnson,2014,NA,R,6.4,124416,30
+564,tt3104988,Crazy Rich Asians,Jon M. Chu,Constance Wu,2018,NA,PG13,6.9,124107,74
+565,tt2096672,Dumb and Dumber To,Bobby Farrelly,Jim Carrey,2014,NA,PG13,5.6,123974,36
+566,tt5884052,Pokémon Detective Pikachu,Rob Letterman,Ryan Reynolds,2019,NA,PG,6.6,121097,53
+567,tt7668870,Searching,Aneesh Chaganty,John Cho,2018,NA,PG13,7.6,122966,71
+568,tt4701182,Bumblebee,Travis Knight,Hailee Steinfeld,2018,NA,PG13,6.8,122345,66
+569,tt0816442,The Book Thief,Brian Percival,Roger Allam,2013,NA,PG13,7.6,123069,53
+570,tt2446980,Joy,David O. Russell,Jennifer Lawrence,2015,NA,PG13,6.6,123506,56
+571,tt1262416,Scream 4,Wes Craven,Lucy Hale,2011,38176892,R,6.1,122758,52
+572,tt0842926,The Kids Are All Right,Lisa Cholodenko,Julianne Moore,2010,20803237,R,7.0,122931,86
+573,tt1758830,This Is 40,Judd Apatow,Paul Rudd,2012,65200000,R,6.2,123013,59
+574,tt1441395,Under the Skin,Jonathan Glazer,Scarlett Johansson,2013,2326121,R,6.3,122282,79
+575,tt3316960,Still Alice,Richard Glatzer,Julianne Moore,2014,NA,PG13,7.5,122518,72
+576,tt0815236,She's Out of My League,Jim Field Smith,Jay Baruchel,2010,28712974,R,6.4,122421,46
+577,tt1790886,The Campaign,Jay Roach,Will Ferrell,2012,86897182,R,6.1,121730,50
+578,tt2177771,The Monuments Men,George Clooney,George Clooney,2014,67239378,PG13,6.1,121189,52
+579,tt1448755,Killer Elite,Gary McKendry,Jason Statham,2011,25093607,R,6.4,121077,44
+580,tt1648190,The Dark Tower,Nikolaj Arcel,Matthew McConaughey,2017,NA,PG13,5.6,120144,34
+581,tt2024432,Identity Thief,Seth Gordon,Jason Bateman,2013,134455175,R,5.7,120132,35
+582,tt2034800,The Great Wall,Yimou Zhang,Matt Damon,2016,45125480,PG13,5.9,120139,42
+583,tt8106534,6 Underground,Michael Bay,Ryan Reynolds,2019,NA,R,6.1,115962,41
+584,tt5439796,Logan Lucky,Steven Soderbergh,Farrah Mackenzie,2017,NA,PG13,7.0,119750,78
+585,tt1616195,J. Edgar,Clint Eastwood,Leonardo DiCaprio,2011,37304451,R,6.5,118847,59
+586,tt1205537,Jack Ryan: Shadow Recruit,Kenneth Branagh,Chris Pine,2014,43003831,PG13,6.2,119147,57
+587,tt3741700,Godzilla: King of the Monsters,Michael Dougherty,Kyle Chandler,2019,NA,PG13,6.1,117004,48
+588,tt6450804,Terminator: Dark Fate,Tim Miller,Linda Hamilton,2019,NA,R,6.3,118791,54
+589,tt0475290,"Hail, Caesar!",Ethan Coen,Josh Brolin,2016,27927631,PG13,6.3,116807,72
+590,tt5848272,Ralph Breaks the Internet,Phil Johnston,John C. Reilly,2018,NA,PG,7.1,117569,71
+591,tt1298649,The Watch,Akiva Schaffer,Ben Stiller,2012,34100000,R,5.7,118797,36
+592,tt1615065,Savages,Oliver Stone,Blake Lively,2012,47300000,R,6.5,118737,59
+593,tt2582496,Me and Earl and the Dying Girl,Alfonso Gomez-Rejon,Thomas Mann,2015,NA,PG13,7.7,118016,74
+594,tt1055292,Life as We Know It,Greg Berlanti,Katherine Heigl,2010,53358964,PG13,6.5,118330,39
+595,tt6628394,Bad Times at the El Royale,Drew Goddard,Jeff Bridges,2018,NA,R,7.1,116608,60
+596,tt3766354,The Equalizer 2,Antoine Fuqua,Denzel Washington,2018,NA,R,6.7,116149,50
+597,tt8228288,The Platform,Galder Gaztelu-Urrutia,Ivan Massagué,2019,NA,TV-MA,7.0,97595,73
+598,tt1038919,The Bounty Hunter,Andy Tennant,Gerard Butler,2010,66700000,PG13,5.6,117693,22
+599,tt0084787,The Thing,John Carpenter,Kurt Russell,1982,NA,R,8.1,351440,57
+600,tt2561572,Get Hard,Etan Cohen,Will Ferrell,2015,NA,R,6.0,117100,34
+601,tt0480687,Hall Pass,Bobby Farrelly,Owen Wilson,2011,45045037,R,5.8,117281,45
+602,tt4857264,The Invisible Guest,Oriol Paulo,Mario Casas,2016,NA,N/A,8.1,109731,N/A
+603,tt1634122,Johnny English Reborn,Oliver Parker,Roger Barclay,2011,8269105,PG,6.3,115587,46
+604,tt1692486,Carnage,Roman Polanski,Jodie Foster,2011,2200000,R,7.2,115640,61
+605,tt2305051,Wild,Jean-Marc Vallée,Reese Witherspoon,2014,24673716,R,7.1,115380,76
+606,tt1390411,In the Heart of the Sea,Ron Howard,Chris Hemsworth,2015,NA,PG13,6.9,115404,47
+607,tt3488710,The Walk,Robert Zemeckis,Joseph Gordon-Levitt,2015,8064239,PG,7.3,115603,70
+608,tt1862079,Safety Not Guaranteed,Colin Trevorrow,Aubrey Plaza,2012,4007792,R,7.0,114822,72
+609,tt1638002,"Love, Rosie",Christian Ditter,Lily Collins,2014,NA,R,7.2,113978,44
+610,tt4052882,The Shallows,Jaume Collet-Serra,Blake Lively,2016,NA,PG13,6.3,114366,59
+611,tt5052474,Sicario: Day of the Soldado,Stefano Sollima,Benicio Del Toro,2018,NA,R,7.1,112218,61
+612,tt0790736,R.I.P.D.,Robert Schwentke,Jeff Bridges,2013,33500000,PG13,5.6,114249,25
+613,tt5462602,The Big Sick,Michael Showalter,Kumail Nanjiani,2017,42824653,R,7.5,112724,86
+614,tt1524137,Contraband,Baltasar Kormákur,Robert Wahlberg,2012,66489425,R,6.5,114155,51
+615,tt1086772,Blended,Frank Coraci,Adam Sandler,2014,NA,PG13,6.5,112159,31
+616,tt4302938,Kubo and the Two Strings,Travis Knight,Art Parkinson,2016,48019281,PG,7.8,112669,84
+617,tt1937390,Nymphomaniac: Vol. I,Lars von Trier,Charlotte Gainsbourg,2013,623753,Not Rated,6.9,112588,64
+618,tt7040874,A Simple Favor,Paul Feig,Anna Kendrick,2018,NA,R,6.8,110573,67
+619,tt2388715,Oculus,Mike Flanagan,Karen Gillan,2013,NA,R,6.5,112001,61
+620,tt1355630,If I Stay,R.J. Cutler,Chloë Grace Moretz,2014,NA,PG13,6.7,112192,46
+621,tt1615147,Margin Call,J.C. Chandor,Kevin Spacey,2011,600000,R,7.1,111865,76
+622,tt4172430,13 Hours,Michael Bay,John Krasinski,2016,NA,R,7.3,111537,48
+623,tt2066051,Rocketman,Dexter Fletcher,Taron Egerton,2019,NA,R,7.3,107093,69
+624,tt0822847,Priest,Scott Stewart,Paul Bettany,2011,29100000,PG13,5.7,111130,41
+625,tt4276820,The Founder,John Lee Hancock,Michael Keaton,2016,NA,PG13,7.2,111409,66
+626,tt0817230,Valentine's Day,Garry Marshall,Jessica Alba,2010,110500000,PG13,5.7,110834,34
+627,tt2884206,I Origins,Mike Cahill,Michael Pitt,2014,NA,R,7.4,110162,57
+628,tt1228987,Let Me In,Matt Reeves,Kodi Smit-McPhee,2010,12134420,R,7.1,110420,79
+629,tt3531824,Nerve,Henry Joost,Emma Roberts,2016,NA,PG13,6.5,109867,58
+630,tt2265171,The Raid 2,Gareth Evans,Iko Uwais,2014,2372192,R,8.0,109320,71
+631,tt1179034,From Paris with Love,Pierre Morel,John Travolta,2010,23979741,R,6.5,109800,42
+632,tt1904996,Parker,Taylor Hackford,Jason Statham,2013,17609982,R,6.2,109772,42
+633,tt5715874,The Killing of a Sacred Deer,Yorgos Lanthimos,Barry G. Bernson,2017,1955883,R,7.1,105927,73
+634,tt3829266,The Predator,Shane Black,Boyd Holbrook,2018,NA,R,5.4,108468,48
+635,tt6412452,The Ballad of Buster Scruggs,Ethan Coen,Tim Blake Nelson,2018,NA,R,7.3,105643,79
+636,tt0365907,A Walk Among the Tombstones,Scott Frank,Liam Neeson,2014,NA,R,6.5,109254,57
+637,tt4438848,Neighbors 2: Sorority Rising,Nicholas Stoller,Seth Rogen,2016,NA,R,5.7,109100,58
+638,tt1821549,Nebraska,Alexander Payne,Bruce Dern,2013,11348612,R,7.7,109121,87
+639,tt4786282,Lights Out,David F. Sandberg,Teresa Palmer,2016,NA,PG13,6.3,108480,58
+640,tt2402927,Carol,Todd Haynes,Cate Blanchett,2015,8518148,R,7.2,108442,94
+641,tt4651520,Bad Moms,Jon Lucas,Mila Kunis,2016,NA,R,6.2,108970,60
+642,tt0435651,The Giver,Phillip Noyce,Jeff Bridges,2014,33480518,PG13,6.5,108890,47
+643,tt1067583,Water for Elephants,Francis Lawrence,Reese Witherspoon,2011,58700247,PG13,6.9,108445,52
+644,tt1860213,Dirty Grandpa,Dan Mazer,Robert De Niro,2016,NA,R,5.9,108731,21
+645,tt1517260,The Host,Andrew Niccol,Rachel Roberts,2013,26609448,PG13,5.9,108372,35
+646,tt0455407,The Crazies,Breck Eisner,Timothy Olyphant,2010,38240768,R,6.5,108374,56
+647,tt0077651,Halloween,John Carpenter,Donald Pleasence,1978,NA,R,7.8,218039,81
+648,tt3567288,The Visit,M. Night Shyamalan,Olivia DeJonge,2015,56499874,PG13,6.2,108547,55
+649,tt1911644,The Call,Brad Anderson,Halle Berry,2013,NA,R,6.7,108067,51
+650,tt5814060,The Nun,Corin Hardy,Demián Bichir,2018,NA,R,5.3,107092,46
+651,tt1560220,Zombieland: Double Tap,Ruben Fleischer,Woody Harrelson,2019,NA,R,6.8,108024,55
+652,tt1071875,Ghost Rider: Spirit of Vengeance,Mark Neveldine,Nicolas Cage,2011,51774002,PG13,4.3,107726,34
+653,tt4520988,Frozen II,Chris Buck,Kristen Bell,2019,NA,PG,7.0,106368,64
+654,tt1547234,Premium Rush,David Koepp,Joseph Gordon-Levitt,2012,20275446,PG13,6.5,107420,66
+655,tt1924429,Trance,Danny Boyle,James McAvoy,2013,4856227,R,6.9,107456,61
+656,tt6266538,Vice,Adam McKay,Christian Bale,2018,NA,R,7.2,106935,61
+657,tt2763304,T2 Trainspotting,Danny Boyle,Ewan McGregor,2017,2395410,R,7.2,105807,67
+658,tt2404311,The Family,Luc Besson,Robert De Niro,2013,34600000,R,6.3,106701,42
+659,tt1854564,Percy Jackson: Sea of Monsters,Thor Freudenthal,Logan Lerman,2013,68558662,PG,5.8,106736,39
+660,tt1023114,The Way Back,Peter Weir,Dragos Bucur,2010,2500000,PG13,7.3,106459,66
+661,tt5308322,Happy Death Day,Christopher Landon,Jessica Rothe,2017,NA,PG13,6.5,105584,58
+662,tt3469046,Despicable Me 3,Kyle Balda,Steve Carell,2017,NA,PG,6.3,104806,49
+663,tt5072816,The Butler,César Caro Cruz,Luis Borge,2017,NA,N/A,7.6,433,N/A
+664,tt1486185,Red Riding Hood,Catherine Hardwicke,Amanda Seyfried,2011,37200000,PG13,5.4,105404,29
+665,tt5140878,Annabelle: Creation,David F. Sandberg,Anthony LaPaglia,2017,NA,R,6.5,104717,62
+666,tt1307068,Seeking a Friend for the End of the World,Lorene Scafaria,Steve Carell,2012,7100000,R,6.7,105221,59
+667,tt1956620,Sex Tape,Jake Kasdan,Cameron Diaz,2014,34279302,R,5.1,104334,36
+668,tt1602613,Only God Forgives,Nicolas Winding Refn,Ryan Gosling,2013,700000,R,5.7,104095,37
+669,tt1921064,Pompeii,Paul W.S. Anderson,Dylan Schombing,2014,19919371,PG13,5.5,103770,39
+670,tt4500922,Maze Runner: The Death Cure,Wes Ball,Dylan O'Brien,2018,NA,PG13,6.2,102580,50
+671,tt1528854,Daddy's Home,Sean Anders,Will Ferrell,2015,NA,PG13,6.2,103783,42
+672,tt2854926,Tag,Jeff Tomsic,Ed Helms,2018,NA,R,6.5,102399,56
+673,tt3410834,Allegiant,Robert Schwentke,Shailene Woodley,2016,NA,PG13,5.7,103182,33
+674,tt0970866,Little Fockers,Paul Weitz,Robert De Niro,2010,148383780,PG13,5.5,103244,27
+675,tt2312718,Homefront,Gary Fleder,Jason Statham,2013,12641119,R,6.5,103086,40
 676,NA,Dag II,NA,NA,NA,NA,NA,NA,NA,NA
-677,tt1924396,The Best Offer,Giuseppe Tornatore,Geoffrey Rush,2013,"$85,433",R,7.8,"101,546",49
-678,tt1622979,Final Destination 5,Steven Quale,Nicholas D'Agosto,2011,"$42,500,000",R,5.8,"102,904",50
-679,tt1206543,Out of the Furnace,Scott Cooper,Woody Harrelson,2013,"$8,314,341",R,6.8,"102,884",63
-680,tt1588170,I Saw the Devil,Jee-woon Kim,Byung-hun Lee,2010,"$128,392",Not Rated,7.8,"100,901",67
-681,tt3874544,The Boss Baby,Tom McGrath,Alec Baldwin,2017,"$174,996,080",PG,6.3,"102,205",50
-682,tt3281548,Little Women,Greta Gerwig,Saoirse Ronan,2019,N/A,PG,7.9,"96,005",91
-683,tt5776858,Phantom Thread,Paul Thomas Anderson,Vicky Krieps,2017,N/A,R,7.5,"100,962",90
-684,tt2503944,Burnt,John Wells,Bradley Cooper,2015,N/A,R,6.6,"101,871",42
-685,tt5606664,Doctor Sleep,Mike Flanagan,Ewan McGregor,2019,N/A,R,7.4,"94,783",59
-686,tt7984734,The Lighthouse,Robert Eggers,Robert Pattinson,2019,N/A,R,7.6,"97,282",83
-687,tt2510894,Hotel Transylvania 2,Genndy Tartakovsky,Adam Sandler,2015,N/A,PG,6.7,"100,301",44
-688,tt2404233,Gods of Egypt,Alex Proyas,Brenton Thwaites,2016,N/A,PG-13,5.4,"100,823",25
-689,tt1702439,Safe Haven,Lasse Hallström,Julianne Hough,2013,"$71,100,000",PG-13,6.7,"101,151",34
-690,tt1567609,Get the Gringo,Adrian Grunberg,Mel Gibson,2012,"$493,573",R,7.0,"101,035",60
-691,tt1509767,The Three Musketeers,Paul W.S. Anderson,Matthew Macfadyen,2011,"$20,356,913",PG-13,5.7,"100,806",35
-692,tt2692250,Night at the Museum: Secret of the Tomb,Shawn Levy,Ben Stiller,2014,"$81,522,782",PG,6.2,"100,723",47
-693,tt0780653,The Wolfman,Joe Johnston,Simon Merrells,2010,"$61,937,495",R,5.8,"100,827",43
-694,tt4698684,Hunt for the Wilderpeople,Taika Waititi,Sam Neill,2016,"$5,202,582",PG-13,7.9,"98,619",81
-695,tt4062536,Green Room,Jeremy Saulnier,Anton Yelchin,2015,"$3,219,029",R,7.0,"99,841",79
-696,tt1682180,Stoker,Chan-wook Park,Mia Wasikowska,2013,"$1,700,000",R,6.8,"100,382",58
-697,tt4034354,Swiss Army Man,Dan Kwan,Paul Dano,2016,N/A,R,7.0,"99,283",64
-698,tt1656190,Safe,Boaz Yakin,Jason Statham,2012,"$17,120,019",R,6.5,"100,136",55
-699,tt2557478,Pacific Rim: Uprising,Steven S. DeKnight,John Boyega,2018,N/A,PG-13,5.6,"99,738",44
-700,tt1007029,The Iron Lady,Phyllida Lloyd,Meryl Streep,2011,"$29,959,436",PG-13,6.4,"99,892",54
-701,tt2866360,Coherence,James Ward Byrkit,Emily Baldoni,2013,N/A,Not Rated,7.2,"98,714",65
-702,tt1408253,Ride Along,Tim Story,Ice Cube,2014,"$110,374,905",PG-13,6.2,"98,446",41
-703,tt3717490,Power Rangers,Dean Israelite,Dacre Montgomery,2017,N/A,PG-13,5.9,"98,489",44
-704,tt4016934,The Handmaiden,Chan-wook Park,Min-hee Kim,2016,N/A,Not Rated,8.1,"97,678",84
-705,tt1053424,Repo Men,Miguel Sapochnik,Jude Law,2010,"$13,156,255",R,6.3,"98,436",32
-706,tt1327194,The Lucky One,Scott Hicks,Zac Efron,2012,"$60,443,237",PG-13,6.5,"98,104",39
-707,tt2199571,Run All Night,Jaume Collet-Serra,Liam Neeson,2015,N/A,R,6.6,"97,832",59
-708,tt2631186,Baahubali: The Beginning,S.S. Rajamouli,Prabhas,2015,N/A,Not Rated,8.1,"98,183",N/A
-709,tt1450321,Filth,Jon S. Baird,James McAvoy,2013,"$23,145",R,7.1,"98,129",56
-710,tt0848537,Epic,Chris Wedge,Blake Anderson,2013,N/A,PG,6.7,"97,722",52
-711,tt1979388,The Good Dinosaur,Peter Sohn,Jeffrey Wright,2015,"$123,087,120",PG,6.7,"97,413",66
-712,tt1433108,Faster,George Tillman Jr.,Dwayne Johnson,2010,"$23,225,911",R,6.4,"97,175",44
-713,tt1438176,Fright Night,Craig Gillespie,Anton Yelchin,2011,"$18,298,649",R,6.3,"96,973",64
-714,tt1590193,The Commuter,Jaume Collet-Serra,Liam Neeson,2018,"$36,241,300",PG-13,6.3,"97,011",56
-715,tt2283336,Men in Black: International,F. Gary Gray,Chris Hemsworth,2019,N/A,PG-13,5.7,"93,633",38
-716,tt0376136,The Rum Diary,Bruce Robinson,Johnny Depp,2011,"$13,000,000.00",R,6.2,"96,850",56
-717,tt1878870,The Edge of Seventeen,Kelly Fremon Craig,Hailee Steinfeld,2016,"$14,260,193",R,7.3,"96,241",77
-718,tt1478964,Attack the Block,Joe Cornish,Jodie Whittaker,2011,"$800,000",R,6.6,"96,905",75
-719,tt1333125,Movie 43,Elizabeth Banks,Dennis Quaid,2013,"$8,700,000",R,4.3,"96,570",18
-720,tt1488606,Triple Frontier,J.C. Chandor,Ben Affleck,2019,N/A,R,6.4,"95,538",61
-721,tt4501244,Why Him?,John Hamburg,Zoey Deutch,2016,N/A,R,6.2,"95,949",39
-722,tt5758778,Skyscraper,Rawson Marshall Thurber,Dwayne Johnson,2018,N/A,PG-13,5.8,"95,159",51
-723,tt1038686,Legion,Scott Stewart,Paul Bettany,2010,"$40,168,080",R,5.2,"96,341",32
-724,tt0427152,Dinner for Schmucks,Jay Roach,Steve Carell,2010,"$72,980,108",PG-13,5.9,"96,395",56
-725,tt1571222,A Dangerous Method,David Cronenberg,Keira Knightley,2011,"$5,702,083",R,6.4,"96,189",76
-726,tt1536044,Paranormal Activity 2,Tod Williams,David Bierend,2010,"$84,747,727",R,5.6,"96,144",53
-727,tt1027718,Wall Street: Money Never Sleeps,Oliver Stone,Richard Stratton,2010,"$52,474,616",PG-13,6.2,"95,858",59
-728,tt6343314,Creed II,Steven Caple Jr.,Michael B. Jordan,2018,N/A,PG-13,7.1,"95,076",66
-729,tt2304933,The 5th Wave,J Blakeson,Chloë Grace Moretz,2016,N/A,PG-13,5.2,"95,416",33
-730,tt7959026,The Mule,Clint Eastwood,Clint Eastwood,2018,N/A,R,7.0,"94,618",58
-731,tt1536537,What Happened to Monday,Tommy Wirkola,Noomi Rapace,2017,N/A,TV-MA,6.9,"94,634",47
-732,tt0477302,Extremely Loud & Incredibly Close,Stephen Daldry,Tom Hanks,2011,"$31,836,745",PG-13,6.9,"95,472",46
-733,tt1800246,That Awkward Moment,Tom Gormican,Zac Efron,2014,"$23,264,422",R,6.1,"95,448",36
-734,tt1188996,My Name Is Khan,Karan Johar,Shah Rukh Khan,2010,"$3,931,456",PG-13,8.0,"95,109",50
-735,tt1240982,Your Highness,David Gordon Green,Danny McBride,2011,"$21,600,000",R,5.5,"94,868",31
-736,tt8079248,Yesterday,Danny Boyle,Himesh Patel,2019,N/A,PG-13,6.8,"90,739",55
-737,tt0490215,Silence,Martin Scorsese,Andrew Garfield,2016,N/A,R,7.2,"94,134",79
-738,tt2193215,The Counselor,Ridley Scott,Michael Fassbender,2013,"$14,696,331",R,5.3,"94,098",48
-739,tt1482459,The Lorax,Chris Renaud,Danny DeVito,2012,"$211,000,000",PG,6.4,"94,094",46
-740,tt1571234,Mortal Engines,Christian Rivers,Hera Hilmar,2018,N/A,PG-13,6.1,"93,349",44
+677,tt1924396,The Best Offer,Giuseppe Tornatore,Geoffrey Rush,2013,85433,R,7.8,101546,49
+678,tt1622979,Final Destination 5,Steven Quale,Nicholas D'Agosto,2011,42500000,R,5.8,102904,50
+679,tt1206543,Out of the Furnace,Scott Cooper,Woody Harrelson,2013,8314341,R,6.8,102884,63
+680,tt1588170,I Saw the Devil,Jee-woon Kim,Byung-hun Lee,2010,128392,Not Rated,7.8,100901,67
+681,tt3874544,The Boss Baby,Tom McGrath,Alec Baldwin,2017,174996080,PG,6.3,102205,50
+682,tt3281548,Little Women,Greta Gerwig,Saoirse Ronan,2019,NA,PG,7.9,96005,91
+683,tt5776858,Phantom Thread,Paul Thomas Anderson,Vicky Krieps,2017,NA,R,7.5,100962,90
+684,tt2503944,Burnt,John Wells,Bradley Cooper,2015,NA,R,6.6,101871,42
+685,tt7984734,The Lighthouse,Robert Eggers,Robert Pattinson,2019,NA,R,7.6,97282,83
+686,tt5606664,Doctor Sleep,Mike Flanagan,Ewan McGregor,2019,NA,R,7.4,101558,59
+687,tt2510894,Hotel Transylvania 2,Genndy Tartakovsky,Adam Sandler,2015,NA,PG,6.7,100301,44
+688,tt2404233,Gods of Egypt,Alex Proyas,Brenton Thwaites,2016,NA,PG13,5.4,100823,25
+689,tt1702439,Safe Haven,Lasse Hallström,Julianne Hough,2013,71100000,PG13,6.7,101151,34
+690,tt1567609,Get the Gringo,Adrian Grunberg,Mel Gibson,2012,493573,R,7.0,101035,60
+691,tt1509767,The Three Musketeers,Paul W.S. Anderson,Matthew Macfadyen,2011,20356913,PG13,5.7,100806,35
+692,tt2692250,Night at the Museum: Secret of the Tomb,Shawn Levy,Ben Stiller,2014,81522782,PG,6.2,100723,47
+693,tt0780653,The Wolfman,Joe Johnston,Simon Merrells,2010,61937495,R,5.8,100827,43
+694,tt4698684,Hunt for the Wilderpeople,Taika Waititi,Sam Neill,2016,5202582,PG13,7.9,98619,81
+695,tt4062536,Green Room,Jeremy Saulnier,Anton Yelchin,2015,3219029,R,7.0,99841,79
+696,tt1682180,Stoker,Chan-wook Park,Mia Wasikowska,2013,1700000,R,6.8,100382,58
+697,tt4034354,Swiss Army Man,Dan Kwan,Paul Dano,2016,NA,R,7.0,99283,64
+698,tt1656190,Safe,Boaz Yakin,Jason Statham,2012,17120019,R,6.5,100136,55
+699,tt2557478,Pacific Rim: Uprising,Steven S. DeKnight,John Boyega,2018,NA,PG13,5.6,99738,44
+700,tt1007029,The Iron Lady,Phyllida Lloyd,Meryl Streep,2011,29959436,PG13,6.4,99892,54
+701,tt2866360,Coherence,James Ward Byrkit,Emily Baldoni,2013,NA,Not Rated,7.2,98714,65
+702,tt1408253,Ride Along,Tim Story,Ice Cube,2014,110374905,PG13,6.2,99091,41
+703,tt3717490,Power Rangers,Dean Israelite,Dacre Montgomery,2017,NA,PG13,5.9,98489,44
+704,tt4016934,The Handmaiden,Chan-wook Park,Min-hee Kim,2016,NA,Not Rated,8.1,97678,84
+705,tt1053424,Repo Men,Miguel Sapochnik,Jude Law,2010,13156255,R,6.3,98436,32
+706,tt1327194,The Lucky One,Scott Hicks,Zac Efron,2012,60443237,PG13,6.5,98104,39
+707,tt2199571,Run All Night,Jaume Collet-Serra,Liam Neeson,2015,NA,R,6.6,97832,59
+708,tt2631186,Baahubali: The Beginning,S.S. Rajamouli,Prabhas,2015,NA,Not Rated,8.1,98183,N/A
+709,tt1450321,Filth,Jon S. Baird,James McAvoy,2013,23145,R,7.1,98129,56
+710,tt0848537,Epic,Chris Wedge,Blake Anderson,2013,NA,PG,6.7,97722,52
+711,tt1979388,The Good Dinosaur,Peter Sohn,Jeffrey Wright,2015,123087120,PG,6.7,97413,66
+712,tt1433108,Faster,George Tillman Jr.,Dwayne Johnson,2010,23225911,R,6.4,97175,44
+713,tt1438176,Fright Night,Craig Gillespie,Anton Yelchin,2011,18298649,R,6.3,96973,64
+714,tt2283336,Men in Black: International,F. Gary Gray,Chris Hemsworth,2019,NA,PG13,5.7,93633,38
+715,tt1590193,The Commuter,Jaume Collet-Serra,Liam Neeson,2018,36241300,PG13,6.3,97011,56
+716,tt0376136,The Rum Diary,Bruce Robinson,Johnny Depp,2011,NA,R,6.2,96850,56
+717,tt1878870,The Edge of Seventeen,Kelly Fremon Craig,Hailee Steinfeld,2016,14260193,R,7.3,96241,77
+718,tt1478964,Attack the Block,Joe Cornish,Jodie Whittaker,2011,800000,R,6.6,96905,75
+719,tt1333125,Movie 43,Elizabeth Banks,Dennis Quaid,2013,8700000,R,4.3,96570,18
+720,tt1488606,Triple Frontier,J.C. Chandor,Ben Affleck,2019,NA,R,6.4,95538,61
+721,tt4501244,Why Him?,John Hamburg,Zoey Deutch,2016,NA,R,6.2,95949,39
+722,tt5758778,Skyscraper,Rawson Marshall Thurber,Dwayne Johnson,2018,NA,PG13,5.8,95159,51
+723,tt1038686,Legion,Scott Stewart,Paul Bettany,2010,40168080,R,5.2,96341,32
+724,tt0427152,Dinner for Schmucks,Jay Roach,Steve Carell,2010,72980108,PG13,5.9,96395,56
+725,tt1571222,A Dangerous Method,David Cronenberg,Keira Knightley,2011,5702083,R,6.4,96189,76
+726,tt1536044,Paranormal Activity 2,Tod Williams,David Bierend,2010,84747727,R,5.6,96144,53
+727,tt1027718,Wall Street: Money Never Sleeps,Oliver Stone,Richard Stratton,2010,52474616,PG13,6.2,95858,59
+728,tt6343314,Creed II,Steven Caple Jr.,Michael B. Jordan,2018,NA,PG13,7.1,95076,66
+729,tt7959026,The Mule,Clint Eastwood,Clint Eastwood,2018,NA,R,7.0,94618,58
+730,tt2304933,The 5th Wave,J Blakeson,Chloë Grace Moretz,2016,NA,PG13,5.2,95416,33
+731,tt1536537,What Happened to Monday,Tommy Wirkola,Noomi Rapace,2017,NA,TV-MA,6.9,94634,47
+732,tt0477302,Extremely Loud & Incredibly Close,Stephen Daldry,Tom Hanks,2011,31836745,PG13,6.9,95472,46
+733,tt1800246,That Awkward Moment,Tom Gormican,Zac Efron,2014,23264422,R,6.1,95448,36
+734,tt1188996,My Name Is Khan,Karan Johar,Shah Rukh Khan,2010,3931456,PG13,8.0,95109,50
+735,tt1240982,Your Highness,David Gordon Green,Danny McBride,2011,21600000,R,5.5,94868,31
+736,tt8079248,Yesterday,Danny Boyle,Himesh Patel,2019,NA,PG13,6.8,90739,55
+737,tt0490215,Silence,Martin Scorsese,Andrew Garfield,2016,NA,R,7.2,94134,79
+738,tt2193215,The Counselor,Ridley Scott,Michael Fassbender,2013,14696331,R,5.3,94502,48
+739,tt1482459,The Lorax,Chris Renaud,Danny DeVito,2012,211000000,PG,6.4,94094,46
+740,tt1571234,Mortal Engines,Christian Rivers,Hera Hilmar,2018,NA,PG13,6.1,93349,44
 741,tt0307758,Hodejegerne,N/A,Alf Tande-Petersen,2002–,NA,N/A,4.5,15,N/A
-742,tt1142977,Frankenweenie,Tim Burton,Catherine O'Hara,2012,"$35,287,788",PG,6.9,"94,078",74
-743,tt0889573,The Switch,Josh Gordon,Jason Bateman,2010,"$27,400,000",PG-13,6.1,"93,557",52
-744,tt2381991,The Huntsman: Winter's War,Cedric Nicolas-Troyan,Chris Hemsworth,2016,"$46,445,229",PG-13,6.1,"93,189",35
-745,tt3967856,Okja,Bong Joon Ho,Tilda Swinton,2017,N/A,TV-MA,7.3,"91,683",75
-746,tt1524930,Vacation,John Francis Daley,Ed Helms,2015,"$40,292,843",R,6.1,"93,486",34
-747,tt2671706,Fences,Denzel Washington,Denzel Washington,2016,"$57,642,961",PG-13,7.2,"93,431",79
-748,tt1839492,Ruby Sparks,Jonathan Dayton,Paul Dano,2012,"$2,535,819",R,7.2,"92,913",67
-749,tt1386932,Ip Man 2,Wilson Yip,Donnie Yen,2010,N/A,R,7.5,"93,008",67
-750,tt0082198,Conan the Barbarian,John Milius,Arnold Schwarzenegger,1982,N/A,R,6.9,"133,108",43
-751,tt1109624,Paddington,Paul King,Tim Downie,2014,"$85,879,985",PG,7.2,"92,497",77
-752,tt2170593,St. Vincent,Theodore Melfi,Bill Murray,2014,"$33,454,313",PG-13,7.2,"92,792",64
-753,tt1615160,The Foreigner,Martin Campbell,Katie Leung,2017,"$33,964,179",R,7.0,"92,259",55
-754,tt5742374,You Were Never Really Here,Lynne Ramsay,Joaquin Phoenix,2017,N/A,R,6.8,"91,285",84
-755,tt5022702,Hush,Mike Flanagan,John Gallagher Jr.,2016,N/A,R,6.6,"90,828",67
-756,tt1502404,Drive Angry,Patrick Lussier,Nicolas Cage,2011,"$10,706,786",R,5.4,"92,610",44
-757,tt4481414,Gifted,Marc Webb,Chris Evans,2017,"$24,799,765",PG-13,7.6,"91,553",60
-758,tt2386490,How to Train Your Dragon: The Hidden World,Dean DeBlois,Jay Baruchel,2019,N/A,PG,7.5,"90,736",71
-759,tt3622592,Paper Towns,Jake Schreier,Nat Wolff,2015,N/A,PG-13,6.3,"92,115",56
-760,tt1389072,Downsizing,Alexander Payne,Matt Damon,2017,N/A,R,5.7,"91,630",63
-761,tt2357129,Jobs,Joshua Michael Stern,Ashton Kutcher,2013,"$16,117,443",PG-13,5.9,"91,733",44
-762,tt1592525,Lockout,James Mather,Guy Pearce,2012,"$14,291,570",PG-13,6.1,"91,524",48
-763,tt2431286,Philomena,Stephen Frears,Judi Dench,2013,N/A,PG-13,7.6,"91,612",77
-764,tt1618442,The Last Witch Hunter,Breck Eisner,Vin Diesel,2015,N/A,PG-13,6.0,"91,156",34
-765,tt1622547,30 Minutes or Less,Ruben Fleischer,Jesse Eisenberg,2011,"$37,100,000",R,6.1,"91,303",49
-766,tt2241351,Money Monster,Jodie Foster,George Clooney,2016,N/A,R,6.5,"90,875",55
-767,tt1657507,Colombiana,Olivier Megaton,Zoe Saldana,2011,"$36,665,854",PG-13,6.4,"90,806",45
-768,tt5164432,"Love, Simon",Greg Berlanti,Nick Robinson,2018,N/A,PG-13,7.6,"90,562",72
-769,tt8404614,The Two Popes,Fernando Meirelles,Anthony Hopkins,2019,N/A,PG-13,7.6,"88,450",75
-770,tt1623288,ParaNorman,Chris Butler,Kodi Smit-McPhee,2012,"$55,994,557",PG,7.0,"90,732",72
-771,tt1216492,Leap Year,Anand Tucker,Amy Adams,2010,"$25,893,485",PG,6.5,"90,593",33
-772,tt1195478,The Five-Year Engagement,Nicholas Stoller,Jason Segel,2012,"$28,644,770",R,6.2,"90,674",62
-773,tt2548396,The Cloverfield Paradox,Julius Onah,Gugu Mbatha-Raw,2018,N/A,PG-13,5.5,"89,880",37
-774,tt1791528,Inherent Vice,Paul Thomas Anderson,Joanna Newsom,2014,"$6,100,613",R,6.7,"89,975",81
-775,tt1034314,Iron Sky,Timo Vuorensola,Julia Dietze,2012,"$66,076",R,5.9,"89,688",N/A
-776,tt0087800,A Nightmare on Elm Street,Wes Craven,John Saxon,1984,N/A,R,7.5,"196,062",76
-777,tt1602620,Amour,Michael Haneke,Jean-Louis Trintignant,2012,N/A,PG-13,7.9,"88,889",94
-778,tt0892318,Letters to Juliet,Gary Winick,Amanda Seyfried,2010,"$53,021,560",PG,6.5,"89,266",50
-779,tt1440728,The American,Anton Corbijn,George Clooney,2010,"$35,596,227",R,6.3,"88,870",61
-780,tt2224026,Home,Tim Johnson,Jim Parsons,2015,"$157,801,252",PG,6.6,"88,888",55
-781,tt3289956,The Autopsy of Jane Doe,André Øvredal,Brian Cox,2016,N/A,R,6.8,"87,255",65
-782,tt1397514,Journey 2: The Mysterious Island,Brad Peyton,Dwayne Johnson,2012,"$103,812,241",PG,5.8,"88,829",41
-783,tt3195644,Insidious: Chapter 3,Leigh Whannell,Dermot Mulroney,2015,N/A,PG-13,6.1,"88,651",52
-784,tt1212419,Hereafter,Clint Eastwood,Cécile de France,2010,"$32,741,596",PG-13,6.4,"88,842",56
-785,tt1161864,The Rite,Mikael Håfström,Anthony Hopkins,2011,"$33,037,754",PG-13,6.0,"88,736",38
-786,tt0480255,The Losers,Sylvain White,Jeffrey Dean Morgan,2010,"$23,400,000",PG-13,6.3,"88,284",44
-787,tt1781769,Anna Karenina,Joe Wright,Matthew Macfadyen,2012,"$12,802,907",R,6.6,"88,312",63
-788,tt1549572,Another Earth,Mike Cahill,William Mapother,2011,"$957,752",PG-13,7.0,"88,267",66
-789,tt0479997,Season of the Witch,Dominic Sena,Nicolas Cage,2011,"$24,800,000",PG-13,5.4,"88,229",28
-790,tt1618434,Murder Mystery,Kyle Newacheck,Adam Sandler,2019,N/A,PG-13,6.0,"86,940",38
-791,tt1981128,Geostorm,Dean Devlin,Gerard Butler,2017,N/A,PG-13,5.3,"88,351",21
-792,tt1778304,Paranormal Activity 3,Henry Joost,Lauren Bittner,2011,"$103,993,239",R,5.8,"87,942",59
-793,tt1412386,The Best Exotic Marigold Hotel,John Madden,Judi Dench,2011,"$46,377,022",PG-13,7.2,"87,886",62
-794,tt3381008,The Brothers Grimsby,Louis Leterrier,Sacha Baron Cohen,2016,N/A,R,6.2,"87,607",44
-795,tt1675192,Take Shelter,Jeff Nichols,Michael Shannon,2011,"$1,600,000",R,7.4,"87,554",85
-796,tt1226273,Edge of Darkness,Martin Campbell,Mel Gibson,2010,"$43,290,977",R,6.6,"87,358",55
-797,tt3063516,Bad Grandpa,Jeff Tremaine,Johnny Knoxville,2013,"$84,961,415",R,6.5,"87,602",54
-798,tt4465564,Fifty Shades Darker,James Foley,Dakota Johnson,2017,"$114,376,885",R,4.6,"87,142",33
-799,tt1477076,Saw: The Final Chapter,Kevin Greutert,Tobin Bell,2010,"$45,670,855",R,5.6,"87,071",24
-800,tt1232200,That's My Boy,Sean Anders,Adam Sandler,2012,N/A,R,5.5,"87,434",31
-801,tt2567026,Alice Through the Looking Glass,James Bobin,Johnny Depp,2016,N/A,PG,6.2,"87,235",34
-802,tt4682786,Collateral Beauty,David Frankel,Will Smith,2016,N/A,PG-13,6.8,"86,288",23
-803,tt1714915,Only Lovers Left Alive,Jim Jarmusch,Tilda Swinton,2013,N/A,R,7.3,"86,701",79
-804,tt1985966,Cloudy with a Chance of Meatballs 2,Cody Cameron,Bill Hader,2013,"$119,793,567",PG,6.4,"85,984",59
-805,tt4094724,The Purge: Election Year,James DeMonaco,Frank Grillo,2016,N/A,R,6.0,"86,020",55
-806,tt1470827,Monsters,Gareth Edwards,Scoot McNairy,2010,N/A,R,6.4,"85,783",63
-807,tt2140379,Self/less,Tarsem Singh,Ryan Reynolds,2015,N/A,PG-13,6.5,"85,447",34
-808,tt1532503,Beginners,Mike Mills,Ewan McGregor,2010,"$5,764,842",R,7.2,"85,878",81
-809,tt2980592,The Guest,Adam Wingard,Dan Stevens,2014,"$642,285",R,6.7,"85,736",76
-810,tt1564585,Skyline,Colin Strause,Eric Balfour,2010,"$12,000,000",PG-13,4.4,"85,254",26
-811,tt1204342,The Muppets,James Bobin,Jason Segel,2011,"$88,625,922",PG,7.1,"84,999",75
-812,tt5649144,The Florida Project,Sean Baker,Brooklynn Prince,2017,N/A,R,7.6,"84,247",92
-813,tt1103153,Killers,Robert Luketic,Ashton Kutcher,2010,"$47,000,485",PG-13,5.4,"84,906",21
-814,tt2172934,3 Days to Kill,McG,Kevin Costner,2014,N/A,PG-13,6.2,"84,718",40
-815,tt1396218,Mr. Popper's Penguins,Mark Waters,Jim Carrey,2011,"$68,100,000",PG,6.0,"84,564",53
-816,tt1172049,Demolition,Jean-Marc Vallée,Jake Gyllenhaal,2015,N/A,R,7.0,"84,197",49
-817,tt0879870,Eat Pray Love,Ryan Murphy,Julia Roberts,2010,"$80,574,010",PG-13,5.8,"83,528",50
-818,tt1853739,You're Next,Adam Wingard,Sharni Vinson,2011,"$25,064,090",R,6.5,"84,000",66
-819,tt0464154,Piranha 3D,Alexandre Aja,Richard Dreyfuss,2010,"$24,900,000",R,5.4,"83,948",53
-820,tt1385867,Cop Out,Kevin Smith,Bruce Willis,2010,"$44,047,293",R,5.6,"83,755",31
-821,tt1259528,Den of Thieves,Christian Gudegast,Gerard Butler,2018,"$44,680,327",R,7.0,"81,693",49
-822,tt1648179,Here Comes the Boom,Frank Coraci,Kevin James,2012,"$45,274,251",PG,6.4,"83,801",40
-823,tt2400463,The Invitation,Karyn Kusama,Logan Marshall-Green,2015,"$231,703",Not Rated,6.6,"82,290",74
-824,tt2382009,Nymphomaniac: Vol. II,Lars von Trier,Charlotte Gainsbourg,2013,"$205,435",Not Rated,6.7,"83,718",60
-825,tt1164999,Biutiful,Alejandro G. Iñárritu,Javier Bardem,2010,"$5,100,937",R,7.5,"83,008",58
-826,tt4572514,Patriots Day,Peter Berg,Mark Wahlberg,2016,N/A,R,7.4,"82,655",69
-827,tt2679042,Hitman: Agent 47,Aleksander Bach,Angelababy,2015,N/A,R,5.7,"83,242",28
-828,tt3072482,Hardcore Henry,Ilya Naishuller,Sharlto Copley,2015,N/A,R,6.7,"83,038",51
-829,tt1440292,Submarine,Richard Ayoade,Noah Taylor,2010,"$400,000",R,7.3,"83,057",76
-830,tt3322364,Concussion,Peter Landesman,Will Smith,2015,N/A,PG-13,7.1,"82,004",55
-831,tt1293847,xXx: Return of Xander Cage,D.J. Caruso,Vin Diesel,2017,"$44,850,317",PG-13,5.2,"82,217",42
-832,tt1637706,Our Idiot Brother,Jesse Peretz,Paul Rudd,2011,"$24,600,000",R,6.4,"82,266",60
-833,tt0914863,Unthinkable,Gregor Jordan,Samuel L. Jackson,2010,N/A,R,7.1,"82,063",N/A
-834,tt1322269,August: Osage County,John Wells,Meryl Streep,2013,"$29,202,643",R,7.2,"81,927",58
-835,tt1859650,To Rome with Love,Woody Allen,Pierluigi Marchionne,2012,"$16,500,000",R,6.3,"82,051",54
-836,tt1559547,Beautiful Creatures,Richard LaGravenese,Alden Ehrenreich,2013,"$19,445,217",PG-13,6.1,"81,869",52
-837,tt1126590,Big Eyes,Tim Burton,Amy Adams,2014,"$8,021,168",PG-13,7.0,"81,613",62
-838,tt1456635,Goon,Michael Dowse,Seann William Scott,2011,"$840,657",R,6.8,"81,696",64
-839,tt1667353,Mirror Mirror,Tarsem Singh,Julia Roberts,2012,"$64,933,670",PG,5.6,"81,372",46
-840,tt2205697,Stuck in Love.,Josh Boone,Greg Kinnear,2012,"$100,000",R,7.2,"81,060",49
-841,tt2139881,Long Shot,Jonathan Levine,Charlize Theron,2019,N/A,R,6.9,"77,673",67
-842,tt1655420,My Week with Marilyn,Simon Curtis,Michelle Williams,2011,"$12,600,000",R,7.0,"81,364",65
-843,tt3949660,Teenage Mutant Ninja Turtles: Out of the Shadows,Dave Green,Megan Fox,2016,N/A,PG-13,6.0,"81,392",40
-844,tt3316948,American Ultra,Nima Nourizadeh,Jesse Eisenberg,2015,N/A,R,6.1,"81,176",50
-845,tt1083452,Eddie the Eagle,Dexter Fletcher,Tom Costello,2015,N/A,PG-13,7.4,"81,284",54
-846,tt1506999,Haywire,Steven Soderbergh,Gina Carano,2011,"$18,934,858",R,5.8,"81,158",67
-847,tt1020072,Selma,Ava DuVernay,David Oyelowo,2014,N/A,PG-13,7.5,"80,871",81
-848,tt1486192,The Raven,James McTeigue,John Cusack,2012,"$16,000,000",R,6.4,"80,990",44
-849,tt0882977,Snitch,Ric Roman Waugh,Dwayne Johnson,2013,"$42,908,315",PG-13,6.4,"80,744",51
-850,tt0472181,The Smurfs,Raja Gosnell,Hank Azaria,2011,"$142,614,158",PG,5.4,"80,677",30
-851,tt2132285,The Bling Ring,Sofia Coppola,Katie Chang,2013,"$5,500,000",R,5.6,"80,754",66
-852,tt0453562,42,Brian Helgeland,Chadwick Boseman,2013,"$95,001,343",PG-13,7.5,"80,854",62
-853,tt3544112,Sing Street,John Carney,Ferdia Walsh-Peelo,2016,"$3,233,839",PG-13,7.9,"80,814",79
-854,tt2592614,Resident Evil: The Final Chapter,Paul W.S. Anderson,Milla Jovovich,2016,"$26,844,692",R,5.5,"79,443",49
-855,tt3748172,Gerald's Game,Mike Flanagan,Carla Gugino,2017,N/A,TV-MA,6.6,"79,008",77
-856,tt1860353,Turbo,David Soren,Ryan Reynolds,2013,"$81,100,000",PG,6.4,"79,714",58
-857,tt4218572,Widows,Steve McQueen,Viola Davis,2018,N/A,R,6.9,"78,673",84
-858,tt2494362,Bone Tomahawk,S. Craig Zahler,Kurt Russell,2015,N/A,Not Rated,7.1,"79,474",72
-859,tt1297919,Blitz,Elliott Lester,Jason Statham,2011,"$266,148",R,6.2,"79,468",N/A
-860,tt1666801,The Duff,Ari Sandel,Mae Whitman,2015,"$30,777,437",PG-13,6.5,"79,586",56
-861,tt4731136,A Cure for Wellness,Gore Verbinski,Dane DeHaan,2016,"$8,103,139",R,6.4,"78,888",47
-862,tt1598822,New Year's Eve,Garry Marshall,Michelle Pfeiffer,2011,"$54,538,013",PG-13,5.7,"79,472",22
-863,tt2823054,Mike and Dave Need Wedding Dates,Jake Szymanski,Zac Efron,2016,"$46,007,113",R,6.0,"79,295",51
-864,tt4287320,The Circle,James Ponsoldt,Emma Watson,2017,N/A,PG-13,5.3,"78,978",43
-865,tt2125435,Beasts of the Southern Wild,Benh Zeitlin,Quvenzhané Wallis,2012,"$12,784,397",PG-13,7.3,"79,224",86
-866,tt1974419,The Neon Demon,Nicolas Winding Refn,Elle Fanning,2016,N/A,R,6.2,"78,753",51
-867,tt3850214,Dope,Rick Famuyiwa,ASAP Rocky,2015,"$11,674,449",R,7.2,"78,684",72
-868,tt1294226,The Last Song,Julie Anne Robinson,Miley Cyrus,2010,"$42,441,000",PG,6.0,"78,380",33
-869,tt1229822,Jane Eyre,Cary Joji Fukunaga,Mia Wasikowska,2011,N/A,PG-13,7.3,"78,351",76
-870,tt0817177,Flipped,Rob Reiner,Madeline Carroll,2010,"$1,752,214",PG,7.7,"77,669",45
-871,tt1292566,How to Be Single,Christian Ditter,Dakota Johnson,2016,N/A,R,6.1,"77,960",51
-872,tt4695012,It Comes At Night,Trey Edward Shults,Joel Edgerton,2017,"$13,985,117",R,6.2,"77,335",78
-873,tt3846674,To All the Boys I've Loved Before,Susan Johnson,Lana Condor,2018,N/A,TV-14,7.2,"77,378",64
-874,tt1540133,The Guard,John Michael McDonagh,Ronan Collins,2011,"$5,359,774",R,7.3,"77,712",78
-875,tt7798634,Ready or Not,Matt Bettinelli-Olpin,Samara Weaving,2019,N/A,R,6.8,"75,580",64
-876,tt4686844,The Death of Stalin,Armando Iannucci,Olga Kurylenko,2017,N/A,R,7.2,"76,529",88
-877,tt2370248,Short Term 12,Destin Daniel Cretton,Brie Larson,2013,N/A,R,8.0,"77,120",82
-878,tt1625346,Young Adult,Jason Reitman,Charlize Theron,2011,"$16,295,033",R,6.2,"77,018",71
+742,tt1142977,Frankenweenie,Tim Burton,Catherine O'Hara,2012,35287788,PG,6.9,94078,74
+743,tt0889573,The Switch,Josh Gordon,Jason Bateman,2010,27400000,PG13,6.1,94142,52
+744,tt2381991,The Huntsman: Winter's War,Cedric Nicolas-Troyan,Chris Hemsworth,2016,46445229,PG13,6.1,94117,35
+745,tt3967856,Okja,Bong Joon Ho,Tilda Swinton,2017,NA,TV-MA,7.3,91683,75
+746,tt1524930,Vacation,John Francis Daley,Ed Helms,2015,40292843,R,6.1,93486,34
+747,tt2671706,Fences,Denzel Washington,Denzel Washington,2016,57642961,PG13,7.2,93431,79
+748,tt1839492,Ruby Sparks,Jonathan Dayton,Paul Dano,2012,2535819,R,7.2,92913,67
+749,tt1386932,Ip Man 2,Wilson Yip,Donnie Yen,2010,NA,R,7.5,93008,67
+750,tt0082198,Conan the Barbarian,John Milius,Arnold Schwarzenegger,1982,NA,R,6.9,133108,43
+751,tt1109624,Paddington,Paul King,Tim Downie,2014,85879985,PG,7.2,92497,77
+752,tt2170593,St. Vincent,Theodore Melfi,Bill Murray,2014,33454313,PG13,7.2,92792,64
+753,tt1615160,The Foreigner,Martin Campbell,Katie Leung,2017,33964179,R,7.0,92259,55
+754,tt5742374,You Were Never Really Here,Lynne Ramsay,Joaquin Phoenix,2017,NA,R,6.8,91285,84
+755,tt5022702,Hush,Mike Flanagan,John Gallagher Jr.,2016,NA,R,6.6,90828,67
+756,tt1502404,Drive Angry,Patrick Lussier,Nicolas Cage,2011,10706786,R,5.4,92610,44
+757,tt4481414,Gifted,Marc Webb,Chris Evans,2017,24799765,PG13,7.6,91553,60
+758,tt2386490,How to Train Your Dragon: The Hidden World,Dean DeBlois,Jay Baruchel,2019,NA,PG,7.5,90736,71
+759,tt3622592,Paper Towns,Jake Schreier,Nat Wolff,2015,NA,PG13,6.3,92115,56
+760,tt1389072,Downsizing,Alexander Payne,Matt Damon,2017,NA,R,5.7,91630,63
+761,tt2357129,Jobs,Joshua Michael Stern,Ashton Kutcher,2013,16117443,PG13,5.9,91733,44
+762,tt1592525,Lockout,James Mather,Guy Pearce,2012,14291570,PG13,6.1,91524,48
+763,tt2431286,Philomena,Stephen Frears,Judi Dench,2013,NA,PG13,7.6,91612,77
+764,tt1618442,The Last Witch Hunter,Breck Eisner,Vin Diesel,2015,NA,PG13,6.0,91156,34
+765,tt1622547,30 Minutes or Less,Ruben Fleischer,Jesse Eisenberg,2011,37100000,R,6.1,91303,49
+766,tt2241351,Money Monster,Jodie Foster,George Clooney,2016,NA,R,6.5,90875,55
+767,tt1657507,Colombiana,Olivier Megaton,Zoe Saldana,2011,36665854,PG13,6.4,90806,45
+768,tt5164432,"Love, Simon",Greg Berlanti,Nick Robinson,2018,NA,PG13,7.6,90562,72
+769,tt8404614,The Two Popes,Fernando Meirelles,Anthony Hopkins,2019,NA,PG13,7.6,88450,75
+770,tt1623288,ParaNorman,Chris Butler,Kodi Smit-McPhee,2012,55994557,PG,7.0,90732,72
+771,tt1216492,Leap Year,Anand Tucker,Amy Adams,2010,25893485,PG,6.5,90593,33
+772,tt1195478,The Five-Year Engagement,Nicholas Stoller,Jason Segel,2012,28644770,R,6.2,90674,62
+773,tt2548396,The Cloverfield Paradox,Julius Onah,Gugu Mbatha-Raw,2018,NA,PG13,5.5,89880,37
+774,tt1791528,Inherent Vice,Paul Thomas Anderson,Joanna Newsom,2014,6100613,R,6.7,89975,81
+775,tt1034314,Iron Sky,Timo Vuorensola,Julia Dietze,2012,66076,R,5.9,89932,N/A
+776,tt0087800,A Nightmare on Elm Street,Wes Craven,John Saxon,1984,NA,R,7.5,196062,76
+777,tt1602620,Amour,Michael Haneke,Jean-Louis Trintignant,2012,NA,PG13,7.9,88889,94
+778,tt0892318,Letters to Juliet,Gary Winick,Amanda Seyfried,2010,53021560,PG,6.5,89266,50
+779,tt1440728,The American,Anton Corbijn,George Clooney,2010,35596227,R,6.3,88870,61
+780,tt2224026,Home,Tim Johnson,Jim Parsons,2015,157801252,PG,6.6,88888,55
+781,tt3289956,The Autopsy of Jane Doe,André Øvredal,Brian Cox,2016,NA,R,6.8,89198,65
+782,tt1397514,Journey 2: The Mysterious Island,Brad Peyton,Dwayne Johnson,2012,103812241,PG,5.8,88829,41
+783,tt3195644,Insidious: Chapter 3,Leigh Whannell,Dermot Mulroney,2015,NA,PG13,6.1,88651,52
+784,tt1212419,Hereafter,Clint Eastwood,Cécile de France,2010,32741596,PG13,6.4,88842,56
+785,tt1161864,The Rite,Mikael Håfström,Anthony Hopkins,2011,33037754,PG13,6.0,88736,38
+786,tt0480255,The Losers,Sylvain White,Jeffrey Dean Morgan,2010,23400000,PG13,6.3,88284,44
+787,tt1781769,Anna Karenina,Joe Wright,Matthew Macfadyen,2012,12802907,R,6.6,88312,63
+788,tt1549572,Another Earth,Mike Cahill,William Mapother,2011,957752,PG13,7.0,88267,66
+789,tt1618434,Murder Mystery,Kyle Newacheck,Adam Sandler,2019,NA,PG13,6.0,86940,38
+790,tt0479997,Season of the Witch,Dominic Sena,Nicolas Cage,2011,24800000,PG13,5.4,88229,28
+791,tt1981128,Geostorm,Dean Devlin,Gerard Butler,2017,NA,PG13,5.3,88351,21
+792,tt1778304,Paranormal Activity 3,Henry Joost,Lauren Bittner,2011,103993239,R,5.8,87942,59
+793,tt1412386,The Best Exotic Marigold Hotel,John Madden,Judi Dench,2011,46377022,PG13,7.2,87886,62
+794,tt3381008,The Brothers Grimsby,Louis Leterrier,Sacha Baron Cohen,2016,NA,R,6.2,87607,44
+795,tt1675192,Take Shelter,Jeff Nichols,Michael Shannon,2011,1600000,R,7.4,87554,85
+796,tt1226273,Edge of Darkness,Martin Campbell,Mel Gibson,2010,43290977,R,6.6,87358,55
+797,tt3063516,Bad Grandpa,Jeff Tremaine,Johnny Knoxville,2013,84961415,R,6.5,87602,54
+798,tt4465564,Fifty Shades Darker,James Foley,Dakota Johnson,2017,114376885,R,4.6,87142,33
+799,tt1232200,That's My Boy,Sean Anders,Adam Sandler,2012,NA,R,5.5,87434,31
+800,tt1477076,Saw: The Final Chapter,Kevin Greutert,Tobin Bell,2010,45670855,R,5.6,87071,24
+801,tt2567026,Alice Through the Looking Glass,James Bobin,Johnny Depp,2016,NA,PG,6.2,87235,34
+802,tt4682786,Collateral Beauty,David Frankel,Will Smith,2016,NA,PG13,6.8,86288,23
+803,tt1714915,Only Lovers Left Alive,Jim Jarmusch,Tilda Swinton,2013,NA,R,7.3,86701,79
+804,tt1985966,Cloudy with a Chance of Meatballs 2,Cody Cameron,Bill Hader,2013,119793567,PG,6.4,85984,59
+805,tt4094724,The Purge: Election Year,James DeMonaco,Frank Grillo,2016,NA,R,6.0,86020,55
+806,tt1470827,Monsters,Gareth Edwards,Scoot McNairy,2010,NA,R,6.4,85783,63
+807,tt2140379,Self/less,Tarsem Singh,Ryan Reynolds,2015,NA,PG13,6.5,85447,34
+808,tt1532503,Beginners,Mike Mills,Ewan McGregor,2010,5764842,R,7.2,85878,81
+809,tt2980592,The Guest,Adam Wingard,Dan Stevens,2014,642285,R,6.7,85736,76
+810,tt1564585,Skyline,Colin Strause,Eric Balfour,2010,12000000,PG13,4.4,85254,26
+811,tt1204342,The Muppets,James Bobin,Jason Segel,2011,88625922,PG,7.1,84999,75
+812,tt5649144,The Florida Project,Sean Baker,Brooklynn Prince,2017,NA,R,7.6,84247,92
+813,tt1103153,Killers,Robert Luketic,Ashton Kutcher,2010,47000485,PG13,5.4,84906,21
+814,tt2172934,3 Days to Kill,McG,Kevin Costner,2014,NA,PG13,6.2,84718,40
+815,tt1396218,Mr. Popper's Penguins,Mark Waters,Jim Carrey,2011,68100000,PG,6.0,84564,53
+816,tt1172049,Demolition,Jean-Marc Vallée,Jake Gyllenhaal,2015,NA,R,7.0,84197,49
+817,tt0879870,Eat Pray Love,Ryan Murphy,Julia Roberts,2010,80574010,PG13,5.8,83528,50
+818,tt1853739,You're Next,Adam Wingard,Sharni Vinson,2011,25064090,R,6.5,84000,66
+819,tt0464154,Piranha 3D,Alexandre Aja,Richard Dreyfuss,2010,24900000,R,5.4,83948,53
+820,tt1259528,Den of Thieves,Christian Gudegast,Gerard Butler,2018,44680327,R,7.0,81693,49
+821,tt1385867,Cop Out,Kevin Smith,Bruce Willis,2010,44047293,R,5.6,83755,31
+822,tt1648179,Here Comes the Boom,Frank Coraci,Kevin James,2012,45274251,PG,6.4,83801,40
+823,tt2400463,The Invitation,Karyn Kusama,Logan Marshall-Green,2015,231703,Not Rated,6.6,82290,74
+824,tt2382009,Nymphomaniac: Vol. II,Lars von Trier,Charlotte Gainsbourg,2013,205435,Not Rated,6.7,83718,60
+825,tt1164999,Biutiful,Alejandro G. Iñárritu,Javier Bardem,2010,5100937,R,7.5,83008,58
+826,tt4572514,Patriots Day,Peter Berg,Mark Wahlberg,2016,NA,R,7.4,82655,69
+827,tt2679042,Hitman: Agent 47,Aleksander Bach,Angelababy,2015,NA,R,5.7,83242,28
+828,tt3072482,Hardcore Henry,Ilya Naishuller,Sharlto Copley,2015,NA,R,6.7,83038,51
+829,tt1440292,Submarine,Richard Ayoade,Noah Taylor,2010,400000,R,7.3,83057,76
+830,tt3322364,Concussion,Peter Landesman,Will Smith,2015,NA,PG13,7.1,82004,55
+831,tt1293847,xXx: Return of Xander Cage,D.J. Caruso,Vin Diesel,2017,44850317,PG13,5.2,82217,42
+832,tt1637706,Our Idiot Brother,Jesse Peretz,Paul Rudd,2011,24600000,R,6.4,82266,60
+833,tt0914863,Unthinkable,Gregor Jordan,Samuel L. Jackson,2010,NA,R,7.1,82063,N/A
+834,tt1322269,August: Osage County,John Wells,Meryl Streep,2013,29202643,R,7.2,81927,58
+835,tt1859650,To Rome with Love,Woody Allen,Pierluigi Marchionne,2012,16500000,R,6.3,82051,54
+836,tt1559547,Beautiful Creatures,Richard LaGravenese,Alden Ehrenreich,2013,19445217,PG13,6.1,82242,52
+837,tt1126590,Big Eyes,Tim Burton,Amy Adams,2014,8021168,PG13,7.0,81613,62
+838,tt1456635,Goon,Michael Dowse,Seann William Scott,2011,840657,R,6.8,81696,64
+839,tt1667353,Mirror Mirror,Tarsem Singh,Julia Roberts,2012,64933670,PG,5.6,81372,46
+840,tt2139881,Long Shot,Jonathan Levine,Charlize Theron,2019,NA,R,6.9,77673,67
+841,tt2205697,Stuck in Love.,Josh Boone,Greg Kinnear,2012,100000,R,7.2,81060,49
+842,tt1655420,My Week with Marilyn,Simon Curtis,Michelle Williams,2011,12600000,R,7.0,81364,65
+843,tt3949660,Teenage Mutant Ninja Turtles: Out of the Shadows,Dave Green,Megan Fox,2016,NA,PG13,6.0,81392,40
+844,tt3316948,American Ultra,Nima Nourizadeh,Jesse Eisenberg,2015,NA,R,6.1,81176,50
+845,tt1083452,Eddie the Eagle,Dexter Fletcher,Tom Costello,2015,NA,PG13,7.4,81284,54
+846,tt1506999,Haywire,Steven Soderbergh,Gina Carano,2011,18934858,R,5.8,81158,67
+847,tt1020072,Selma,Ava DuVernay,David Oyelowo,2014,NA,PG13,7.5,80871,81
+848,tt1486192,The Raven,James McTeigue,John Cusack,2012,16000000,R,6.4,80990,44
+849,tt0882977,Snitch,Ric Roman Waugh,Dwayne Johnson,2013,42908315,PG13,6.4,80744,51
+850,tt0472181,The Smurfs,Raja Gosnell,Hank Azaria,2011,142614158,PG,5.4,80677,30
+851,tt2132285,The Bling Ring,Sofia Coppola,Katie Chang,2013,5500000,R,5.6,80754,66
+852,tt0453562,42,Brian Helgeland,Chadwick Boseman,2013,95001343,PG13,7.5,80854,62
+853,tt3544112,Sing Street,John Carney,Ferdia Walsh-Peelo,2016,3233839,PG13,7.9,80814,79
+854,tt2592614,Resident Evil: The Final Chapter,Paul W.S. Anderson,Milla Jovovich,2016,26844692,R,5.5,79443,49
+855,tt3748172,Gerald's Game,Mike Flanagan,Carla Gugino,2017,NA,TV-MA,6.6,79008,77
+856,tt1860353,Turbo,David Soren,Ryan Reynolds,2013,81100000,PG,6.4,79714,58
+857,tt4218572,Widows,Steve McQueen,Viola Davis,2018,NA,R,6.9,78673,84
+858,tt2494362,Bone Tomahawk,S. Craig Zahler,Kurt Russell,2015,NA,Not Rated,7.1,79474,72
+859,tt1297919,Blitz,Elliott Lester,Jason Statham,2011,266148,R,6.2,79468,N/A
+860,tt1666801,The Duff,Ari Sandel,Mae Whitman,2015,30777437,PG13,6.5,79586,56
+861,tt4731136,A Cure for Wellness,Gore Verbinski,Dane DeHaan,2016,8103139,R,6.4,78888,47
+862,tt1598822,New Year's Eve,Garry Marshall,Michelle Pfeiffer,2011,54538013,PG13,5.7,79472,22
+863,tt2823054,Mike and Dave Need Wedding Dates,Jake Szymanski,Zac Efron,2016,46007113,R,6.0,79295,51
+864,tt4287320,The Circle,James Ponsoldt,Emma Watson,2017,NA,PG13,5.3,78978,43
+865,tt2125435,Beasts of the Southern Wild,Benh Zeitlin,Quvenzhané Wallis,2012,12784397,PG13,7.3,79224,86
+866,tt1974419,The Neon Demon,Nicolas Winding Refn,Elle Fanning,2016,NA,R,6.2,78753,51
+867,tt3850214,Dope,Rick Famuyiwa,ASAP Rocky,2015,11674449,R,7.2,78684,72
+868,tt1294226,The Last Song,Julie Anne Robinson,Miley Cyrus,2010,42441000,PG,6.0,78380,33
+869,tt1229822,Jane Eyre,Cary Joji Fukunaga,Mia Wasikowska,2011,NA,PG13,7.3,78351,76
+870,tt0817177,Flipped,Rob Reiner,Madeline Carroll,2010,1752214,PG,7.7,77669,45
+871,tt1292566,How to Be Single,Christian Ditter,Dakota Johnson,2016,NA,R,6.1,77960,51
+872,tt4695012,It Comes At Night,Trey Edward Shults,Joel Edgerton,2017,13985117,R,6.2,77335,78
+873,tt3846674,To All the Boys I've Loved Before,Susan Johnson,Lana Condor,2018,NA,TV-14,7.2,77378,64
+874,tt7798634,Ready or Not,Matt Bettinelli-Olpin,Samara Weaving,2019,NA,R,6.8,75580,64
+875,tt1540133,The Guard,John Michael McDonagh,Ronan Collins,2011,5359774,R,7.3,77712,78
+876,tt4686844,The Death of Stalin,Armando Iannucci,Olga Kurylenko,2017,NA,R,7.2,76529,88
+877,tt2370248,Short Term 12,Destin Daniel Cretton,Brie Larson,2013,NA,R,8.0,77120,82
+878,tt1625346,Young Adult,Jason Reitman,Charlize Theron,2011,16295033,R,6.2,77806,71
 879,NA,Elite Squad 2: The Enemy Within,NA,NA,NA,NA,NA,NA,NA,NA
-880,tt1051904,Goosebumps,Rob Letterman,Jack Black,2015,"$76,079,946",PG,6.3,"77,215",60
-881,tt2358891,The Great Beauty,Paolo Sorrentino,Toni Servillo,2013,N/A,Not Rated,7.8,"76,462",86
-882,tt3416532,A Monster Calls,J.A. Bayona,Lewis MacDougall,2016,"$3,730,982",PG-13,7.5,"76,590",76
-883,tt1418377,"I, Frankenstein",Stuart Beattie,Aaron Eckhart,2014,"$15,687,400",PG-13,5.1,"76,776",30
-884,tt1985949,Angry Birds,Clay Kaytis,Jason Sudeikis,2016,N/A,PG,6.3,"76,208",43
-885,tt2357291,Rio 2,Carlos Saldanha,Jake T. Austin,2014,"$113,691,800",G,6.3,"76,093",49
-886,tt4530422,Overlord,Julius Avery,Jovan Adepo,2018,N/A,R,6.6,"75,680",60
-887,tt1489887,Booksmart,Olivia Wilde,Kaitlyn Dever,2019,N/A,R,7.2,"72,633",84
-888,tt1911658,Penguins of Madagascar,Eric Darnell,Tom McGrath,2014,"$70,727,688",PG,6.7,"76,034",53
-889,tt1020558,Centurion,Neil Marshall,Michael Fassbender,2010,"$122,288",R,6.4,"76,177",62
-890,tt2057392,Eye in the Sky,Gavin Hood,Faisa Hassan,2015,N/A,R,7.3,"75,929",73
-891,tt1219342,Legend of the Guardians: The Owls of Ga'Hoole,Zack Snyder,Emily Barclay,2010,"$54,400,000",PG,6.9,"75,714",53
-892,tt1220617,The Inbetweeners,N/A,Simon Bird,2008–2010,NA,TV-14,8.4,"76,331",N/A
-893,tt2179116,The Kings of Summer,Jordan Vogt-Roberts,Nick Robinson,2013,"$1,300,000",R,7.1,"75,489",61
-894,tt1126591,Burlesque,Steve Antin,Cher,2010,"$39,440,655",PG-13,6.4,"75,089",47
-895,tt3882082,The Boy,William Brent Bell,Lauren Cohan,2016,"$30,196,680",PG-13,6.0,"74,822",42
-896,tt0810913,Jack and Jill,Dennis Dugan,Adam Sandler,2011,"$74,158,157",PG,3.3,"75,324",23
-897,tt1954470,Gangs of Wasseypur,Anurag Kashyap,Manoj Bajpayee,2012,N/A,Not Rated,8.2,"73,575",89
-898,tt1568921,The Secret World of Arrietty,Hiromasa Yonebayashi,Tom Holland,2010,"$19,192,510",G,7.6,"73,997",80
-899,tt3605418,Knock Knock,Eli Roth,Keanu Reeves,2015,"$285,363",R,4.9,"74,227",53
-900,tt1600195,Abduction,John Singleton,Jake Andolina,2011,"$27,600,000",PG-13,5.1,"74,464",25
-901,tt1781922,No Escape,John Erick Dowdle,Owen Wilson,2015,"$27,274,112",R,6.8,"73,656",38
-902,tt1152398,Beastly,Daniel Barnz,Alex Pettyfer,2011,"$27,854,896",PG-13,5.6,"74,242",40
-903,tt0387199,Entourage,N/A,Kevin Connolly,2004–2011,NA,TV-MA,8.4,"154,272",N/A
-904,tt1528071,Horns,Alexandre Aja,Daniel Radcliffe,2013,"$511,848",R,6.5,"73,725",46
-905,tt2436386,Project Almanac,Dean Israelite,Jonny Weston,2015,N/A,PG-13,6.4,"73,819",47
-906,tt3691740,The BFG,Steven Spielberg,Mark Rylance,2016,"$55,472,665",PG,6.4,"73,906",66
-907,tt1235522,Broken City,Allen Hughes,Mark Wahlberg,2013,"$19,600,000",R,6.2,"73,890",49
-908,tt1212428,The Lost City of Z,James Gray,Charlie Hunnam,2016,"$8,554,554",PG-13,6.6,"73,697",78
-909,tt2726560,The Longest Ride,George Tillman Jr.,Britt Robertson,2015,N/A,PG-13,7.1,"73,644",33
-910,tt2017038,All Is Lost,J.C. Chandor,Robert Redford,2013,"$4,300,353",PG-13,6.9,"73,517",87
-911,tt2980648,The Hundred-Foot Journey,Lasse Hallström,Helen Mirren,2014,"$46,214,579",PG,7.3,"73,276",55
-912,tt5886046,Escape Room,Adam Robitel,Taylor Russell,2019,N/A,PG-13,6.3,"71,973",48
-913,tt4846232,Good Time,Benny Safdie,Robert Pattinson,2017,"$1,999,047",R,7.4,"71,320",80
-914,tt1683526,Detachment,Tony Kaye,Adrien Brody,2011,"$48,868",Not Rated,7.7,"73,040",52
-915,tt2387559,Delivery Man,Ken Scott,Vince Vaughn,2013,"$30,659,817",PG-13,6.4,"72,989",44
-916,tt0098084,Pet Sematary,Mary Lambert,Dale Midkiff,1989,N/A,R,6.6,"90,631",38
-917,tt1512235,Super,James Gunn,Rainn Wilson,2010,"$200,000",R,6.7,"72,843",50
-918,tt1242432,I Spit on Your Grave,Steven R. Monroe,Sarah Butler,2010,"$92,401",R,6.3,"72,768",27
-919,tt1605717,Frank,Lenny Abrahamson,Domhnall Gleeson,2014,N/A,R,7.0,"72,857",75
-920,tt3522806,Mechanic: Resurrection,Dennis Gansel,Jason Statham,2016,"$21,203,260",R,5.7,"72,722",38
-921,tt1840417,The Words,Brian Klugman,Dennis Quaid,2012,"$11,434,867",PG-13,7.0,"72,756",37
-922,tt2002718,Machete Kills,Robert Rodriguez,Danny Trejo,2013,"$5,658,869",R,5.6,"72,553",41
-923,tt7984766,The King,David Michôd,Tom Glynn-Carney,2019,N/A,R,7.3,"70,837",62
-924,tt3203606,Trumbo,Jay Roach,Bryan Cranston,2015,N/A,R,7.5,"71,959",60
-925,tt2082197,Barfi!,Anurag Basu,Ranbir Kapoor,2012,"$2,804,874",Not Rated,8.1,"71,787",N/A
-926,tt2568862,Going in Style,Zach Braff,Michael Caine,2017,N/A,PG-13,6.6,"71,958",50
-927,tt2870612,"As Above, So Below",John Erick Dowdle,Perdita Weeks,2014,N/A,R,6.2,"71,227",38
-928,tt2649554,Midnight Special,Jeff Nichols,Michael Shannon,2016,N/A,PG-13,6.6,"71,895",76
-929,tt1261945,Sex and the City 2,Michael Patrick King,Sarah Jessica Parker,2010,"$95,328,937",R,4.5,"71,528",27
-930,tt1336608,Rock of Ages,Adam Shankman,Julianne Hough,2012,"$38,509,342",PG-13,5.9,"71,743",47
-931,tt0877057,Death Note,N/A,Mamoru Miyano,2006–2007,NA,TV-14,9.0,"206,899",N/A
-932,tt5988370,Reis,Hüdaverdi Yavuz,Orhan Aydin,2017,N/A,N/A,1.5,"71,978",N/A
-933,tt6911608,Mamma Mia! Here We Go Again,Ol Parker,Amanda Seyfried,2018,N/A,PG-13,6.7,"71,838",60
-934,tt1234719,Red Dawn,Dan Bradley,Chris Hemsworth,2012,"$44,794,936",PG-13,5.4,"71,551",31
-935,tt1433811,Disconnect,Henry Alex Rubin,Jason Bateman,2012,"$1,400,000",R,7.5,"71,721",64
-936,tt2334649,Fruitvale Station,Ryan Coogler,Michael B. Jordan,2013,"$11,010,136",R,7.5,"71,228",85
-937,tt7401588,Instant Family,Sean Anders,Mark Wahlberg,2018,N/A,PG-13,7.3,"70,946",57
-938,tt0167190,Hellboy,Guillermo del Toro,Ron Perlman,2004,"$59,035,104",PG-13,6.8,"300,200",72
-939,tt1655460,Wanderlust,David Wain,Paul Rudd,2012,"$17,255,675",R,5.6,"70,740",53
-940,tt5028340,Mary Poppins Returns,Rob Marshall,Emily Blunt,2018,N/A,PG,6.7,"70,167",66
-941,tt4849438,Baahubali 2: The Conclusion,S.S. Rajamouli,Prabhas,2017,"$18,977,072",Not Rated,8.2,"70,341",N/A
-942,tt0478087,21 & Over,Robert Luketic,Jim Sturgess,2008,"$81,159,365",PG-13,6.8,"222,776",48
-943,tt1126618,Morning Glory,Roger Michell,Rachel McAdams,2010,"$30,982,329",PG-13,6.5,"70,030",57
-944,tt0770703,What's Your Number?,Mark Mylod,Anna Faris,2011,"$14,008,193",R,6.1,"70,252",35
-945,tt0975645,Hitchcock,Sacha Gervasi,Anthony Hopkins,2012,"$6,002,708",PG-13,6.8,"70,252",55
-946,tt1726669,Killer Joe,William Friedkin,Matthew McConaughey,2011,"$1,800,000",R,6.7,"70,051",62
-947,tt1972571,A Most Wanted Man,Anton Corbijn,Grigoriy Dobrygin,2014,"$14,037,964",R,6.8,"70,068",73
-948,tt1619029,Jackie,Pablo Larraín,Natalie Portman,2016,"$13,958,679",R,6.7,"69,809",81
-949,tt7752126,Brightburn,David Yarovesky,Elizabeth Banks,2019,N/A,R,6.1,"68,086",44
-950,tt1365050,Beasts of No Nation,Cary Joji Fukunaga,Abraham Attah,2015,"$83,861",Not Rated,7.7,"68,597",79
-951,tt0790628,The Incredible Burt Wonderstone,Don Scardino,Steve Carell,2013,"$22,525,921",PG-13,5.9,"69,293",44
-952,tt3007512,The Water Diviner,Russell Crowe,Russell Crowe,2014,N/A,R,7.0,"69,347",50
-953,tt1341167,Four Lions,Christopher Morris,Riz Ahmed,2010,"$308,769",R,7.3,"69,028",68
-954,tt0884732,The Wedding Ringer,Jeremy Garelick,Kevin Hart,2015,N/A,R,6.6,"68,619",35
-955,tt1121096,Seventh Son,Sergei Bodrov,Jeff Bridges,2014,"$14,945,592",PG-13,5.5,"69,027",30
-956,tt1371150,This Is Where I Leave You,Shawn Levy,Jason Bateman,2014,"$26,730,317",R,6.6,"68,778",44
-957,tt3606752,Cars 3,Brian Fee,Owen Wilson,2017,"$152,603,003",G,6.7,"68,243",59
-958,tt5294550,All the Money in the World,Ridley Scott,Michelle Williams,2017,N/A,R,6.8,"68,415",72
-959,tt1582507,House at the End of the Street,Mark Tonderai,Jennifer Lawrence,2012,"$31,600,000",PG-13,5.6,"68,758",31
-960,tt2481498,"Extremely Wicked, Shockingly Evil and Vile",Joe Berlinger,Lily Collins,2019,N/A,R,6.6,"67,923",52
-961,tt1726592,Before I Go to Sleep,Rowan Joffe,Nicole Kidman,2014,N/A,R,6.3,"68,195",41
-962,tt2347569,Frances Ha,Noah Baumbach,Greta Gerwig,2012,"$3,900,000",R,7.5,"66,916",82
-963,tt5638642,The Ritual,David Bruckner,Rafe Spall,2017,N/A,TV-MA,6.3,"67,623",57
-964,tt3312830,Youth,Paolo Sorrentino,The Retrosettes,2015,"$1,882,275",R,7.3,"68,150",64
-965,tt1679335,Trolls,Mike Mitchell,Anna Kendrick,2016,N/A,PG,6.5,"68,304",55
-966,tt1491044,The Iceman,Ariel Vromen,Michael Shannon,2012,"$1,900,000",R,6.8,"68,176",60
-967,tt3863552,Bajrangi Bhaijaan,Kabir Khan,Salman Khan,2015,N/A,Not Rated,8.0,"67,900",N/A
-968,tt4729430,Klaus,Sergio Pablos,Jason Schwartzman,2019,N/A,PG,8.2,"65,797",65
-969,tt1374992,Upside Down,Juan Solanas,Jim Sturgess,2012,"$69,311",PG-13,6.4,"68,022",45
-970,tt1586265,What to Expect When You're Expecting,Kirk Jones,Cameron Diaz,2012,"$41,102,171",PG-13,5.7,"67,751",41
-971,tt4139588,Polar,Jonas Åkerlund,Mads Mikkelsen,2019,N/A,TV-MA,6.3,"67,919",19
-972,tt2387433,Dark Skies,Scott Stewart,Keri Russell,2013,"$17,411,930",PG-13,6.3,"68,040",50
-973,tt1486834,What If,Michael Dowse,Daniel Radcliffe,2013,"$2,743,895",PG-13,6.8,"67,457",59
-974,tt2377322,Deliver Us from Evil,Scott Derrickson,Eric Bana,2014,"$18,871,466",R,6.2,"67,408",40
-975,tt4513674,Café Society,Woody Allen,Steve Carell,2016,"$11,078,961",PG-13,6.6,"67,084",64
-976,tt1206885,Rambo: Last Blood,Adrian Grunberg,Sylvester Stallone,2019,N/A,R,6.2,"62,687",26
-977,tt5503686,Hustlers,Lorene Scafaria,Constance Wu,2019,N/A,R,6.3,"62,116",79
-978,tt2013293,The Wind Rises,Hayao Miyazaki,Hideaki Anno,2013,N/A,PG-13,7.8,"66,621",83
-979,tt1912398,God Bless America,Bobcat Goldthwait,Joel Murray,2011,N/A,R,7.2,"66,955",56
-980,tt1366344,The Sitter,David Gordon Green,Jonah Hill,2011,"$30,200,000",R,5.7,"66,775",39
-981,tt3717252,Underworld: Blood Wars,Anna Foerster,Kate Beckinsale,2016,"$30,348,260",R,5.8,"66,866",23
-982,tt4633690,Shot Caller,Ric Roman Waugh,Nikolaj Coster-Waldau,2017,N/A,R,7.3,"65,402",59
-983,tt1740707,Trollhunter,André Øvredal,Otto Jespersen,2010,N/A,PG-13,7.0,"66,292",61
-984,tt2531344,Blockers,Kay Cannon,Leslie Mann,2018,N/A,R,6.2,"65,891",69
-985,tt0364569,Oldboy,Chan-wook Park,Min-sik Choi,2003,"$637,778",R,8.4,"488,667",77
-986,tt6189022,Angel Has Fallen,Ric Roman Waugh,Gerard Butler,2019,N/A,R,6.4,"61,358",45
-987,tt1961175,American Assassin,Michael Cuesta,Dylan O'Brien,2017,N/A,R,6.2,"64,957",45
-988,tt3713166,Unfriended,Levan Gabriadze,Heather Sossaman,2014,"$31,354,666",R,5.5,"65,470",59
-989,tt6292852,I Am Mother,Grant Sputore,Rose Byrne,2019,N/A,TV-14,6.7,"65,169",64
-990,tt2051879,Europa Report,Sebastián Cordero,Daniel Wu,2013,"$125,475",PG-13,6.4,"65,062",68
-991,tt2294629,Frozen,Chris Buck,Kristen Bell,2013,"$400,736,600",PG,7.5,"551,637",75
-992,tt1711525,Office Christmas Party,Josh Gordon,Jason Bateman,2016,N/A,R,5.8,"65,411",42
-993,tt1355631,The Infiltrator,Brad Furman,Bryan Cranston,2016,N/A,R,7.0,"64,435",66
-994,tt4777008,Maleficent: Mistress of Evil,Joachim Rønning,Angelina Jolie,2019,N/A,PG,6.7,"62,084",43
-995,tt1591479,Act of Valor,Mike McCoy,Rorke Denver,2012,"$65,800,000",R,6.5,"64,922",40
-996,tt1473832,Bridget Jones's Baby,Sharon Maguire,Renée Zellweger,2016,"$24,089,465",R,6.5,"64,988",59
-997,tt1860242,The Highwaymen,John Lee Hancock,Kevin Costner,2019,N/A,R,6.9,"64,901",58
-998,tt1763303,The First Time,Jonathan Kasdan,Britt Robertson,2012,"$17,061",PG-13,6.8,"64,441",55
-999,tt3045616,Mortdecai,David Koepp,Johnny Depp,2015,"$6,847,536",R,5.5,"63,826",27
+880,tt1051904,Goosebumps,Rob Letterman,Jack Black,2015,76079946,PG,6.3,77215,60
+881,tt2358891,The Great Beauty,Paolo Sorrentino,Toni Servillo,2013,NA,Not Rated,7.8,76462,86
+882,tt3416532,A Monster Calls,J.A. Bayona,Lewis MacDougall,2016,3730982,PG13,7.5,76590,76
+883,tt1418377,"I, Frankenstein",Stuart Beattie,Aaron Eckhart,2014,15687400,PG13,5.1,76776,30
+884,tt1985949,Angry Birds,Clay Kaytis,Jason Sudeikis,2016,NA,PG,6.3,76208,43
+885,tt2357291,Rio 2,Carlos Saldanha,Jake T. Austin,2014,113691800,G,6.3,76093,49
+886,tt4530422,Overlord,Julius Avery,Jovan Adepo,2018,NA,R,6.6,75680,60
+887,tt1489887,Booksmart,Olivia Wilde,Kaitlyn Dever,2019,NA,R,7.2,72633,84
+888,tt1911658,Penguins of Madagascar,Eric Darnell,Tom McGrath,2014,70727688,PG,6.7,76034,53
+889,tt1020558,Centurion,Neil Marshall,Michael Fassbender,2010,122288,R,6.4,76177,62
+890,tt2057392,Eye in the Sky,Gavin Hood,Faisa Hassan,2015,NA,R,7.3,75929,73
+891,tt1219342,Legend of the Guardians: The Owls of Ga'Hoole,Zack Snyder,Emily Barclay,2010,54400000,PG,6.9,75714,53
+892,tt1220617,The Inbetweeners,N/A,Simon Bird,2008–2010,NA,TV-14,8.4,76331,N/A
+893,tt2179116,The Kings of Summer,Jordan Vogt-Roberts,Nick Robinson,2013,1300000,R,7.1,75489,61
+894,tt1126591,Burlesque,Steve Antin,Cher,2010,39440655,PG13,6.4,75089,47
+895,tt3882082,The Boy,William Brent Bell,Lauren Cohan,2016,30196680,PG13,6.0,74822,42
+896,tt0810913,Jack and Jill,Dennis Dugan,Adam Sandler,2011,74158157,PG,3.3,75324,23
+897,tt1954470,Gangs of Wasseypur,Anurag Kashyap,Manoj Bajpayee,2012,NA,R,8.2,75319,89
+898,tt1568921,The Secret World of Arrietty,Hiromasa Yonebayashi,Tom Holland,2010,19192510,G,7.6,73997,80
+899,tt3605418,Knock Knock,Eli Roth,Keanu Reeves,2015,285363,R,4.9,74227,53
+900,tt1600195,Abduction,John Singleton,Jake Andolina,2011,27600000,PG13,5.1,74464,25
+901,tt1781922,No Escape,John Erick Dowdle,Owen Wilson,2015,27274112,R,6.8,73656,38
+902,tt1152398,Beastly,Daniel Barnz,Alex Pettyfer,2011,27854896,PG13,5.6,74242,40
+903,tt0387199,Entourage,N/A,Kevin Connolly,2004–2011,NA,TV-MA,8.4,154272,N/A
+904,tt1528071,Horns,Alexandre Aja,Daniel Radcliffe,2013,511848,R,6.5,73725,46
+905,tt2436386,Project Almanac,Dean Israelite,Jonny Weston,2015,NA,PG13,6.4,73819,47
+906,tt3691740,The BFG,Steven Spielberg,Mark Rylance,2016,55472665,PG,6.4,73906,66
+907,tt1235522,Broken City,Allen Hughes,Mark Wahlberg,2013,19600000,R,6.2,73890,49
+908,tt1212428,The Lost City of Z,James Gray,Charlie Hunnam,2016,8554554,PG13,6.6,73697,78
+909,tt2726560,The Longest Ride,George Tillman Jr.,Britt Robertson,2015,NA,PG13,7.1,73644,33
+910,tt2017038,All Is Lost,J.C. Chandor,Robert Redford,2013,4300353,PG13,6.9,73517,87
+911,tt2980648,The Hundred-Foot Journey,Lasse Hallström,Helen Mirren,2014,46214579,PG,7.3,73276,55
+912,tt5886046,Escape Room,Adam Robitel,Taylor Russell,2019,NA,PG13,6.3,71973,48
+913,tt4846232,Good Time,Benny Safdie,Robert Pattinson,2017,1999047,R,7.4,71320,80
+914,tt1683526,Detachment,Tony Kaye,Adrien Brody,2011,48868,Not Rated,7.7,73040,52
+915,tt2387559,Delivery Man,Ken Scott,Vince Vaughn,2013,30659817,PG13,6.4,72989,44
+916,tt0098084,Pet Sematary,Mary Lambert,Dale Midkiff,1989,NA,R,6.6,90631,38
+917,tt1512235,Super,James Gunn,Rainn Wilson,2010,200000,R,6.7,72843,50
+918,tt1242432,I Spit on Your Grave,Steven R. Monroe,Sarah Butler,2010,92401,R,6.3,72768,27
+919,tt1605717,Frank,Lenny Abrahamson,Domhnall Gleeson,2014,NA,R,7.0,72857,75
+920,tt3522806,Mechanic: Resurrection,Dennis Gansel,Jason Statham,2016,21203260,R,5.7,72722,38
+921,tt1840417,The Words,Brian Klugman,Dennis Quaid,2012,11434867,PG13,7.0,72756,37
+922,tt2002718,Machete Kills,Robert Rodriguez,Danny Trejo,2013,5658869,R,5.6,72553,41
+923,tt7984766,The King,David Michôd,Tom Glynn-Carney,2019,NA,R,7.3,70837,62
+924,tt3203606,Trumbo,Jay Roach,Bryan Cranston,2015,NA,R,7.5,71959,60
+925,tt2082197,Barfi!,Anurag Basu,Ranbir Kapoor,2012,2804874,Not Rated,8.1,71787,N/A
+926,tt2568862,Going in Style,Zach Braff,Michael Caine,2017,NA,PG13,6.6,71958,50
+927,tt2870612,"As Above, So Below",John Erick Dowdle,Perdita Weeks,2014,NA,R,6.2,71227,38
+928,tt2649554,Midnight Special,Jeff Nichols,Michael Shannon,2016,NA,PG13,6.6,71895,76
+929,tt1261945,Sex and the City 2,Michael Patrick King,Sarah Jessica Parker,2010,95328937,R,4.5,71528,27
+930,tt1336608,Rock of Ages,Adam Shankman,Julianne Hough,2012,38509342,PG13,5.9,71743,47
+931,tt0877057,Death Note,N/A,Mamoru Miyano,2006–2007,NA,TV-14,9.0,206899,N/A
+932,tt5988370,Reis,Hüdaverdi Yavuz,Orhan Aydin,2017,NA,N/A,1.5,71978,N/A
+933,tt6911608,Mamma Mia! Here We Go Again,Ol Parker,Amanda Seyfried,2018,NA,PG13,6.7,71838,60
+934,tt1234719,Red Dawn,Dan Bradley,Chris Hemsworth,2012,44794936,PG13,5.4,71551,31
+935,tt1433811,Disconnect,Henry Alex Rubin,Jason Bateman,2012,1400000,R,7.5,71721,64
+936,tt7401588,Instant Family,Sean Anders,Mark Wahlberg,2018,NA,PG13,7.3,70946,57
+937,tt2334649,Fruitvale Station,Ryan Coogler,Michael B. Jordan,2013,11010136,R,7.5,71715,85
+938,tt0167190,Hellboy,Guillermo del Toro,Ron Perlman,2004,59035104,PG13,6.8,300200,72
+939,tt1655460,Wanderlust,David Wain,Paul Rudd,2012,17255675,R,5.6,70740,53
+940,tt5028340,Mary Poppins Returns,Rob Marshall,Emily Blunt,2018,NA,PG,6.7,70167,66
+941,tt4849438,Baahubali 2: The Conclusion,S.S. Rajamouli,Prabhas,2017,18977072,Not Rated,8.2,70341,N/A
+942,tt0478087,21 & Over,Robert Luketic,Jim Sturgess,2008,81159365,PG13,6.8,222776,48
+943,tt1126618,Morning Glory,Roger Michell,Rachel McAdams,2010,30982329,PG13,6.5,70030,57
+944,tt0770703,What's Your Number?,Mark Mylod,Anna Faris,2011,14008193,R,6.1,70252,35
+945,tt1726669,Killer Joe,William Friedkin,Matthew McConaughey,2011,1800000,R,6.7,70051,62
+946,tt0975645,Hitchcock,Sacha Gervasi,Anthony Hopkins,2012,6002708,PG13,6.8,70252,55
+947,tt1972571,A Most Wanted Man,Anton Corbijn,Grigoriy Dobrygin,2014,14037964,R,6.8,70068,73
+948,tt1619029,Jackie,Pablo Larraín,Natalie Portman,2016,13958679,R,6.7,69809,81
+949,tt7752126,Brightburn,David Yarovesky,Elizabeth Banks,2019,NA,R,6.1,68086,44
+950,tt1365050,Beasts of No Nation,Cary Joji Fukunaga,Abraham Attah,2015,83861,Not Rated,7.7,68597,79
+951,tt0790628,The Incredible Burt Wonderstone,Don Scardino,Steve Carell,2013,22525921,PG13,5.9,69293,44
+952,tt3007512,The Water Diviner,Russell Crowe,Russell Crowe,2014,NA,R,7.0,69347,50
+953,tt1341167,Four Lions,Christopher Morris,Riz Ahmed,2010,308769,R,7.3,69028,68
+954,tt0884732,The Wedding Ringer,Jeremy Garelick,Kevin Hart,2015,NA,R,6.6,69179,35
+955,tt1121096,Seventh Son,Sergei Bodrov,Jeff Bridges,2014,14945592,PG13,5.5,69027,30
+956,tt1371150,This Is Where I Leave You,Shawn Levy,Jason Bateman,2014,26730317,R,6.6,68778,44
+957,tt3606752,Cars 3,Brian Fee,Owen Wilson,2017,152603003,G,6.7,68243,59
+958,tt1582507,House at the End of the Street,Mark Tonderai,Jennifer Lawrence,2012,31600000,PG13,5.6,68758,31
+959,tt5294550,All the Money in the World,Ridley Scott,Michelle Williams,2017,NA,R,6.8,68415,72
+960,tt2481498,"Extremely Wicked, Shockingly Evil and Vile",Joe Berlinger,Lily Collins,2019,NA,R,6.6,67923,52
+961,tt1726592,Before I Go to Sleep,Rowan Joffe,Nicole Kidman,2014,NA,R,6.3,68195,41
+962,tt2347569,Frances Ha,Noah Baumbach,Greta Gerwig,2012,3900000,R,7.5,68635,82
+963,tt5638642,The Ritual,David Bruckner,Rafe Spall,2017,NA,TV-MA,6.3,67623,57
+964,tt3312830,Youth,Paolo Sorrentino,The Retrosettes,2015,1882275,R,7.3,68150,64
+965,tt1679335,Trolls,Mike Mitchell,Anna Kendrick,2016,NA,PG,6.5,68304,55
+966,tt1491044,The Iceman,Ariel Vromen,Michael Shannon,2012,1900000,R,6.8,68176,60
+967,tt3863552,Bajrangi Bhaijaan,Kabir Khan,Salman Khan,2015,NA,Not Rated,8.0,67900,N/A
+968,tt4729430,Klaus,Sergio Pablos,Jason Schwartzman,2019,NA,PG,8.2,65797,65
+969,tt4139588,Polar,Jonas Åkerlund,Mads Mikkelsen,2019,NA,TV-MA,6.3,67919,19
+970,tt1374992,Upside Down,Juan Solanas,Jim Sturgess,2012,69311,PG13,6.4,68022,45
+971,tt1586265,What to Expect When You're Expecting,Kirk Jones,Cameron Diaz,2012,41102171,PG13,5.7,67751,41
+972,tt2387433,Dark Skies,Scott Stewart,Keri Russell,2013,17411930,PG13,6.3,68040,50
+973,tt1486834,What If,Michael Dowse,Daniel Radcliffe,2013,2743895,PG13,6.8,67457,59
+974,tt2377322,Deliver Us from Evil,Scott Derrickson,Eric Bana,2014,18871466,R,6.2,67408,40
+975,tt4513674,Café Society,Woody Allen,Steve Carell,2016,11078961,PG13,6.6,67084,64
+976,tt5503686,Hustlers,Lorene Scafaria,Constance Wu,2019,NA,R,6.3,62116,79
+977,tt1206885,Rambo: Last Blood,Adrian Grunberg,Sylvester Stallone,2019,NA,R,6.2,67506,26
+978,tt2013293,The Wind Rises,Hayao Miyazaki,Hideaki Anno,2013,NA,PG13,7.8,66621,83
+979,tt1912398,God Bless America,Bobcat Goldthwait,Joel Murray,2011,NA,R,7.2,66955,56
+980,tt1366344,The Sitter,David Gordon Green,Jonah Hill,2011,30200000,R,5.7,66775,39
+981,tt3717252,Underworld: Blood Wars,Anna Foerster,Kate Beckinsale,2016,30348260,R,5.8,66866,23
+982,tt4633690,Shot Caller,Ric Roman Waugh,Nikolaj Coster-Waldau,2017,NA,R,7.3,65402,59
+983,tt1740707,Trollhunter,André Øvredal,Otto Jespersen,2010,NA,PG13,7.0,66292,61
+984,tt2531344,Blockers,Kay Cannon,Leslie Mann,2018,NA,R,6.2,65891,69
+985,tt0364569,Oldboy,Chan-wook Park,Min-sik Choi,2003,637778,R,8.4,488667,77
+986,tt6189022,Angel Has Fallen,Ric Roman Waugh,Gerard Butler,2019,NA,R,6.4,61358,45
+987,tt1961175,American Assassin,Michael Cuesta,Dylan O'Brien,2017,NA,R,6.2,64957,45
+988,tt3713166,Unfriended,Levan Gabriadze,Heather Sossaman,2014,31354666,R,5.5,65470,59
+989,tt6292852,I Am Mother,Grant Sputore,Rose Byrne,2019,NA,TV-14,6.7,65169,64
+990,tt2051879,Europa Report,Sebastián Cordero,Daniel Wu,2013,125475,PG13,6.4,65062,68
+991,tt2294629,Frozen,Chris Buck,Kristen Bell,2013,400736600,PG,7.5,551637,75
+992,tt1711525,Office Christmas Party,Josh Gordon,Jason Bateman,2016,NA,R,5.8,65411,42
+993,tt4777008,Maleficent: Mistress of Evil,Joachim Rønning,Angelina Jolie,2019,NA,PG,6.6,65341,43
+994,tt1355631,The Infiltrator,Brad Furman,Bryan Cranston,2016,NA,R,7.0,64435,66
+995,tt1591479,Act of Valor,Mike McCoy,Rorke Denver,2012,65800000,R,6.5,64922,40
+996,tt1473832,Bridget Jones's Baby,Sharon Maguire,Renée Zellweger,2016,24089465,R,6.5,64988,59
+997,tt1860242,The Highwaymen,John Lee Hancock,Kevin Costner,2019,NA,R,6.9,64901,58
+998,tt1763303,The First Time,Jonathan Kasdan,Britt Robertson,2012,17061,PG13,6.8,64441,55
+999,tt3045616,Mortdecai,David Koepp,Johnny Depp,2015,6847536,R,5.5,63826,27
