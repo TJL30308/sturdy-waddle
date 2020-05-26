@@ -129,29 +129,7 @@
     <h3>Machine Learning</h3>
     <br>
     <p>Now that our data is <mark>E</mark>xtracted, <mark>T</mark>ransformed, and <mark>L</mark>oaded, we can begin building the model.<br>Using <mark>SKLEARN</mark> we begin training our model.</p>
-    <xmp>
-        %matplotlib inline
-        import matplotlib.pyplot as plt
-        import numpy as np
-        import pandas as pd
-
-        movies = pd.read_csv('Resources/Data/clean_data.csv')
-
-        X = movies["Metascore"].values.reshape(-1, 1)
-        y = movies["Box Office"].values.reshape(-1, 1)
-
-        from sklearn.model_selection import train_test_split
-
-        X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=42)
-
-        from sklearn.linear_model import LinearRegression
-
-        model = LinearRegression()
-
-        model.fit(X_train, y_train)
-    
-    </xmp>
-    <p>Lets see some STATS</p>
+    <br>
     <p>Starting with a <mark>random forest model</mark></p>
     <xmp>
         from sklearn.preprocessing import MinMaxScaler
@@ -175,6 +153,7 @@
         Mean Squared Error (MSE): 8269444975456968.0
         R-squared (R2 ): -0.14794964711248126
     </xmp>
+    <p>Let's look at the stats!</p>
     <p>Hmmm...not a great mse or r-sqauared...</p>
     <p>Let's try a <mark>linear regression</mark></p>
     <xmp>
@@ -193,7 +172,7 @@
         R-squared (R2 ): 0.017149122998371902
 
     </xmp>
-    <p>YIKES! That's a big MSE...let's predict something anyway</p>
+    <p>YIKES! That's still a big MSE...let's predict something anyway</p>
     <p>If we input a Metascore of <mark>75</mark> our model predicts box office revenue to be <mark>$61,275,883.71</mark></p>
     <br>
     <br>
